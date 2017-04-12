@@ -1,0 +1,1987 @@
+0.4.13 Release Code Slush
+1115a 6/7 Update: Wx 80 percent 'go'
+1120a 6/6 Update: Shuttle countdown on track; weather still 70 percent 'go'
+1215p 6/22 Update: Landing delayed one orbit
+1225p 6/17 Update:Spacewalk begins
+20 Pod Points For Free Information.
+240p 6/13 Update: Spacewalk begins
+340p 6/11 Update: Truss attached; spacewalk on tap
+350p 6/15 Update: Spacewalk underway; blanket repair goes smoothly
+4/11 1145a Update: CBS SPACE NEWS EMAIL ADVISORY
+440p 6/8 Update: Astronauts strap in for launch
+48 Hours E-mail Alert
+525a 6/15 Update: Mixed results in latest computer restart attempts
+60 Minutes E-mail Alert
+640p 6/20 Update: Entry briefing; MMT meeting
+650p 6/4 Update: Crew arrives at KSC
+6p 4/26 Update: Williams to come home on Atlantis; critical repair work on tap
+705p 6/17 Update: 4th spacewalk ends; all major objectives met
+abstruse: Dictionary.com Word of the Day
+accesing a hash of an array of hashes
+AccuWeather.com Alert Forecast
+AccuWeather.com Alert(tm) Advisory  (avcavc)
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+AJAX, Graphs and Perl backend
+A KILLER AMONG US
+Alternative Regulation for Electric and Gas Utilities  June 25-26  Boston
+Analysing a GC problem
+An Invitation to Talk
+Another test
+Anti-war mom Cindy Sheehan gives up her protest
+Apollo Reporting System assembly reposted: $6,000 in prizes
+April 11, 2007
+array and hash patter matching
+Arrow dereference operator question
+ATI X1400 and PowerState
+authentication check from file
+A VmWare alternative
+Barack Obama Gets Personal!
+BC for Monday April 30, 2007
+Beat rising fuel costs during summer travel
+BigInt shl/shr:  Fix negative shifts, promote Integers
+Blue Angels jet crashes during air show, killing aviator
+BREAKING NEWS ALERT FROM SHOWBIZ TONIGHT!
+Break up names
+BSD & MIT licenses compatible?
+Budget gap below $244B, says White House
+Bug#426060: /usr/share/images/desktop-base not empty upon purge
+Bug#431883: dcraw license does not give permission to distribute modified versions or source alongside
+Building libraries with the Samba4 build system
+Build module on one box and move to another box?
+Build status as of Sun Apr 29 00:00:02 2007
+Build status as of Sun Jun 10 00:00:02 2007
+Build status as of Sun Jun 17 00:00:02 2007
+Build status as of Sun Jun  3 00:00:01 2007
+Build status as of Wed Apr 18 00:00:02 2007
+Build status as of Wed May  9 00:00:02 2007
+Cabot Wealth Advisory 4/23/07 - Apple vs. eBay
+Cabot Wealth Advisory 6/18/07 - Is it too Late to Invest in China?
+Cabot Wealth Advisory 6/4/07 - You Can Win By Thinking Big
+Cabot Wealth Advisory  Good News and Bad News
+Cabot Wealth Advisory - Time to Bank Profits?
+Cambium Learning Technologies/KESI Engineering Position
+Can mysql-nonfree be resurrected?
+Can you explain this
+Capacity Markets  June 4-6, 2007  Washington DC
+Carbon Sequestration Development & Finance Summit July 11-13 Houston
+Cash freerolls Every Hour
+CBS Evening News with Katie Couric E-Mail Alert
+CBSNews.com News Alert! 9 Killed In South Carolina Furniture Store Fire
+CBSNews.com News Alert! At Least Two Dead In Kansas City Mall Shooting
+CBSNews.com News Alert! Birkhead Says Test Shows He Fathered Anna Nicole's Baby
+CBSNews.com News Alert!Cruise Ship Runs Aground In Alaska
+CBSNews.com News Alert! Feds To Block Import Of Some Fish From China
+CBSNews.com News Alert! One Of Guns In Va. Massacre Tied To Roanoke Gun Shop
+CBS News Sunday Morning: Royal attraction
+CBS SportsLine Daily Sports Report
+[cc-community] A question on CC and civil arrangements
+[cc-community] CC Citizen News Channel -- GroundReport TV
+[cc-community] Video Slam: New CC initiative in Australia
+[cc-community] Wiki politics 2
+[cc-devel] [ cctools-Patches-1745559 ] Reworked code to ignore
+C++ Development contest: $1,500 in prizes
+Celebrating the Beatles!
+celerity: Dictionary.com Word of the Day
+change directory help in perl
+Changing the vfs set_nt_acl calls to return NTSTATUS.
+character encoding & regex
+Cheap Flights to Cancun; Hotels at Bargain Rates; Great European Destinations
+Checking if a file in a directory is older than 20 mins.
+Class/Role namespace links
+CNN Alerts: bush
+CNN Alerts: bush, etc.
+CNN Breaking News
+CNN.com Daily Top 10
+CNN Political Ticker AM, Friday, April 13, 2007
+CNN Political Ticker AM, Friday, May 4, 2007
+CNN Political Ticker AM, Monday, May 7, 2007
+CNN Political Ticker AM, Tuesday, May 15, 2007
+CNN Political Ticker AM, Tuesday, May 29, 2007
+CNN Political Ticker AM, Tuesday, May 8, 2007
+Computer with Debian preinstalled
+CORRECTION: TB Traveler and Family Speak Out!
+CORRECTION: TopCoder(R) Single Round Match brought to you by NSA
+Coverage analysis for tests of configuration and build tools
+Creating 100 buttons!
+Customer Communications for Utilities  June 27 - 28, 2007  Boston, MA
+Daily Power Report
+[d@DCC] [Fwd: Comments on Bill C-453: Why backing Hollywood is bad
+[d@DCC] [Fwd: Getting copies of replies to petitions]
+Dealing with Federal Inaction on Illegal Immigration
+DebianArtwork portal
+Debian Etch Desktop any negative review?
+Debian RT: ftp.debian.org == saens  not updating
+dectalk express with Linux-2.6.21.5
+Delivery failure for MORNINGGRIND
+Delivery failure for PRIMETIME
+Detecting whether a script was called via CGI or the command line
+*.dev = docs/dev/*.pod ??
+Developing and Launching New Products and Services for Utilities May 17-18  Dallas
+Die neue Computercommunity Compunnity! ist Online!
+Difference between $ and $$ in function defn
+Diff on a database structure
+discomfit: Dictionary.com Word of the Day
+disconsolate: Dictionary.com Word of the Day
+Distributed Energy Resources-Emerging Business Models for Utilities  June 14-15   Austin, TX 
+Does PAC Validation Require External Communication?
+draft NEWS update for 0.4.13
+Dual licensing
+Dual screen and Macbook
+eine super seite
+Electric Power Planning July 23-24  San Francisco
+Email Alert: 402 Pod Points from iPodSweepstakes
+Energy Jobs Update: Current Postings
+Energy Options & Hedging -=?iso-8859-1?B?oA==?=Valuing & Trading Option Risk   June 5-8  San Diego 
+Error compiling libsmb examples 3.0.26pre1-SVN-build-22419
+eructation: Dictionary.com Word of the Day
+Exclusive with Al Pacino!
+Executing Perl 6 code using PIR backend
+: Favor confirmar
+fiat: Dictionary.com Word of the Day
+fix SASL "GSSAPI" bind against w2k3
+FNC Alert
+Fonix DecTalk RT
+Forecasting Using Technical Analysis  June 19-20  Santa Fe
+Former First Lady Nancy Reagan
+FoTW: src/debug.c -- function and macro do the same thing
+FOXNews.com CEO NewsBrief - April 12, 2007
+FOXNews.com CEO NewsBrief - April 23, 2007
+FOXNews.com CEO NewsBrief - April 25, 2007
+FOXNews.com CEO NewsBrief - June 12, 2007
+FOXNews.com CEO NewsBrief - June 15, 2007
+FOXNews.com CEO NewsBrief - May 8, 2007
+Frankfurt symbol tip!
+FUNCDOC
+Fwd: Biz.Yahoo.com 8200600
+[Fwd: Proposed patches for inclusion in Samba 3.0.25a]
+Fwd: TWO loops and ONE if statement
+Gas Turbine and Fossil Power Fundamentals  Aug 21-23 Chicago
+gentoo dropping speakup support
+Get Timely IGCC and Carbon Management Updates
+Google Alert - bush
+GretaWire
+grml and x
+GRML swspeak?
+Hannah Storm: Country Music Mecca 
+hardware options
+Harry Smith: Spring Has Sprung
+Having trouble porting an application to MS-Windows
+Help Required
+Hop Off The IT Certification Merry-Go-Round Onto The CBT XPress
+House passes Iraq withdrawal timetable
+House, Senate pass war funding bill
+How can i make a perl program lauch another perl program that takes options
+how can we track large bzr diffs?
+How Gr8 is the G8?
+HowStuffWorks Automotive Newsletter May 15, 2007
+HowStuffWorks Computers & Electronics Newsletter April 19, 2007
+HowStuffWorks Lifestyle Newsletter June 14, 2007
+HowStuffWorks Lifestyle Newsletter June 21, 2007
+HowStuffWorks Lifestyle Newsletter June 7, 2007
+HowStuffWorks Lifestyle Newsletter May 24, 2007
+HowStuffWorks Science & Technology Newsletter April 23, 2007
+how to change Backlight-Brightness
+How to compile kernel with high memory support?
+how to decode it?
+How to perform filetests on unicode filenames?
+hp pavilion zv5260 connect to tv through a media cable
+Huge twister hammers Kansas town
+Hugh Hefner & His Three Ladies!
+I can't write the apropriate content to the file.
+idmap_ad and GC (was: Re: svn commit: samba r22342 - ...)
+I Hate find_vtable_meth_ns()
+Imagine what paradise feels like.
+imlib2: draw special-chars
+Information for Netflix, Inc.
+Information for NTELOS Holdings Corp.
+"Innocent"
+Install additional header-files to allow separate plugin builds
+In The News: Larry Birkhead, Richard Gere, Clyde Drexler
+In the News: Sanjaya, Sigourney Weaver, Mel Brooks
+In tonight's programme
+Intro to Electric Utility Systems for Non Engineers =?iso-8859-1?B?oA==?= June 14-15    Austin, TX
+Intro to Natural Gas/Natural Gas Transactions May 15-17  Dallas
+invective: Dictionary.com Word of the Day
+IO::Socket::INET client hangs on no server  on windoze
+[Ip-health] AP -- Lack of doctors and nurses killing AIDS patients, says MSF
+[Ip-health] AP on Edwards' health plan
+[Ip-health] Bangkok Post letter: Abbott's law firm's deceptions
+[Ip-health] Bloomberg on Generics and the Trade Deal
+[Ip-health] Brand-Name Drug Industry Alarmed At IPR Precedent Of FTA Template
+[Ip-health] Brazil's CL for Efavirenz
+[Ip-health] Canada's Lost leadership on AIDS
+[Ip-health] Datamonitor Report: AIDS Market To Grow
+[Ip-health] Economic Times (India): Centre weighs Canada model for price regulation of patented drugs
+[Ip-health] Edwards' Prize Proposal in the NYT
+[Ip-health] Export of under patent medicine by Bangladeshi pharmaceutical industries
+[Ip-health] FWD: [hivaidssg] G8 docs
+[Ip-health] Fw: G8 on Innovation
+[Ip-health] Huffington Post: The Politics of Intellectual Property Rights and
+[Ip-health] Indian Govt asks novartis to withdraw patent challenge - Reuters news
+[Ip-health] IP-Watch: US Investigators In Geneva To Review US Balance On IP, Public Health
+[Ip-health] IP-Watch: WHO Members Reach Preliminary Agreement On TRIPS And Malaria
+[Ip-health] June 7: Hearing on KORUS FTA at US International Trade Commission
+[Ip-health] Kaiser News: Thailand Will Maintain Compulsory Licenses for Kaletra,
+[Ip-health] Letter to Thai Ambassador from the UK's Stop AIDS Campaign
+[Ip-health] Microsoft's Brief on KSR vs. Teleflex
+[Ip-health] MSF: G8 Declaration Will Directly Harm Access to Medicines Across the
+[Ip-health] New Peru/Panama text
+[Ip-health] Novartis buys exclusive rights to anti-smoking `vaccine`
+[Ip-health] Open Letter of LAC Civil Society to LC in Thailand
+[Ip-health] Patent Barriers and the Clinton Foundation announcement
+[Ip-health] Peter Zura on Toyota's $25 per car compulsory license on Paice transmission patents
+[Ip-health] Pfizer Tries Boosting Its Image In Nigeria
+[Ip-health] Program of 15th Annual Fordham Conference: INTERNATIONAL INTELLECTUAL PROPERTY LAW & POLICY
+[Ip-health] Projected financial implications for adopting Brazilian resolution (prepared by Secretariat)
+[Ip-health] Reimportation vote today, but also later
+[Ip-health] Re: Ip-health digest, Vol 1 #2380 - 2 msgs
+[Ip-health] Reuters piece on Clinton supporting Thai and Brazilian CL decisions
+[Ip-health] S Basheer on Indian Patent Act
+[Ip-health] Sign-on to expand WHO Essential Medicines List for products that are
+[Ip-health] Some initial observations on the Satwant Reddy Report
+[Ip-health] (SUN): Brazil: Moves on compulsory license after failed talks with drug company
+[Ip-health] Survey: 61% in US favor CLs
+[Ip-health] Thai GPO May Sue USA for Innovation
+[Ip-health] THAILAND MINISTER CONSIDERING MORE COMPULSORY LICENSES
+[Ip-health] Thailand: Plans to Import Generic Aluvia
+[Ip-health] The future of the medical bill (re:: Novartis cases in India)
+[Ip-health] US Congress members want Thailand removed from "priority watch
+[Ip-health] WHO Press release: Partners commit to global action against forgotten diseases
+[Ip-health] WHO technical briefing: Technical briefing: Public Health, Innovation and Intellectual property
+[Ip-health] Worldwide student competition brings WTO debate battle to Geneva
+ipw2200 on Gateway running etch
+IRS e-News for Small Businesses
+=?ISO-8859-1?Q?Re:_Probleme_de_lancement_gnome_apr=E8s_MAJ?=
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+=?iso-8859-2?Q?Re:_TTSynth_Is_Available_Again?=
+Issue with PAC and des-cbc-crc
+Is this license DFSG Free ?
+I've broken the build.
+JSON won't make test
+June 2007 HP Promotional newsletter for Andrew
+June 8, 2007
+Keeping a process alive..
+KURZEL G7Q
+Latest Speech-Dispatcher CVS build and questions.
+LDB base DN semantics
+[LH] And on the Tori front...
+[LH] Go Fug Yourself takes on Alison Goldfrapp
+[LH] Kate is everywhere
+[LH] Re: Love-Hounds Digest, Vol 53, Issue 9
+[LH] Smallville
+libacpi - general purpose library for acpi
+License discussions in Debian (was: discussion with the FSF: GPLv3, GFDL, Nexenta)
+lint/splint Makefile stuff
+linux and roadrunner
+list.digital-copyright.ca mailing list memberships reminder
+[long] Last call draft of GPL v3
+loop auto-incrementing array elements
+Lou vs. the Southern Poverty Law Center
+mailman config
+mailman.eppg.com mailing list memberships reminder
+malloc casts (was: [perl #42746] [PATCH] Continuing Parrot/C++ cleanups)
+MASSACRE AT VA TECH: The shooter and the victims. In an hour-long special, we continue live from Blacksburg on the CBS EVENING NEWS with Katie Couric
+Massacre at Virginia Tech
+May 23, 2007
+Memory leaks
+Memory leaks with threads
+Minimum wage increase inches closer
+Missing for a Year & Found Alive!
+mol
+MSNBC, CBS take Imus off air
+MSN-list Digest, Vol 7, Issue 100
+MSN-list Digest, Vol 7, Issue 101
+MSN-list Digest, Vol 7, Issue 102
+MSN-list Digest, Vol 7, Issue 112
+MSN-list Digest, Vol 7, Issue 116
+MSN-list Digest, Vol 7, Issue 129
+my podracer script
+Natural Gas 101  April 25-26 Phoenix; May 8-9 Chicago;  June 13-14  Houston
+Natural Gas Futures Dip Slightly After EIA Report
+Near-Supersonic-Speed MCSE Certification
+Need Help Installing Win32:SerialPort
+Need idea for doing automatic iteration, please.
+NERC Reliability Standards, July 23-24  San Francisco
+Net::Ping Bug found?
+New assembly competition: $5,400 in prizes!
+new CD mirror: ftp.br.debian.org
+new debian etch speakup works with dectalk express
+New mailling list practices
+New Power Executive-- This week's issue
+New Private Message from Sussan Kamara on TrustedOpinion
+New SEC Document(s) for Napster
+New SEC Document(s) for Netflix, Inc.
+New SEC Document(s) for NTELOS Holdings Corp.
+New SEC Document(s) for ONEOK Inc.
+New SEC Document(s) for SatCon Technology Corporation
+Newsnight talking point
+News Summary
+News & Views | 04.16.07 & 04.17.07
+News & Views | 04.20.07
+News & Views | 04.24.07
+News & Views | 05.18.07
+News & Views | 06.02.07-06.03.07
+News & Views | 06.20.07
+News & Views | 06.29.07
+News & Views | Cindy Sheehan is Back
+New TopCoder(R) Studio contest posted
+New UK foreign secretary named
+New & Views | 06.04.07
+Nor'easter pounds New York and East Coast
+North Korea to shut plutonium reactor in 3 weeks
+Nov-D: Article: California Prison package hailed (rehabilitation policy seen as a major shift)
+Nov-D: US: Employers Grapple With Medical Marijuana Use 
+Odd Memory Corruption
+Officials: U.S. to take legal action against China
+Olmert criticised for Lebanon war
+ONEOK Announces Higher First-quarter 2007 Earnings; Reaffirms Guidance
+ONEOK Announces Stock Repurchase Program
+ONEOK Completes Stock Repurchase Program
+OTC Derivatives and ISDA  June 13, 2007  Chicago
+OT: Directory Services and linux
+Outlook CSV Parser
+Pair guilty of Shaftesbury murder
+Palestinian government dismissed
+Paris Hilton headed back to the slammer!
+Parrot 0.4.11 released
+Parrot 0.4.13 "Clifton" Released
+parrot question and stacked patches
+parse help
+[patch 39/44] cifs convert to new aops
+[PATCH 4/10] Debian patch: add an option to not update mtab for
+Patched 3.0.24 tree for CVE-2007-2444, CVE-2007-2446,
+[PATCH] refactor sys_setgroups and add BSD egid support
+[PATCH] Re: [perl #42616] Parrot won't build with perl-5.6.
+[PATCH] Re-work Parrot_process_args
+Paulson: China must push for reform
+Performance Benchmarking for Utilities  May 23-24  Seattle WA
+[perl #39426] [BUG] Can't build with cygwin. 
+[perl #41897] [BUG]:  Parrot::Pmc2c::STMRef gets 'subroutine prederef redefined' warning 
+[perl #42072] [BUG]:  pmc2c.pl:  Does anyone (know how to) use the 'no-body' option? 
+[perl #42337] [PATCH]:  Configure.pl:  Refactor list of steps into Parrot::Configure::Step::List 
+[perl #42383] [TODO] imcc - if frame->s.file was allocated free it 
+[perl #42429] [BUG]:  docs/configuration.pod:  Confusing use of term 'test' 
+[perl #42429] [BUG]:  docs/submission.pod:  Confusing use of term 'test' 
+[perl #42475] [PATCH] Change asm() to __asm__() 
+[perl #42508] [CAGE] cleanup pmc null tests 
+[perl #42533] [TODO] do not check PIR coda for languages/dotnet/src/builtins.pir 
+[perl #42563] Makefile.PL dies in an ugly way when compiler not found 
+[perl #42597] [CAGE] Add Tests for C++ and C Style 
+[perl #42690] [TODO] optionally run configure/build tests during config process 
+[perl #42776] [BUG] is isa ok? 
+[perl #42848] [File of the Week] src/objects.c 
+[perl #42861] [BUG] config.pir broken in installed parrot 
+[perl #42872] [PATCH] Parrot::BuildUtils:  refactoring and additional tests 
+[perl #42898] [PATCH] src/library.c , honor PARROT_PREFER_SOURCE in extension guessing 
+[perl #42900] [PATCH] src/packfile.c Parrot_load_bytecode, improve error message 
+[perl #42918] [PATCH] src/library.c use mem_sys_free instead of free() 
+[perl #42975] [BUG] t/tools/ops2pmutils/08-sort_ops.t experiencing test failure when warning was not emitted 
+[perl #43007] [PATCH] docs/configure/files.pod contributed in 'reconfigure' branch 
+[perl #43008] [PATCH] docs/tests.pod:  Expand discussion of testing of Perl 5 components of Parrot 
+[perl #43048] imcc constant folding div by zero bug 
+[perl #43108] [PATCH] Getting Parrot compiled with C++ - Part one 
+[perl #43134] [TODO] Find a generalised way to determin location of Fink 
+[perl #43148] [TODO] Rename rpath hash element to be more general (config/init/hints/darwin.pm) 
+[perl #43149] [TODO] Fake header entry necessary in config/init/hints/linux.pm? 
+[perl #43164] [TODO] update RESPONSIBLE_PARTIES 
+[perl #43173] [TODO] Need config support for a null command (config/inter/progs.pm) 
+[perl #43245] t/op/bitwise.t #27 Fails with JIT 
+[perl #43246] [CAGE] Replace string_from_const_cstring() with string_from_cstring() 
+[perl #43298] [TODO] config/auto/memalign.pm:  Write unit tests 
+[perl #43301] [TODO] config/gen/parrot_include.pm:  Write unit tests 
+[perl #43312] [TODO] config/auto/gmp.pm:  Write unit tests 
+[perl #43320] [TODO] config/auto/isreg.pm:  Write unit tests 
+[perl #43322] [TODO] config/auto/pack.pm:  Write unit tests 
+[perl #43330] [TODO] config/inter/libparrot.pm:  Write unit tests 
+[perl #43333] [TODO] config/auto/cpu.pm:  Write unit tests 
+[perl #43342] [TODO] config/init/miniparrot.pm:  Write unit tests 
+[perl #43348] [TODO] config/auto/cgoto.pm:  Write unit tests 
+[perl #43375] Parrot configuration option exec-prefix:  hyphen vs. underscore 
+[perl #43420] [BUG] No rule to make target `src/path.str' 
+[perl #43424] [TODO] pdd15 objects documentation incorrect (callmethod)  
+[perl #43462] [PATCH] some clearups, illegal memory accessing 
+.perl, nested arrays, parens and a bug with .perl after hyperop
+Perl-package with C-Files
+PE Today: Let The Ashcroft Soar
+PE Today: No Paris, Please
+PE Today: The Manifesto
+PE Today: The Man (Not) In The Bubble
+phantasmagoria: Dictionary.com Word of the Day
+Police have preliminary ID of campus gunman
+Police: Mom hangs kids, self -- baby survives
+Polyline
+Power Trading Master Agreements  June 14 2007 Chicago;  July 20, Houston
+problem with readline
+Prompt in Net::Telnet
+pure perl replacment for "/usr/bin/file"
+Python bindings patches.
+Q about svn r20243
+qt on GNOME and gtk+ on KDE deuglyfication.
+[R] 2 questions about loading packages
+[R] 9 Courses: Upcoming July 2007 R/S+ schedule by XLSolutions Corp
+[R] acf and pacf plot
+[R] A coding question involving variable assignments in ifelse()
+[R] Alerte de l'antivirus de l'IPC: file85.eml\raglans.png
+[R] anova on data means
+[R] aov problem
+[R] A particular shuffling on a vector
+[R] A question about logical controls and function arguements
+[R] A question about POSIXct
+[R] ARIMA with more than one seasonality period
+[R] automating merging operations from multiple dataframes
+[R] ayuda con macros
+[R] Barplot by two variables
+[R] basic problem but can't solve it
+[R] BATCH
+[R] Biostatistician Opportunities at Vanderbilt
+[R] Bug in R 2.4.1 ?
+[R] Building package: What does this message about rcompgen imply?
+[R] calculating co-spectra and quad-spectra
+[R] Can I treat subject as fixed effect in linear model
+[R] Cause of error message in cov function?
+[R] Centering a legend
+[R] Changing axis lable text size in plots?
+[R] cmdscale(eurodist)
+[R] Cochran-Armitage
+[R] coefficients regression
+[R] comparing fit of cubic spline
+[R] comparing two matrices, row by row
+[R] comparing two vectors
+[R] Competing Risks Analysis
+[R]  compiling from source on Vista
+[R] complex contrasts and logistic regression
+[R] Computing fundamental harmonics from a periodogram
+[R] computing logrank statistic/test
+[R] Conditional power, predictive power
+[R] Conditional Sums for Index creation
+[R] control margin when plotting polygons?
+[R] Could not find lmer function in {Matrix} package
+[R]  data frame
+[R] Dealing with data frame column names beginning with a numeric
+[R] Determination of % of misclassification
+[R] distance method in kmeans
+[R] distribution graph
+[R] draw two plots on a single panel
+Re: 2 questions: "echo" and starting automatically
+Re: 3.0.25 publish printer problem
+Re: 3d modeling copyright and Industrial design rights
+Re: About a reg expression ?:
+Re: accesing a hash of an array of hashes
+Re: Acer TravelMate 4222WLMi
+Re: A computer issue, how should I deal with this? Best solution?
+Reading a particular line from a file
+Re: a few questions about packages on modified speakup
+Re: AJAX, Graphs and Perl backend
+Realloc problem in 3.0.25rc3?
+Re: "all rights reserved" and GPL
+Re: alsa questions?
+Re: alva strangulate
+Re: Announce: DebianArt.org
+Re: applying a regular expression on the continuous output of ping command
+Re: A problem about IPC::Open2
+Re: Array of Array refs
+Re: Array to Hash
+Re: Arrow dereference operator question
+Re: Attempting to update files blanks them instead
+Re: A VmWare alternative
+Re: a way to disable ADS in winbind in samba3
+Re: Bacula: GPL and OpenSSL
+Re: basename equivalent?
+Re: Beginner needs help
+Re: Best notebook
+Re: Binary search
+Re: book on perl
+Re: Boost License
+Re: Broken idmap interface design
+Re: Broken runtime linking on AIX (maybe others)
+Re: BSD & MIT licenses compatible?
+Re: BUG 4063: strptime() for libreplace
+Re: Bug#431109: [PROPOSAL] Disambiguate of Section 12.5, Deprecate
+Re: Bug#431109: [PROPOSAL] Disambiguate of Section 12.5, Deprecate GPL/LGPL symlinks
+Re: bug in perl or in my head ;-)
+Re: Bugzilla
+Re: Building with icc
+Re: Build module on one box and move to another box?
+Re: call system command
+Re: Can a font with an unfree character be free?
+Re: cat (.sh) in Perl
+Re: [cc-community] Business
+Re: [cc-community] Copyleft presentation for school librarians...
+Re: [cc-community] Does BY-SA extend to a newspaper?
+Re: [cc-community] Do you know about case study on why it isbetter
+Re: [cc-community] introducing myself and an idea
+Re: [cc-community] Spread this number... the politics of  code...
+Re: [cc-community] Strayform - where artists and fans connect
+Re: [cc-community] Strayform - where artists and fans connect to
+Re: [cc-community] Strayform - where artists and fans connecttofund
+Re: [cc-community] Wikitravel wins Webby Award for Best Travel
+Re: [cc-devel] Embedded License Format, OO.org
+Re: [cc-devel] Exempi, namespaces
+Re: [cc-devel] GStreamer and CC-relevant tags
+Re: [cc-devel] Media Hosting Wishlist
+Re: [cc-devel] [PATCH] Read XMP Sidecar
+Re: [cc-devel] [Tracker] Extracting Embedded Licenses
+Re: [cc-devel] XMP Embedding in TIFF, Bug?
+Re: CC Sampling Plus 1.0
+Re: CGI Header
+Re: Changing Softsynths
+Re: character encoding & regex
+Re: Chinese word problem
+Re: [CIFS question]help me please
+Re: Code duplication is bad :/
+Re: Command line usage [solved]
+Re: Command Splice()
+Recommended Maintenance Laptop (IBM/Lenovo)
+Re: Comparing the Perl encrypted files
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+Re: complex sort
+Re: Component Object Model
+Re: Computer with Debian preinstalled
+Re: Consolidating kernel-related parts of opening a file?
+Re: Copying files from a Vista machine fails
+Re: Copyright verification needed
+Re: Could you please forward this proposed license to Teosto? (was: Re: Choosing a license for Frets on Fire songs)
+Re: Count co-occurrences
+Re: CPAN shell (LWP, Net::FTP) won't authenticate properly
+Re: Creating 100 buttons!
+Re: crypt() and /etc/shadow entries do not match?
+Re: [CTDB and GFS] some troubles joining domain
+Re: ctdb status
+Re: Curl Process for Perl
+Re: Current file name used by $*ARGS filehandle
+Re: Currently on 3.0.10 and want to upgrade
+Re: Cutoff for major changes to 3.0.26 is scheduled for Monday,
+Re: DBD::Oracle for perl testing issues
+Re: [d@DCC] Death by Copyright
+Re: [d@DCC] Registering my opposition to Bill C-47
+Re: [Debconf-announce] DebConf7 Video Streaming "Mirrors" wanted
+Re: Debian Alsa
+Re: Debian Desktop Etch+1 - the long road to binoculars.
+Re: Debian GNU/Linux (kfreebsd anyone?) Lenny Desktop wishlist
+Re: Debian GNU/Linux (kfreebsd anyone?) Lenny Desktop wishlist thread
+Re: Debian Trademarks Summary
+Re: Declaring constants in perl
+Re: dectalk or double talk advice
+Re: Default filehandles, or topicalizing filehandles, or something
+Re: Definitely unslung
+Re: Delete a particular line from file
+Re: Delivery Status Notification (Failure)
+Re: dependecies in samba3
+Re: Deploy Perl script on Windows
+Re: desktop-base and KDE
+Re: Detect Vista symlinks with libsmbclient
+Re: did I get greedy quantifiers wrong ?
+Re: Did the svn server for samba 4 change?
+Re: Directory Services and linux
+Re: Disable the krb5 replay cache when ads_verify_ticket() call
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: Displaying of indentation
+Re: documentation standards (was "[svn:perl6-synopsis] r14421 -
+Re: documentation standards (was "[svn:perl6-synopsis] r14421 - doc/trunk/design/syn")
+Re: Documenting Perl6
+Re: Does =$*ARGS work?
+Re: Does PAC Validation Require External Communication?
+Re: Doubt about a government license
+Re: DPL's view of debian-legal (was: Debian Trademarks Summary)
+Re: dropline-gnome accessibility
+Re: Effective date grab
+Re: email text
+Re: emu10k1 compilation problms.
+Re: Error:Can't locate object method "prepare" via package "abc"
+Re: Error:Can't locate object method "prepare" via package "abc" at xyz.pm
+Re: Etch on a Thinkpad T23
+Re: Ethernet card Problem
+Re: exit code
+Re: explicit line termination with ";": why?
+Re: fc installation?
+RE: fc installation?
+Re: Feature Request homedir and shell mapping per user
+re: fedora and orca
+re: fedora livecd
+Re: Feeling Slushy
+Re: File Access + Thread Safe
+Re: Final text of GPL v3
+Re: find2perl output to array
+Re: First draft of AGPL v3
+Re: first swipe at ctdb spec file
+Re: Flushed pending centeris patch queue
+Re: foreach broken in my script
+Re: forking problem with dbd::mysql
+[Reform] 50mg x 10 pills US $ 6.00 Per Pill buy now
+[Reform] built
+[Reform] Creative Suite 3 Premium only $269
+[Reform] Den Eindruck eines mitten in der W.
+[Reform] If the user expands domain then we reload the servers.
+[Reform] Investition
+[Reform] Kamen Media
+[Reform] Massives Umsatzpotenzial
+[Reform] (no subject)
+[Reform] Schlau Geld investieren durch erste Information
+[Reform] The value must be in pixels and applies to both sides of the applet.
+Re: FOTW src/debug.c
+Re: FoTW: src/debug.c -- function and macro do the same thing
+Re: Fwd: [backlog] mirror list updates (this time to the public address)
+Regarding latest SpeechD-up CVS
+Regarding pattern matching
+Re: Gateway MT6451
+Re: GC bug on freebsd/x86, triggered by a perl6 test
+Re: GCC's manpage refers to sections that aren't in the manpage
+Re: Generalizing ?? !!
+Re: gentoo dropping speakup support
+Re: Getting a program pid
+Re: getting rid of mkproto.sh from Samba3
+Re: Get wirless working
+Regexp problem
+Regex using variable possibly containing metachars
+Re: gnu c library 2.6 or latest version for debian
+Re: Graphic Design Work
+Re: GRML swspeak?
+regular expression
+Re: hardware options
+Re: HardWare Synthesizers
+Re: hash containing a hash, sorting keys help
+Re: Hash Key is a Null Value
+Re: Hash of anonymous hashes
+RE: Having trouble porting an application to MS-Windows
+Re: Hello...
+Re: Hello all!
+Re: Help creating a random string in Perl
+Re: help with a bash script
+Re: help with crafting proper license header for a dual-licensing project
+Re: help with my wireless card, please
+Re: heretical thoughts was Re: Speakup dropped from Ubuntu
+Re: High-Frequency at The Bottom?
+Re: Hinner EDV: Correct Logo Usage?
+Re: How can I compare Bytes in a Binary File?
+Re: how do I use a module without installing it?
+Re: how to decode it?
+Re: How to eliminate the bareword error
+Re: How to insert an array in to the middle of another array after
+Re: How to return actual string rather than the address to the result string
+Re: How to set FTP module time out?
+Re: how to use xml::simple with nested for loops???
+Re: http://websvn.samba.org/cgi-bin/viewcvs.cgi?view=rev&rev=22860
+Re: IBM T22 S3 Savage Video Sarge to Etch Upgrade
+Re: idle_timeout processing in the parent smbd?
+Re: I Don't Understand The Context Allocation/Destruction Code
+Re: improving my code: array of references
+Re: Inconsistent results from file test (-X) operators
+Re: i need help with recordmydesktop
+Re: initial test version of CTDB clustered Samba available
+Re: Inserting Image in a Button or label.
+Re: Installing Debian Etch on a Thinkpad T61 ipw3945/ipw4965
+Re: interpolation of function reference in a here doc
+Re: IO::Socket::INET client hangs on no server on windoze
+Re: [Ip-health] drug naming/patents/exclusivity
+Re: ipw2200 on Gateway 4522 running etch
+Re: Is it piped?
+Re: Is Parrot 1.0 too late?
+Re: Is Perl 6 too late?
+Re: Issue with PAC and des-cbc-crc
+Re: Is this license DFSG Free ?
+Re: Iterate through a hashref using XML::Simple (real post)
+Re: Jeez, what hassle.
+Re: 'Keys' Question
+Re: Killing a process created using system
+Re: Knowledgetree Public License [KPL] v1.1.1
+Re: Leaving this list.
+Re: LGPL v3 compatibilty
+Re: [LH] Conclusion
+Re: [LH] Go Fug Yourself takes on Alison Goldfrapp 
+Re: [LH] Kate Bush -- Bad Neighbor!
+Re: [LH] Kate Bush -- Bad Neighbor! (more details)
+Re: [LH] Kate to tour? 
+Re: [LH] "She's Leaving Home"
+Re: License question: GPL+Exception
+Re: Limiting Exported Symbols on GCC
+re: linux connection dying
+Re: linux etch?
+Re: [Linux-ha-dev] CTDB and clustered Samba
+Re: linux still dying;potential errors
+Relocation of the pod_todo.t test
+Re: Logo trademark license vs. copyright license
+Re: [long] Last call draft of GPL v3
+Re: Looking for someone to repro BUG 4503
+Re: looping through a file
+Re: lynx links and forms in speakup
+Re: m-a a-i fglrx-kernel-src and m-a a-i alsa-source  failed
+Re: MAC and install CPAN
+[R] email the silly fuckers instead.
+Re: make test hangs in t/examples/shootout_1.pir
+Re: Matching of filename regular expression (was:pr warn die question)
+Re: Math::BigFloat
+Re: memcpy
+Reminder: Submissions due for the TCO07 Blog Contest!
+Re: modified fedora and software speech
+Re: modifying classes after they're instantiated
+Re: module installation problem
+Re: moving from amd to p3?
+Re: MPEG asks for MIME review for the MPEG21 file format
+[R] Empirical Complementary CDF
+Re: mutt pgp_create_traditional a bit broken?
+Re: Need Help Installing Win32:SerialPort
+Re: Nested loop
+Re: nevermind
+Re: new FAQs
+Re: New Ion3 licence
+Re: new vs ->new
+Re: Noob question re Kernel update and iptables
+Re: Nothing on display after suspend/resume
+Re: Nov-D: Article: California Prison package hailed (rehabilitation policy seen as a major shift)
+Re: Odd failure in t/postconfigure/02-revision_no_DEVELOPING.t
+Re: off-topic posts
+Re: Opinions on "Paul Hsieh derivative license"
+Re: OT: Duplicate messages
+Re: [OT] Re: Thoughts on comments
+Re: output with utf8
+Re: overriding posix::uname
+Re: P6 String Assertion Failure (diagnosis and fix)
+Re: Parrot and Perl 6 wikis moved to perlfoundation.org
+Re: Parrot in hardware
+Re: Parrot Project Management...
+Re: Passing Hashes to a Sub
+Re: Passing multiple mixed arguments to subs
+Re: pass variable to another program
+Re: "Password must change" versus sambaPwdMustChange attribute
+Re: [PATCH 1/4] Make sure groups[0] is the effective gid on FreeBSD.
+Re: [PATCH 4/10] Debian patch: add an option to not update mtab for
+Re: [Patch] avoid code duplication in winbind_nss
+Re: [PATCH] Expanding nested groups in winbindd_getgrnam()
+Re: Patch for Invalid loader fixup error on gwen (hp-ux 11.11) in
+RE: Patch for Invalid loader fixup error on gwen (hp-ux 11.11) in
+Re: [PATCH] Python bindings: Don't choke if LIBS flag contains -pie
+Re: [PATCH] Re: [perl #42774] [PATCH] Configure.pl --gc=libc doesn't
+Re: [PATCH] Shadow Copy Improvements
+Re: [PATCH] Test Samba4 PKINIT code, update socket-wrapper
+Re: Paths, Spaces, Getopt::Long
+Re: pci or usb synth
+Re: PDD15 implementation status
+Re: [perl #39063] [RESOLVED] [TODO] ResizableBooleanArray uses 64 bytes per bit of information 
+Re: [perl #40392] [CAGE] convert C<internal_exception> to C<real_exception>
+Re: [perl #41168] graceful "no compiler" error message?
+Re: [perl #41569] t/distro/file_metadata.t fails on win32
+Re: [perl #41826] vtable method 'find_method' not working in PIR
+Re: [perl #41894] segfault happens when invoking poll op
+Re: [perl #41975] Makefile is missing dependencies on lib/Parrot/Pmc2c/PMETHODs.pm
+Re: [perl #42408] Re: [PATCH] refactor vtable overriding, delegate.c generation
+Re: [perl #42412] Configure.pl things =no is true 
+Re: [perl #42430] [PATCH] make :vtable imply :method
+Re: [perl #42594] [PATCH] Probable buffer overflow in compilers/imcc/parser_util.c
+Re: [perl #42615] [PATCH] C89 doesn't allow non-constant initializers
+Re: [perl #42619] t/stm/llqueue_2.pir sometimes hangs
+Re: [perl #42620] PGE 'Out of memory' panics.
+Re: [perl #42692] install error
+Re: [perl #42692] install error with output
+Re: [perl #42768] [PATCH] Enum cleanups
+Re: [perl #42774] [PATCH] Configure.pl --gc=libc doesn't compile
+Re: [perl #42864] [BUG] Copying a :vtable sub also copies :vtable information
+Re: [perl #42905] [PATCH] implement vtable overriding for PDD15, bugfix
+Re: [perl #42918] [PATCH] src/library.c use mem_sys_free instead of
+Re: [perl #42919] [BUG] and [PATCH] overriding 'invoke' requires current object to be explicitly passed
+Re: [perl #42975] [BUG] t/tools/ops2pmutils/08-sort_ops.t experiencing test failure when warning was not emitted 
+Re: [perl #43002] [PATCH] Minor enhancements for kate syntax highlighting
+Re: [perl #43006] Tail call force-frees current context
+Re: [perl #43008] [PATCH] docs/tests.pod:  Expand discussion of testing
+Re: [perl #43033] [PATCH] Silence warning
+Re: [perl #43041] [PATCH] don't run t/distro/file_metadata.t from release tarballs
+Re: [perl #43105] [PATCH] function mmd.c::mmd_expand_y: newly allocated memory unitialized
+Re: [perl #43134] [TODO] Find a generalised way to determin location of Fink
+Re: [perl #43219] segfault in tcl
+Re: [perl #43384] [TODO] create 'make uninstall' target
+Re: [Perl 5.8.8 on WinXP] Command line usage
+RE: [Perl 5.8.8 on WinXP] Command line usage
+Re: Perl6 new features
+Re: perl and postgres
+Re: PERL arrays
+Re: Perl Device Manager?
+Re: Perl directory listing program
+Re: Perl error
+Re: Perl vs. Java for string manipulation & regex
+Re: PMC architecture discussion
+Re: POD <-> Code entanglement
+Re: Poll: Debian Trademark Policy
+Report: U.S. investment in Iraqi reconstruction at risk
+Re: posible bug in credentials code
+Re: posix locking and the brlock database
+Re: Possible Fix?
+Re: printing content of found file
+Re: Problem sorting hash
+Re: Problems referencing variable value in another loop
+Re: Problems with arrays
+Re: problem with readline
+Re: Problem with runaway format
+Re: [PROPOSAL] Disambiguate of Section 12.5, Deprecate GPL/LGPL symlinks
+Re: Proposal: drop libmsrpc.so in Sa,mba 3.0.26
+Re: Proposal for a new CDD sub-project: Debian4Business
+Re: [Proposal] Punt support for security = share when using
+Re: pr warn die question
+Re: pugs: aborting smoke tests
+Re: Query in pack and unpack functions
+Re: Query regarding Java/perl interface
+Re: Question about devil-linux
+Re: question about netsamlogon_cache_get
+Re: Quick question on symbolic link support
+Re: Quirky comments
+Re: [R]
+Re: [R] Abline in dotplot
+Re: [R] Abstract plot
+Re: [R] Accessing plots in Trellis graphics
+Re: [R] Accessing R applications from Web
+Re: [R] accessing unexported functions
+Re: [R] add line to data.frame
+Re: [R] A function for raising a matrix to a power?
+Re: [R] aggregate function
+Re: [R] Aggregate to find majority level of a factor
+Re: [R] align() function missing in R ?
+Re: [R] Allocating shelf space
+Re: [R] A matrix with mixed character and numerical columns
+Re: Ram disk filling up - File::COPY
+Re: [R] A More efficient method?
+Re: [R] ANOVA non-sphericity test and corrections (eg,
+Re: [R] applying max elementwise to two vectors
+Re: [R] applying rbind to list elements
+Re: [R] A problem about all possible sequences
+Re: [R] A programming question
+Re: [R] A question about logical controls and function arguements
+Re: [R] Area() artefacts??
+Re: [R] A simple question about PRINCOMP
+Re: [R] A simple question regarding plot of nls objects
+Re: [R] A structured output from for(i...)?
+Re: [R] axis labels in multiple plots
+Re: [R] basic problem but can't solve it
+Re: [R] Beginners Question
+Re: [R] Binary decision problem
+Re: [R] blotched y-axis text in plot function
+Re: [R] Bootstrapped standard errors
+Re: [R] Bug in R 2.4.1 ?
+Re: [R] bug or feature?
+Re: [R] Calculating column percentages of a table
+Re: [R] Calculating means in a new table
+Re: [R] Calculating Percentile in R
+Re: [R] Calling LAPACK functions directly from R
+Re: [R] can I get same results using lme and gls?
+Re: [R] cat() to STDERR
+Re: [R] Change the mode of a list
+Re: [R] Character coerced to factor and I cannot get it back
+Re: [R] Choosing a column for analysis in a function
+Re: [R] Chosing a subset of a non-sorted vector
+Re: [R] codamenu crash
+Re: [R] codamenu() :Error in coda.options....
+Re: [R] Comparing multiple distributions
+Re: [R] comparing two matrices, row by row
+Re: [R] compiling from source on Vista
+Re: [R] Computing an ordering on subsets of a data frame
+Re: [R] connecting to process?
+Re: [R] Construct time series objects from raw data stored in csv
+Re: [R] controling the size of vectors in a matrix
+Re: [R] conversion into capital letter
+Re: [R] converting a row of a data.frame to a vector
+Re: [R] converting character strings to numbers
+Re: [R] Converting "list of data frame" to data frame
+Re: [R] converting proc mixed to lme for a random effects
+Re: [R] creating a multivariate set of variables with
+Re: [R] Data consistency checks in functions
+Re: [R] data file import - numbers and letters in a matrix(!)
+Re: [R] data mining/text mining?
+Re: [R] data type for block data?
+Re: [R] decimal values
+Re: [R] Design library installation problem
+Re: [R] Difference between prcomp and cmdscale
+Re: [R] Different fonts on different axes
+Re: [R] Difficulty with formatting scatter.smooth output
+Re: [R] displaying intensity through opacity on an image (ONE
+Re: [R] Display Multiple page lattice plots
+Re: [R] Dissimilarity
+Re: [R] Dissimilarity Analysis
+Re: [R] distance method in kmeans
+Re: [R] dist label names
+Re: [R] division of decimal number
+Re: [R] Dominant eigenvector displayed as third (Marco Visser)
+Re: [R] download.file - it works on my Mac but not on Windows.
+Re: [R] Dropdown boxes in tcltk and R
+Re: readahead() which is Linux-only vs. posix_fadvise()
+Re: Recommended Maintenance Laptop (IBM/Lenovo)
+Re: redhat 7 with speakup question
+Re: Red Hat's Free fonts
+Re: Referring to source code within Perldoc: the new A<> code
+Re: Regarding file handling
+Re: Regarding pattern matching
+Re: Regarding running Linux with Speakup under a virtual machine with
+Re: Regarding the solution of this computer issue
+Re: regexp
+Re: regexp ...
+Re: Regexp
+Re: regular expression
+Re: regular expressions issue
+Re: Re: IBM T22 S3 Savage Video Sarge to Etch Upgrade
+Re: [R] element search
+Re: Remakes of older games
+Re: Removing decimal points
+Re: Request for GR: clarifying the license text licensing /
+Re: Request for GR: clarifying the license text licensing / freeness
+Re: Request for GR: clarifying the license text licensing / freeness issue
+Re: Request for kp6 compiler architecture review
+Re: Request for suggestions of DFSG-free documentation licences
+Re: Request for suggestions of DFSG-free documentation licenses
+Re: Request licence review
+Re: [R] equivalent of windialog on unix??
+Re: reqular expr for string manip.
+Re: [R] erratic behavior of match()?
+Re: [R] Error: bad value ? what is that?
+Re: [R] error: GLX extension missing on server
+Re: [R] Error in if (!length(fname) || !any(fname == zname)) { :
+Re: [R] Error in plot.new() : figure margins too large
+Re: [R] Estimates at each iteration of optim()?
+Re: [R] Estimation of Dispersion parameter in GLM for Gamma Dist.
+Re: Restrictions on invocationID?
+Re: Rev 5367: Try bzr and, if this is a brz checkout,
+Re: [R] exaustive subgrouping or combination
+Re: [R] Excel calling R functions
+Re: [R] Excel data into R
+Re: [R] export to a dat file that SAS can read
+Re: [R] Extracing "Interval of Time" in seconds in R
+Re: [R] Extracting approximate Wald test (Chisq)
+Re: [R] extracting text contained in brackets ("[ ... ]") from a
+Re: [R] Extracting t-tests on coefficients in lm
+Re: [RFC] extension guessing, functionally better loader behavior
+Re: [R] File path expansion
+Re: [R] Filled step-function?
+Re: [R] Fitting a model to a test set
+Re: [R] Formating the data
+Re: [R] fSeries - Ox - ver: 240.10068 - Steps to make it work
+Re: [R] Fwd: Re: shell.exec() on Windows, unexpected behavior
+Re: [R] Fwd: Using odesolve to produce non-negative solutions
+Re: [R] FW: R
+Re: [R] gam function in the mgcv library
+Re: [R] Generating artificial datasets with a specific correlation
+Re: [R] Gentleman and Ihaka , 2000 paper question
+Re: [R] German Map in package maps
+Re: [R] Getting names of objects passed with "..."
+Re: [R] getting t.test to work with apply()
+Re: [R] Gini coefficient in R
+Re: [R] GLM dist Gamma-links identity and inverse
+Re: [R] Goodness of fit for hclust?
+Re: [R] Grahpics problem
+Re: [R] Graphically show population density for a specific
+Re: [R] Greatest common divisor of two numbers
+Re: [R] hello
+Re: [R] help comparing two median with R
+Re: [R] Help in ARIMA
+Re: [R] help with lmer,
+Re: [R] Histogram
+Re: [R] Histograms with strings, grouped by repeat count (w/ data)
+Re: [R] Histogram using frequency data
+Re: [R] history in R.app on Mac
+Re: [R] How do I back transforme ordinary log-krigged prediction
+Re: [R] How to check for existence url from within a function?
+Re: [R] how to code the censor variable for "survfit"
+Re: [R] how to estimate dose from respond given drc package result
+Re: [R] how to evaluate a dynamic variable?
+Re: [R] how to find how many modes in 2 dimensions case
+Re: [R] How to group a count
+Re: [R] how to image.plot a XY grid file into a lat-lon map
+Re: [R] How to install previous packages after upgrading to R 2.5.0?
+Re: [R] How to latex tables?
+Re: [R] How to obtain coefficient standard error from the result of
+Re: [R] how to obtain the OR and 95%CI with 1 SD change of a
+Re: [R] how to plot two graphics in one window
+Re: [R] How to reference or sort rownames in a data frame
+Re: [R] How to return more than one variable from function
+Re: [R] How to solve differential and integral equation using R?
+Re: [R] http proxies: setting and unsetting
+Re: [R] "if" within a function
+Re: [R] importing excel-file
+Re: [R] Incidence estimated from Kaplan-Meier
+Re: [R] Increasing precision of rgenoud solutions
+Re: [R] information extraction
+Re: [R] Innstalling packages in Vista
+Re: [R] installing new packages
+Re: [R] Installing SJava - problem
+Re: [R] Install SciView under Windows Vista
+Re: [R] Interactive plots?
+Re: [R] intersect more than two sets
+Re: [R] intersect of 2 data frames
+Re: [R] inverse cumulative distribution
+Re: [R] iplots problem
+Re: [R] Is it possible to pass a Tcl/Tk component as argument to
+Re: [R] Issues with Sweave and inclusion of graphics from nlme
+Re: [R] kernel smooth for tw-dimensional data
+Re: [R] keyboard issue in R console
+Re: [R] L1-SVM
+Re: [R] Labelling boxplot with fivenumber summary
+Re: [R] labels
+Re: [R] lapply not reading arguments from the correct environment
+Re: [R] Latex \ell symbol in plotmath
+Re: [R] lattice: aligning independent graphs
+Re: [R] lattice contourplot error
+Re: [R] Lattice: hiding only some strips
+Re: [R] learning lattice graphics
+Re: [R] Legend outside plotting area
+Re: [R] levelplot and unequal cell sizes
+Re: [R] levelplot in lattice
+Re: [R] Levene Test with R
+Re: [R] like apply(x,1,sum), but using multiplication?
+Re: [R] Lines connecting the boxes in a boxplot
+Re: [R] Lines in dotchart & dotplot ?
+Re: [R] Lines to plots with a for-loop
+Re: [R] Linux equivalent to windows menus and script window
+Re: [R] lm for matrix of response...
+Re: [R] Loading problem with R2HTML package
+Re: [R] Loading problem with XML_1.9
+Re: [R] locked environment and inheritance
+Re: [R] Log-likelihood function
+Re: [R] Log-Returns
+Re: [R] Long-tail model in R ... anyone?
+Re: [R] Looking for a cleaner way to implement a setting
+Re: [R] Lookups in R
+Re: [R] Loop and cbind
+Re: [R] Loop and function
+Re: [R] macro sous R
+Re: [R] mahalanobis
+Re: [R] Make sign test show test statistics
+Re: [R] making a counter of consecitive positive cases in
+Re: [R] "maps" package
+Re: [R] match rows of data frame
+Re: [R] Matlab import
+Re: [R] matrix and data frame
+Re: [R] Matrix column name
+Re: [R] Matrix library, CHOLMOD error: problem too large
+Re: [R] Matrix or grid conversion of spatial data
+Re: [R] Matrix *package*, CHOLMOD error: problem too large
+Re: [R] Memory management
+Re: [R] merge
+Re: [R] minimum from matrix
+Re: [R] minimum of each row in a matrix
+Re: [R] model.frame: how does one use it?
+Re: [R] more woes trying to convert a data.frame to a
+Re: [R] more woes trying to convert a data.frame to a numerical
+Re: [R] moving-window (neighborhood) analysis
+Re: [R] Need Help with robustbase package: fitnorm2 and plotnorm2
+Re: [R] negative number to positive number
+Re: [R] Neural Nets (nnet) - evaluating success rate of predictions
+Re: [R] Nicely formatted summary table with mean,
+Re: [R] nlme fixed effects specification
+Re: [R] nls.control( ) has no influence on nls( ) !
+Re: [R] Normal and Poisson tail area expectations in R
+Re: [R] normality tests
+Re: [R] Odp:  Anova
+Re: [R] Odp:  Odp:  pie initial angle
+Re: [R] off-topic: affine transformation matrix
+Re: [R] opinions please: text editors and reporting/Sweave?
+Re: [R] [OT] 'gv' and fractional points
+Re: [R] [OT] Is data copyrightable?
+Re: [R] outlying
+Re: [R] Overlaying lattice graphs
+Re: [R] Overlaying lattice graphs (continued)
+Re: [R] overplots - fixing scientific vs normal notation in output
+Re: [R] partial correlation significance
+Re: [R] Per-row minima for matrix
+Re: [R] pgup/pgdown in R Graphics Window under Linux
+Re: [R] Piecewise cubic Hermite interpolation [FOUND]
+Re: [R] Please, remind a function name
+Re: [R] plot cyrillic characters on MacOS X
+Re: [R] plot problems
+Re: [R] Plot symbols dimensions
+Re: [R] plot via xyplot not being saved
+Re: [R] Polar graph of time and tide
+Re: [R] Populate matrix from data.frame
+Re: [R] Positioning in xyplot
+Re: [R] Possible ld.exe problem when building
+Re: [R] Power calculation with measurement error
+Re: [R] Preconditions for a variance analysis
+Re: [R] probabilty plot
+Re: [R] Problem/bug with smooth.spline and all.knots=T
+Re: [R] Problem installing packages
+Re: [R] problems in loading MASS
+Re: [R] Problems with na.rm=T
+Re: [R] Problem with ?curve
+Re: [R] Problem with dgamma ?
+Re: [R] Problem with lme4
+Re: [R] Problem with workspace loading after languageR use
+Re: [R] Programming Problem (for loop, random # control,
+Re: [R] proportional sampling
+Re: [R] pseudo-R2 or GOF for regression trees?
+Re: [R] p-value from GEE why factor 2*pnorm?
+Re: [R] Query about finding correlations
+Re: [R] Question about "evalq"
+Re: [R] Question about PCA with prcomp
+Re: [R] Question about setReplaceMethod
+Re: [R] Question for svm function in e1071
+Re: [R] Questions about bwplot
+Re: [R] Quick question on merging two time-series of different
+Re: [R] R2 always increases as variables are added?
+Re: [R] Random Forest
+Re: [R] Random Number Generator of Park and Miller
+Re: [R] R as a server on Linux
+Re: [R] Read every second line from ASCII file
+Re: [R] Reading a web page in pdf format
+Re: [R] read items
+Re: [R] read.spss (package foreign) and SPSS 15.0 files
+Re: [R] Read Windows-like .INI files into R data structure?
+Re: [R] Reasons to Use R
+Re: [R] Reasons to Use R  [Broadcast]
+Re: [R] Recoding
+Re: [R] Reducing the size of pdf graphics files produced with R
+Re: [R] Refactor all factors in a data frame
+Re: [R] reference in article
+Re: [R] : regular expressions: escaping a dot
+Re: [R] Re : Half of a heatmap
+Re: [R] Re : I need some help please!
+Re: [R] reinforce library to re-load
+Re: [R] Removing Inf and Inf values from a fata frame
+Re: [R] Repeated Measures design using lme
+Re: [R] Repeat if
+Re: [R] residuals and predict
+Re: [R] Result depends on order of factors in unbalanced designs
+Re: [R] Retrieve part of (top right corner) of a "plot.data.frame"
+Re: [R] R-excel
+Re: [R] R function command on a list
+Re: [R] R help
+Re: [R] "R is not a validated software package.."
+Re: [R] R logistic regression - comparison with SPSS
+Re: [R] R:Maximum likelihood estimation using BHHH and BFGS
+Re: [R] Rmpi and rsprng for Windows
+Re: [R] R News, volume 7,
+Re: [R] RODBC connections w/o specific database
+[R] error: GLX extension missing on server
+[R] Error in if (!length(fname) || !any(fname == zname)) { :
+[R] Errors with systemfit package and systemfitClassic()
+[R] Error with corCompSymm and lme fit for repeated measures
+Re: [R] Rounding?
+Re: [R] R vs. Splus in Pharma/Devices Industry
+Re: [R] RWinEdt and Windows Vista
+Re: [R] S4 object slot of type 'call'
+Re: [R] Sample correlation coefficient question NOT R question
+Re: [R] sas.get problem
+Re: [R] scatterplot3d fine tuning
+Re: [R] search path question
+Re: [R] select if + other questions
+Re: [R] selecting characters from a line of text
+Re: [R] Selecting complementary colours
+Re: [R] sem is not "taking" the model
+Re: [R] sequences
+Re: [R] sequentially process a list
+Re: [R] Setting up a blank table with column names in the hard drive
+Re: [R] Simulated annealing using optim()
+Re: [R] Size of an object in workspace
+Re: [R] Skipping rows and columns in large matrix
+Re: [R] Social Network Analysis
+Re: [R] software comparison
+Re: [R] source a specific function
+Re: [R] [SPAM] - Re: R package development in windows -
+Re: [R] Special characters on axis lables
+Re: [R] specify font family for postscript device [was: Re:
+Re: [R] Spectral analysis
+Re: [R] Spectral Decomposition
+Re: [R] Spectral Decomposition [OOPS]
+Re: [R] speed issues / pros & cons: dataframe vs. matrix
+Re: [R] Split a vector(list) into 3 list
+Re: [R] S-plus coding
+Re: [R] standard error of skewness
+Re: [R] Standard Probability Distributions.
+Re: [R] Starting R within an VBA makro
+Re: [R] stringsAsFactor global option (was "character coerced to a
+Re: [R] substitute "x" for "pattern" in a list,
+Re: [R] summing values according to a factor
+Re: [R] Survival statistics--displaying multiple plots
+Re: rsync port down in ftp.debian.org
+Re: [R] taskPR
+Re: [R] Tcltk
+Re: [R] tcltk support....
+Re: [R] test for nested factors
+Re: [R] Testing for existence inside a function
+Re: [R] Textpad help
+Re: [R] The R Book by M. J. Crawley
+Re: [R] Tinn-R editor question: saving syntax colour options.
+Re: [R] to draw a smooth arc
+Re: [R] Tools For Preparing Data For Analysis
+Re: [R] Too slow to execute!
+Re: [R] translate SAS code
+Re: [R] trouble with snow and Rmpi
+Re: [R] TukeyHSD fails on my data
+Re: [R] Two sample t.test, order of comparions
+Re: [R] unequal variance assumption for lme (mixed effect model)
+Re: [R] Unit Testing Frameworks: summary and brief discussion
+Re: Running VMWare workstation for Windows with Linux LiveCD
+Re: [R] Unwanted white borders on semi-transparent polygons?
+Re: [R] update packages with R on Vista: error
+Re: [R] Updating R version
+Re: [R] Upgraded FC4 to FC5 - unable to start device X11 in R
+Re: [R] using "cut"
+Re: [R] using install.packages via proxy
+Re: [R] using lm() with variable formula
+Re: [R] Using power.t.test over a range of conditions
+Re: [R] Using subset() in a user-defined function
+Re: [R] Value at Risk
+Re: [R] weight
+Re: [R] Weighted least squares
+Re: [R] What is the maximum size of a matrix?
+Re: [R] windows completion in 2.5?
+Re: [R] working with fractions
+Re: [R] write
+Re: [R] Write text in the
+Re: [R] Writing custom functions for rpart
+Re: [R] Writing - specyfic format
+Re: [R] x axis problems
+Re: [R] xyplot() and controlling panel.polygon()
+Re: [R] xy plot key colors don't match plot
+Re: [S02] Sigils
+Re: S05 :exhaustive eg
+Re: S12: can(), signatures and casting
+Re: Samba3 memory usage, iconv
+Re: [SAMBA4] Faster schema loading
+Re: [Samba4] Making Samba4 winbind compatible to Samba3 winbind
+Re: [Samba4][PATCH] Updating the winbind protocol used in Samba4
+Re: Samba 4 TP5 plans
+Re: [SAMBA4] we should create just one test environment
+Re: [Samba] Binary_Packages/Debian
+Re: [Samba] Re: Win32 services management?
+Re: [Samba] Support for multiple file streams?
+Re: Samba TP6?
+RE: Samba TP6?
+Re: Santa Rosa Laptops
+Re: Scalar as FileHandle
+Re: scape . character
+Re: Segfault in "profiles" binary
+Re: Sending mail without a callback
+Re: setgroups problems on FreeBSD - proposed fix
+Re: Setting hwclock --localtime fails
+Re: Setting "winbind separator" to '\' in smb.conf
+Re: Short HOWTO on using git for Samba development
+Re: Should a dirhandle be a filehandle-like iterator?
+Re: Should the tests in LOCAL-REPLACE be part of configure?
+Re: Simple Encryption - what function/module could I use?
+RE: Simplest hash initialization with no value
+Re: simple tcp socket server:Is it possible, server wait for '!'
+Re: Slackware 11 aliases, anyone?
+Re: Slackware: kernel confusion
+Re: sl-modem-daemon and vgetty: supposed to work but how to config?
+Re: small problem with yum after reinstalling fedora core 6
+Re: [SMB] NTCreateANDX quesiotn
+Re: smbtree patch - adds option to print out share type
+Re: Snippet explanation please
+Re: Software speech opinions
+Re: [SOLVED!] Joining AD domain fails: "Failed to set
+Re: Sony or Toshiba? (corrected)
+Re: sorted hash positions
+Re: Sorting dir output
+Re: Sort + Use of uninitialized value
+Re: SOS: a question write to file!
+Re: SOS - perl script
+Re: Soundcard works for one account but not others
+Re: source code comments
+Re: Speakup and grml spelling
+Re: Speakup in userspace
+Re: Speakup kernel patch dropped from Ububtu Gutsy
+Re: Speakup reading keys in lynx
+Re: Speakup Ubuntu module suggestion
+Re: Speakup with Ubuntu
+Re: spelling was Re: GRML swspeak?
+Re: Splitting a CSV file at a variable number
+[R] Estimate Fisher Information by Hessian from OPTIM
+Re: String Manipulation
+Re: [sugar] #1560 NORM Trial-2: Activity launch not detected
+Re: [sugar] A place to point new developers
+Re: [sugar] CSound - csnd
+Re: [sugar] dbus-python requires autoconf-2.59c?
+Re: [sugar] Develop in sugar-jhbuild
+Re: [sugar] eBook Reader user interface
+Re: [sugar] eBook software
+Re: [sugar] embedding mozilla into an activity
+Re: [sugar] errors attempting sugar-jdbuild update
+Re: [sugar] Errors building sugar
+Re: [sugar] Errors sugar build
+Re: [sugar] Error starting up sugar
+Re: [sugar] GComprisXO progress
+Re: [sugar] GSoC new developer
+Re: [sugar] How to test Activities without a XO?
+Re: [sugar] IconButton using bundle icon file
+Re: [sugar] internationalization?
+Re: [sugar] key IDs
+Re: [sugar] New activities proposals due today...
+Re: [sugar] New runtime error
+Re: [sugar] [OLPC India] xbook : pdf viewer in $100 laptop
+Re: [sugar] Packages needed for Chat Activity?
+Re: [sugar] [PATCH] services/presence/: identify Buddies by "key
+Re: [sugar] [PATCH] services/presence/: move more of the
+Re: [sugar] [PATCH] services/presence/server_plugin: reorderimports
+Re: [sugar] [PATCH] unfreeze DCON when Sugar UI is (almost) ready
+Re: [sugar] Pyxpcom
+Re: [sugar] [pyxpcom] PyXPCOM viability and OLPC
+Re: [sugar] Rebe
+Re: [sugar] Smaller XO Sugar arrow cursor?
+Re: [sugar] Spreadsheets / Slideshows
+Re: [sugar] Sugar build fail at datastore
+Re: [sugar] Sugar datastore broken
+Re: [sugar] Tinderbox results, 20070606-1811.
+Re: [sugar] username
+Re: [sugar] Write Activity.
+Re: [sugar] xo bundle mime-type
+Re: svn commit: samba-docs r1120 - in trunk/smbdotconf/winbind: .
+Re: svn commit: samba r22202 - in
+Re: svn commit: samba r22214 - in
+Re: svn commit: samba r22318 - in branches: SAMBA_3_0/source/lib
+Re: svn commit: samba r22342 - in branches/SAMBA_3_0_25/source:
+Re: svn commit: samba r22370 - in branches/SAMBA_3_0_25/source: .
+Re: svn commit: samba r22505 - in
+Re: svn commit: samba r22509 - in branches:
+Re: svn commit: samba r22569 - in
+Re: svn commit: samba r22638 - in tags: .
+Re: svn commit: samba r22640 -
+Re: svn commit: samba r22651 - in branches: .
+Re: svn commit: samba r22731 - in branches/SAMBA_3_0/source: . tests
+Re: svn commit: samba r22737 - in branches:
+Re: svn commit: samba r22844 - in branches: SAMBA_3_0/source/auth
+Re: svn commit: samba r22874 - in
+Re: svn commit: samba r22958 -
+Re: svn commit: samba r22972 - in branches/SAMBA_4_0/source/setup: .
+Re: svn commit: samba r22982 - in branches/SAMBA_3_0/source/client:
+Re: svn commit: samba r23055 - in branches: SAMBA_3_0/source
+Re: svn commit: samba r23072 - in
+Re: svn commit: samba r23108 -
+Re: svn commit: samba r23108 - in
+Re: svn commit: samba r23120 - in branches/SAMBA_3_0_25/source:
+Re: svn commit: samba r23189 - in branches/SAMBA_4_0/source: script
+Re: svn commit: samba r23241 - in branches: SAMBA_3_0/source/smbd
+Re: svn commit: samba r23254 -
+Re: svn commit: samba r23290 - in
+Re: svn commit: samba r23358 - in branches: SAMBA_3_0/source/auth
+Re: svn commit: samba r23387 - in branches/SAMBA_3_0/source: .
+Re: svn commit: samba r23393 - in branches/SAMBA_3_0/source: lib
+Re: svn commit: samba r23465 - in branches:
+Re: svn commit: samba r23512 - in branches:
+Re: svn commit: samba r23553 - in branches: SAMBA_3_0/source/param
+Re: svn commit: samba r23597 - in branches/SAMBA_3_0/source/script:
+Re: svn commit: samba r23688 - in branches: SAMBA_3_0/source/passdb
+Re: [svn:parrot] r18369 - in trunk: config/gen/platform/cygwin config/gen/platform/generic config/gen/platform/netbsd config/gen/platform/openbsd config/gen/platform/solaris src src/jit/ppc src/jit/sun4 t/codingstd
+Re: [svn:parrot] r18414 - in trunk: lib/Parrot src
+Re: [svn:parrot] r18661 - trunk/config/init/hints
+Re: [svn:parrot] r19231 - trunk/languages/perl6/src/pmc
+Re: [svn:parrot] r19551 - trunk/src/pmc
+Re: [svn:perl6-synopsis] r14414 - doc/trunk/design/syn
+Re: [svn:perl6-synopsis] r14415 - doc/trunk/design/syn
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+Re: Swap encryption (via LUKS) and Hibernation (disk suspend)
+Re: synaptic? what no opensource driver?
+Re: t/codingstd/perlcritic.t needs to be optional
+Re: tdb_transaction_cancel
+Re: Text Formatters
+Re: The GPL and soundfonts
+Re: The module  constants
+Re: Thinkpad Saga Continues
+Re: three hds? is this possible?
+Re: Tie::Handle::CSV
+Re: Trouble installing with CPAN
+Re: Trying out Slackware
+Re: ttsynth help: download problem
+Re: TTSynth Is Available Again
+RE: TTSynth Is Available Again
+Re: TTSynth Is Here At Last
+Re: twinkle freeze
+Re: typo in tdb_firstkey?
+Re: Ubuntu 704 and speech. 
+Re: Uninstalling a PERL module
+Re: Uninstalling perl module
+Re: unit messages
+Re: Updates to work flow descriptions for GIT
+Re: Upgrading Debian to Testing with speakup
+Re: Usenet messages are appearing on beginners@perl.org
+Re: Usenet messages are appearing on beginners@perl.org [perl #43141]
+Re: using a homemade perl module
+Rev 11192: Start working on global registry backend tests. in
+Rev 112: fixed a fd bug (thanks volker) in
+Rev 11847: Improve the replace testsuite a bit. in
+Rev 11876: Output as few variables as possible. in
+Rev 11976: Fix EJS testsuite without using our. in
+Rev 11979: Fix tests for Samba3 client generator. in
+Rev 12123: Use context for loadparm functions. in
+Rev 12126: Fix include location. in
+Rev 133: when we get a lmaster request,
+Rev 138: make sure we notify ctdb when a node dies in
+Rev 140: use the common cmdline code in ctdbd in
+Rev 148: - merge from ronnie,
+Rev 153: merged cleanup from ronnie in http://samba.org/~tridge/ctdb
+Rev 177: added a useful tool for dumping a ctdb in
+Rev 188: moved status to ctdb_control in
+Rev 193: merge from peter in http://samba.org/~tridge/ctdb
+Rev 223: don't use stderr here - rely on logging in
+Rev 230: new files for updated events system in
+Rev 236: fixed a memory leak in the ctdb_control code in
+Rev 242: merged from ronnie in http://samba.org/~tridge/ctdb
+Rev 253: - fixed a crash bug after client disconnect in
+Rev 254: added a dumpmemory control,
+Rev 263: merged from ronnie in http://samba.org/~tridge/ctdb
+Rev 272: merge from ronnie in http://samba.org/~tridge/ctdb
+Rev 277: fixed debug message in http://samba.org/~tridge/ctdb
+Rev 287: make sure we ignore requeued ctdb_call packets of older
+Rev 291: the invalid dmaster is no longer needed in recovery in
+Rev 328: show ctdb control timeout in http://samba.org/~tridge/ctdb
+Rev 353: drop any partialialy send packets when we get a socket
+Rev 372: added an example ctdb event script in
+Rev 392: samba3 needs ctdb_private.h installed to build in
+Rev 399: don't start the transport connecting to the other nodes
+Rev 403: use our own netmask when deciding if we should takeover a
+Rev 404: tell newly connected nodes about any tcp tickle records
+Rev 415: better download instructions in
+Rev 428: another place we need to cope with the strange epoll fork
+Rev 432: make test now works again in http://samba.org/~tridge/ctdb
+Rev 470: clean out some more cruft in http://samba.org/~tridge/ctdb
+Rev 471: added health monitoring logic to ctdb,
+Rev 477: fixed error handling in event scripts in
+Rev 484: update flags in parent daemon too in
+Rev 485: get parents idea of recmode and recmaster when deciding if
+Rev 490: added admin commands to ban/unban nodes in
+Rev 503: update configure.ac for new code layout in
+Rev 530: layout copyright using a literal in
+Rev 531: fixed testparm calls in http://samba.org/~tridge/ctdb
+Rev 5353: forgot to check in privileges.h in
+Rev 5354: refactoring: Move initialization of regdb into a function
+Rev 5360: correct one indentation in
+Rev 5363: merge from upstream in
+Rev 539: fixed rendering in IE in http://samba.org/~tridge/ctdb
+Rev 556: - neaten up the command line for killtcp in
+Rev 591: This is a 2nd implemetation of a shadow copy module for
+Rev 78: merge from ronnie in http://samba.org/~tridge/ctdb
+Rev 90: fixed sending messages to ourselves in non-daemon mode in
+Re: "valid users = domain_user" without specifying domain
+Re: value of variable switches from ' ' to 'value'
+Re: Verified for Spam -RODIN- I2R: Problem Accessing Perl Modules Through .htaccess
+Re: VmWare
+Re: Volume ID
+Re: Web Module (Was: Perl6 new features)
+Re: ..weeding out bad debs off mirrors, was: Can I get some help, please?
+Re: What happened to Getopt::Std ?
+Re: What should file test operators return?
+RE: What's HTH?
+Re: why is (gid_t)-1 treated as a group mapping failure?
+RE: Win32 script cannot read command line argument.
+Re: Wireless network adapter: ndiswrapper loaded, but cannot
+Re: Wireless network adapter: ndiswrapper loaded, but cannot connect to network
+Re: Wireless Router
+RE: Wireless Router
+Re: with module fglrx loaded hibernate crashes my system
+Re: Working on punie + rindolf (the implementation) Reloaded
+Re: Writing data row at a time using OLE
+Re: wrt inotify problem
+Re: x and xx operators fail when given negatives
+[R] exemples, tutorial on lmer
+Re: xorg server error on init
+[R] Extracting approximate Wald test (Chisq) from coxph(..frailty)
+Re: 'x' vs. 'xx'
+Re: **{x,y} quantifier
+Re: YARQ: Yet Another Regex Question
+Re: yet another regex
+Re: zero width lookahead match
+[R] factanal
+[R] fixed effects anova in lme lmer
+[R]  for loops
+[R] Formating the data
+[R] Function to Sort and test AIC for mixed model lme?
+[R] Fwd:  connecting to process?
+[R] Fwd:  importing excel-file
+[R] Fwd: Re: Character coerced to factor and I cannot get it back
+[R] Fwd: RE:  importing sas datasets
+[R] generalized moment method
+[R] general question about plotting multiple regression results
+[R] graphics edge in win.metafile?
+[R] Grid-drawing in plot.its OR how to influence axTicks
+[R] Handling of arrays
+[R] heatmap and phylogram / dendogram ploting problem, ape package
+[R] hedonic
+[R] Help me understand colours on linux
+[R] Help with complex lme model fit
+[R] Help with pexp( )
+[R] hierarhical cluster analysis of groups of vectors
+[R] Hosmer-lemeshow test for survival
+[R] How can i compute error
+[R] How to get the number of modes using kde2d
+[R] how to get the position of an element in a vector ?
+[R] How to install RMySQL package in R 2.5 in Windows OS?
+[R]  How to use density function to find h_{k}
+[R] How to weight cases in R
+[R] http proxies: setting and unsetting
+[R] importing .dta files
+[R] installing packages
+[R] Installing SJava - problem
+[R] intersect filled.contour and polygon
+[R] I put your link, r-project.org,
+[R] =?iso-8859-1?q?R=B2_in_a_non-linear_regresion_analisys?=
+[R] Is this a bug?
+[R] .jinit() problem
+[R] kernel smooth for tw-dimensional data
+[R] Kolmogorov-Smirnov GoF test
+[R] Lattice: shifting strips to left of axes
+[R] Legend outside plotting area
+[R] limmaGUI
+[R] lmer error confusion
+[R] looking for equivalent of matlab's medfilt1 function
+[R] Mac OS X crash bug?
+[R] mardia's test
+[R] Matrix or grid conversion of spatial data
+[R] MDS size limitations
+[R] Memory Experimentation: Rule of Thumb = 10-15 Times the Memory
+[R] merge
+[R] merging dataframes with diffent rownumbers
+[R] Method dispatch for print() in package its
+[R] MICE for Cox model
+[R] modified test of phillips-perron
+[R] modify tick labels in 3D GAM plot
+[R] monthly least squares estimation
+[R] moving-window (neighborhood) analysis
+[R] Multiple color schemes for barchart (lattice)
+[R] My First Function: cryptic error message
+[R] NA in lm()
+[R] naive question about using an object as the name of another
+[R] Names in vector occurring in another vector
+[R] names not inherited in functions
+[R] NAs introduced by coercion in dist()
+[R] Need Help on Joining 2 text files in R
+[R] negative variances
+[R] Nested ANOVA in R
+[R] new data frame for loop
+[R] (no subject)
+[R] Odp:  hi
+[R] Odp:  number of days
+[R] Odp:  Odp:  pie initial angle
+[R] Off topic? Geographic data
+[R] optimising fitted distributions
+[R] [OT] 'gv' and fractional points
+[R] Overlaying lattice graphs (continued)
+[R] pacf
+[R] Packaging under Win32 / cygwin : ZoneAlarm conflict  [solved]
+[R] Passing a missing argument
+[R] pattern
+[R] penalized maximum likelihood estimator
+[R] Plot symbols dimensions
+[R] Plotting more errorbar-functions in one plot
+[R] Population genetics tests for neutral evolution
+[R] Potential junk email moved to Junk Folder
+[R] power of logistic regression in case control design
+[R]  priceIts and yahoo
+[R] print command
+[R] Print grid/ggplot to a metafile
+[R] problem assigning to indexed data frame element
+[R] Problem Building on Solaris 8
+[R] Problem installing Rmpi with lam on SGI SLES9
+[R] Problem installing R packages in OpenBSD
+[R] Problem loading library
+[R] problems with index within a strata
+[R]  Problems with Vista, R 2.5.0 and function save
+[R] Problem with length of array while calling C from R
+[R] Problem with library(CarbonEL) in .Rprofile
+[R] problem with read.table
+[R] Problem with rpart
+[R] Problem with the command "StrucTS" that fits a basic structural
+[R] problem with xlsReadWrite package
+[R] program avail. for simulating spatial patterns?
+[R] p-value from GEE
+[R] Query about RODBC to access MySQL from Windows
+[R] Quick question on merging two time-series of different
+[R] ? R 2.5.0 alpha bug
+[R] random numbers selection - simple example
+[R] RColorBrewer Package Color index
+[R] .RData saved on exit, but not .Rhistory?
+[R] reading a big file
+[R] Refactor all factors in a data frame
+[R] Reference for npconmode (in the np package)?
+[R] Re :  functions without arguments
+[R] Registration density profiles using FDA (Functional Data
+[R] removing all NA rows from a data.frame
+[R] Re :  (no subject)
+[R] reodering factor
+[R] Representing a statistic as a colour on a 2d plot
+[R] R:  extract from a data frame
+[R] rgl install on rhel4 x86_64
+[R] rgl.postscript
+[R] rJava installation under linux: configuration failed
+[R] rlm results on trellis plot
+[R] R:Maximum likelihood estimation using BHHH and BFGS
+[R]  Rmpi installation
+[R] ROracle issues
+[R] Rounding?
+[R] R package development in windows
+[R] [R-pkgs] MiscPsycho Package 1.0
+[R] [R-pkgs] New package "earth"
+[R] [R-pkgs] Package update: pmml version 1.1.1
+[R] [R-pkgs] Revised Rcmdr.HH package
+[R] [R-pkgs] R Package: ssanv - Sample size adjustments
+[R] R Source Code
+[R] R's Spearman
+[R] R talks at LSM 2007
+[R] Runing R in a bash script
+[R] rv package
+[R]  R vs. Splus in Pharma/Devices Industry
+[R] R vs. Splus in Pharma/Devices Industry
+[R] RWinEdt and Windows Vista
+[R] sampling question
+[R] scatterplot3d fine tuning
+[R] Scatter Plot in R - Help
+[R] Scott&Knot test
+[R] selecting cut-off in Logistic regression using ROCR package
+[R] sem vs. LISREL: sem fails
+[R] Sensitivity and specificity in multi-class problems
+[R] session log
+[R] Simple question about function with glm
+[R] simulation
+[R] sizing and saving graphics in R
+[R] SJava installation
+[R] source a specific function
+[R] Spectral analysis
+[R]  stack multiple plots on one page
+[R] Standard Probability Distributions.
+[R] statistical significance
+[R]  string edit distance
+[R] subset arg in (modified) evalq
+[R] summing up colum values for unique IDs when multiple ID's exist
+[R] survsplit and multiple event  indicators
+rsync mirrors.kernel.org: rsync error
+[R] test of CA axis
+[R] Time series\optimization  question not R question
+[R] time series problem
+[R] trouble getting b&w plots using trellis graphics
+[R] trouble with help
+[R] unknown type 63, perhaps written by later version of R
+[R] unscuscribe
+[R] Unsubscription Confirmation
+[R] Update of xlsReadWrite package
+[R] urca package - summary method -
+[R] use mathematics formula
+[R] Use of Lexis function to convert survival data to counting
+[R] using install.packages via proxy
+[R] using lme on multiple datasets in one shot
+[R] Using power.t.test over a range of conditions
+Russ Mitchell: On The Trail Of Twisters
+[R] Vignette for MiscPsycho Package
+[R] Warnings in package dependencies and /src contains object files.
+[R] what about options in BATCH
+[R] which syntax to use for ordered logit
+[R] Why is the R mailing list so hard to figure out?
+[R] =?windows-1251?b?0eDs++kg5O7x8vPv7fvpIOgg7eXk7vDu4+7pIOzl8u7k?=
+[R] Windows Vista issues
+[R] write
+[R] xyplot: Combining 'subscripts' and 'allow.multiple=T'
+[R] xyplot source file only work with echo=TRUE
+[S02] Sigils
+Samba 3.0.25b Available for Download
+[SAMBA4] we should create just one test environment
+samba problem
+sanctum: Dictionary.com Word of the Day
+Sarkozy party 'set for big win'
+SatCon Receives over $2.8 Million in New Fuel Cell Inverter Orders
+Serious questions tonight about the safety of a popular diabetes drug. That's coming up on the CBS Evening News with Katie Couric.
+Setting hwclock --localtime fails
+shuffling cards
+simple tcp socket server:Is it possible, server wait for '!' sign, not '\n'?
+[Slashdot] Headlines for 2007-04-20
+[Slashdot] Headlines for 2007-05-09
+[Slashdot] Headlines for 2007-05-14
+[Slashdot] Headlines for 2007-05-25
+[Slashdot] Headlines for 2007-05-27
+[Slashdot] Headlines for 2007-06-21
+[Slashdot] Headlines for 2007-06-23
+[Slashdot] Headlines for 2007-07-03
+[Slashdot] Stories for 2007-04-25
+[Slashdot] Stories for 2007-04-29
+[Slashdot] Stories for 2007-05-09
+[Slashdot] Stories for 2007-05-20
+[Slashdot] Stories for 2007-05-29
+[Slashdot] Stories for 2007-06-06
+[Slashdot] Stories for 2007-06-18
+[Slashdot] Stories for 2007-06-20
+[Slashdot] Stories for 2007-06-22
+[Slashdot] Stories for 2007-06-27
+[Slashdot] Stories for 2007-07-06
+slepc license
+smb-proxy
+snmp translate
+So-Called Comprehensive Immigration Reform
+Sony or Toshiba? (corrected)
+SOS: a question write to file!
+Space Update
+speakup and feisty
+Speakup in userspace
+Special Prices Ending Soon
+spiehty: Dictionary.com Word of the Day
+Start script for Gnome
+"State of Denial"
+Stock Notification for Napster
+Stock Notification for Netflix, Inc.
+Stock Notification for NTELOS Holdings Corp.
+Stock Notification for ONEOK Inc.
+Stock Notification for SatCon Technology Corporation
+Stock Quote Notification for Napster
+Stock Quote Notification for Netflix, Inc.
+Stock Quote Notification for NTELOS Holdings Corp.
+Stock Quote Notification for ONEOK Inc.
+Stock Quote Notification for SatCon Technology Corporation
+Study: Suicide risk double among male U.S. veterans
+Subscription probe for LOUDOBBS - please ignore
+substitute and assign in one line
+[sugar] Build changes
+[sugar] dbus-python requires autoconf-2.59c?
+[sugar] Efficient general purpose tile engine,
+[sugar] Game key events
+[sugar] How to display activity help files
+[sugar] IconButton using bundle icon file
+[sugar] Little patch for telepathy-stream-engine to ensure xv is
+[sugar] [PATCH hardware-manager] Allow entering kernel suspend.
+[sugar] [PATCH] services/presence/: keep track of the owner's
+[sugar] [PATCH] services/presence/server_plugin.py: Handle presence
+[sugar] [PATCH] sugar.presence.presenceservice: Use absolute imports
+[sugar] [PATCH sugar] services/presence: Use ExportedGObject from
+[sugar] Sugar stable API when?
+[sugar] Tinderbox results, 20070605-0145.
+[sugar] Tinderbox results, 20070621-1913-f7.
+svn commit: lorikeet r716 - in trunk/heimdal: . lib/roken
+svn commit: lorikeet r729 - in trunk/heimdal: .
+svn commit: lorikeet r751 - in trunk/heimdal: . cf lib/gssapi/krb5
+svn commit: lorikeet r754 - in trunk/heimdal/lib/sl: .
+svn commit: samba-docs r1100 - in trunk/manpages-3: .
+svn commit: samba-docs r1104 - in tags: .
+svn commit: samba-docs r1109 - in trunk/manpages-3: .
+svn commit: samba-docs r1123 - in trunk: manpages-3 xslt
+svn commit: samba-docs r1133 - in trunk/Samba3-ByExample: .
+svn commit: samba r22132 - in branches: SAMBA_3_0/source/modules
+svn commit: samba r22133 - in branches/SAMBA_4_0: .
+svn commit: samba r22143 - in branches/SAMBA_3_0_RELEASE: .
+svn commit: samba r22148 - in branches: SAMBA_3_0/source/modules
+svn commit: samba r22168 - in
+svn commit: samba r22202 - in branches/SAMBA_3_0/source/nsswitch: .
+svn commit: samba r22216 - in branches/SAMBA_4_0/source:
+svn commit: samba r22220 - in branches/SAMBA_3_0_25/source: .
+svn commit: samba r22234 - in
+svn commit: samba r22253 - in
+svn commit: samba r22254 - in
+svn commit: samba r22260 - in branches/SAMBA_4_0: .
+svn commit: samba r22274 - in
+svn commit: samba r22276 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r22279 - in
+svn commit: samba r22283 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r22290 - in
+svn commit: samba r22306 - in
+svn commit: samba r22316 - in
+svn commit: samba r22318 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r22326 - in branches/SAMBA_4_0: .
+svn commit: samba r22328 - in branches/SAMBA_4_0: . source/param
+svn commit: samba r22329 - in
+svn commit: samba r22340 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r22343 - in branches/SAMBA_3_0/source: include
+svn commit: samba r22367 - in
+svn commit: samba r22371 - in branches/SAMBA_4_0/source/lib/util: .
+svn commit: samba r22378 - in
+svn commit: samba r22383 - in
+svn commit: samba r22387 - in
+svn commit: samba r22389 - in branches/SAMBA_3_0/source: lib libsmb
+svn commit: samba r22399 - in
+svn commit: samba r22406 - in branches/SAMBA_4_0/source:
+svn commit: samba r22409 - in
+svn commit: samba r22415 - in branches:
+svn commit: samba r22416 - in branches/SAMBA_3_0/source: .
+svn commit: samba r22433 - in branches/SAMBA_3_0_RELEASE/source: .
+svn commit: samba r22439 - in
+svn commit: samba r22445 - in branches/SAMBA_3_0_RELEASE: .
+svn commit: samba r22460 - in branches/SAMBA_3_0/source/libads: .
+svn commit: samba r22478 - in branches/SAMBA_4_0:
+svn commit: samba r22479 - in branches/SAMBA_3_0/source: . include
+svn commit: samba r22489 - in branches/SAMBA_3_0/source/rpcclient: .
+svn commit: samba r22499 - in
+svn commit: samba r22507 - in branches/SAMBA_3_0/source: . nsswitch
+svn commit: samba r22520 - in branches/SAMBA_4_0: .
+svn commit: samba r22523 - in branches/SAMBA_4_0/testprogs/ejs: .
+svn commit: samba r22527 - in branches/SAMBA_3_0/docs: .
+svn commit: samba r22548 - in
+svn commit: samba r22551 - in
+svn commit: samba r22555 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r22556 - in
+svn commit: samba r22562 - in branches/SAMBA_3_0_25/source/smbd: .
+svn commit: samba r22568 - in
+svn commit: samba r22581 - in branches/SAMBA_4_0/source: .
+svn commit: samba r22586 - in branches: SAMBA_3_0/source/rpc_server
+svn commit: samba r22590 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r22607 - in branches/SAMBA_4_0/source/utils: .
+svn commit: samba r22609 - in branches/SAMBA_4_0/source: .
+svn commit: samba r22617 - in
+svn commit: samba r22624 - in branches/SAMBA_4_0/source/selftest: .
+svn commit: samba r22630 - in branches: SAMBA_3_0/source/rpc_parse
+svn commit: samba r22640 - in
+svn commit: samba r22648 - in branches/SAMBA_3_0/source/param: .
+svn commit: samba r22657 - in
+svn commit: samba r22675 - in branches: SAMBA_3_0/source/modules
+svn commit: samba r22682 - in
+svn commit: samba r22684 - in branches/SAMBA_4_0/source/lib/ldb: .
+svn commit: samba r22695 - in branches/SAMBA_3_0/source/smbd: .
+svn commit: samba r22708 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r22729 - in branches: SAMBA_3_0/source/utils
+svn commit: samba r22734 - in branches/SAMBA_4_0/source/libnet: .
+svn commit: samba r22739 - in branches: SAMBA_3_0/source/include
+svn commit: samba r22742 - in
+svn commit: samba r22771 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r22782 - in branches/SAMBA_3_0_RELEASE: .
+svn commit: samba r22783 - in branches/SAMBA_3_0_RELEASE/source: .
+svn commit: samba r22785 - in branches: SAMBA_3_0_25/source/smbd
+svn commit: samba r22790 - in branches/SAMBA_4_0/source/libcli/raw:
+svn commit: samba r22796 - in branches: SAMBA_3_0/source/include
+svn commit: samba r22808 - in branches/SAMBA_4_0/source/libnet: .
+svn commit: samba r22811 - in branches/SAMBA_4_0/source/libnet: .
+svn commit: samba r22819 - in branches: SAMBA_3_0/source/auth
+svn commit: samba r22838 - in branches/SAMBA_4_0/source: librpc/rpc
+svn commit: samba r22842 - in
+svn commit: samba r22845 - in branches/SAMBA_3_0/source/nsswitch: .
+svn commit: samba r22847 - in branches/SAMBA_3_0/source/nsswitch: .
+svn commit: samba r22861 - in branches: SAMBA_3_0_25/source/utils
+svn commit: samba r22877 - in branches/SAMBA_4_0/source/selftest: .
+svn commit: samba r22878 - in branches/SAMBA_3_0/source: .
+svn commit: samba r22879 - in branches/SAMBA_3_0/source: .
+svn commit: samba r22895 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r22900 - in branches: SAMBA_3_0/source/profile
+svn commit: samba r22919 - in branches/SAMBA_3_0/source: .
+svn commit: samba r22927 - in branches/SAMBA_3_0_26/source: .
+svn commit: samba r22936 - in branches/SAMBA_3_0_26/source: groupdb
+svn commit: samba r22941 - in
+svn commit: samba r22947 - in branches: SAMBA_3_0_25/source/modules
+svn commit: samba r22958 - in
+svn commit: samba r22978 - in branches: SAMBA_3_0/source/smbd
+svn commit: samba r22987 - in
+svn commit: samba r23006 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r23012 - in
+svn commit: samba r23033 - in branches/SAMBA_4_0/source/setup: .
+svn commit: samba r23065 - in
+svn commit: samba r23073 - in branches/SAMBA_3_0/source/rpc_client:
+svn commit: samba r23075 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r23078 - in branches/SAMBA_3_0/source/nsswitch: .
+svn commit: samba r23092 - in branches/SAMBA_3_0_RELEASE: .
+svn commit: samba r23099 - in
+svn commit: samba r23104 - in
+svn commit: samba r23115 - in branches/SAMBA_4_0/source/dsdb/samdb:
+svn commit: samba r23118 - in
+svn commit: samba r23124 - in
+svn commit: samba r23131 - in tags: .
+svn commit: samba r23135 - in
+svn commit: samba r23169 - in branches: SAMBA_3_0/source/locking
+svn commit: samba r23191 - in branches/SAMBA_4_0/source/selftest: .
+svn commit: samba r23195 - in branches: SAMBA_3_0/source/include
+svn commit: samba r23210 - in branches: SAMBA_3_0/source/include
+svn commit: samba r23214 - in
+svn commit: samba r23240 - in branches/SAMBA_4_0/source: librpc/idl
+svn commit: samba r23253 - in branches/SAMBA_3_0/source/nsswitch: .
+svn commit: samba r23272 - in branches: SAMBA_3_0/source/smbd
+svn commit: samba r23273 - in branches/SAMBA_3_0_26/source: .
+svn commit: samba r23281 - in branches/SAMBA_4_0/source: .
+svn commit: samba r23282 - in branches/SAMBA_4_0_RELEASE/source: .
+svn commit: samba r23303 - in
+svn commit: samba r23321 - in branches: SAMBA_3_0/source
+svn commit: samba r23353 - in branches/SAMBA_3_0_26/source: .
+svn commit: samba r23357 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r23358 - in branches: SAMBA_3_0/source/auth
+svn commit: samba r23360 - in
+svn commit: samba r23371 - in branches:
+svn commit: samba r23378 - in
+svn commit: samba r23382 - in branches/SAMBA_4_0/source: librpc/idl
+svn commit: samba r23403 - in branches/SAMBA_4_0/source: . torture
+svn commit: samba r23405 - in
+svn commit: samba r23411 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r23425 - in branches: SAMBA_3_0/source/nmbd
+svn commit: samba r23427 - in branches/SAMBA_3_0_26/source:
+svn commit: samba r23443 - in branches/SAMBA_3_0_26/source/smbd: .
+svn commit: samba r23451 - in
+svn commit: samba r23467 - in branches: SAMBA_3_0/source/smbd
+svn commit: samba r23475 - in branches/SAMBA_3_0/source/lib: .
+svn commit: samba r23476 - in branches/SAMBA_3_0_26/source/lib: .
+svn commit: samba r23483 - in branches: SAMBA_3_0/source/smbd
+svn commit: samba r23516 - in branches: SAMBA_3_0/source/locking
+svn commit: samba r23532 - in branches/SAMBA_4_0/source/param: .
+svn commit: samba r23560 - in branches/SAMBA_4_0: source/dsdb/samdb
+svn commit: samba r23593 - in branches: SAMBA_3_0/source/utils
+svn commit: samba r23597 - in branches/SAMBA_3_0/source/script: .
+svn commit: samba r23601 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r23608 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r23615 - in branches/SAMBA_3_0_RELEASE: .
+svn commit: samba r23623 - in branches: SAMBA_3_0/source/rpc_server
+svn commit: samba r23629 - in branches/SAMBA_4_0/source/librpc/idl:
+svn commit: samba r23636 - in branches: SAMBA_3_0 SAMBA_3_0_25
+svn commit: samba r23637 - in branches/SAMBA_4_0/source/build/m4: .
+svn commit: samba r23656 - in branches: SAMBA_3_0/source/param
+svn commit: samba r23657 - in branches: SAMBA_3_0/source/param
+svn commit: samba r23659 - in branches: SAMBA_3_0/source/lib
+svn commit: samba r23666 - in branches: SAMBA_3_0/source/param
+svn commit: samba r23670 - in branches: SAMBA_3_0/source/script
+svn commit: samba r23687 - in
+svn commit: samba r23698 - in
+svn commit: samba r23706 - in branches/SAMBA_3_0/examples/scripts:
+svn commit: samba r23708 - in branches: SAMBA_3_0/source/nsswitch
+svn commit: samba r23716 - in branches/SAMBA_4_0/source:
+svn commit: samba r23717 - in branches/SAMBA_4_0/source:
+svn commit: samba r23718 - in
+svn commit: samba r23725 - in branches/SAMBA_3_0/source/smbd: .
+[svn:parrot-pdd] r18101 - trunk/docs/pdds
+[svn:parrot-pdd] r18307 - trunk/docs/pdds/draft
+[svn:parrot-pdd] r18382 - in trunk: docs/pdds src/pmc t/pmc
+[svn:parrot-pdd] r18493 - trunk/docs/pdds/draft
+[svn:parrot-pdd] r18691 - in trunk: . docs docs/pdds
+[svn:parrot-pdd] r18781 - in trunk/docs: . pdds
+[svn:perl6-synopsis] r14376 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14386 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14388 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14391 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14397 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14401 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14404 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14408 - doc/trunk/design/syn
+[svn:perl6-synopsis] r14423 - doc/trunk/design/syn
+svn version parrot segfault
+SXC Newsletter 011
+syntax error of some sort?
+The CNN Political Ticker PM, Friday, June 15, 2007
+The CNN Political Ticker PM, Monday, April 23, 2007
+The CNN Political Ticker PM, Monday, May 28, 2007
+The CNN Political Ticker PM, Thursday, May 03, 2007
+The CNN Political Ticker PM, Thursday, May 24, 2007
+The CNN Political Ticker PM, Wednesday, April 25, 2007
+The Immigration Debate Dividing America
+The Internet Patrol -  Yahoo Sued Over Jailing of Chinese Journalist
+The Outrageous Kathy Griffin!
+The Skinny: Monday May 14, 2007
+The Skinny: Wed., May 2, 2007
+The Skinny: Wed., May 23, 2007
+This Simple Plan Gives You A Huge Income Opportunity...
+This Weekend on BBC Sport
+This Week in Health
+This Week on CBS SportsLine.com: Fear and loathing at OCC
+This Week on CBS SportsLine: Games on
+This week's component news: $26,700 in prizes
+This week's component news: $29,000+ in prizes
+This weeks' component news: $34,000+ in prizes
+To Gene Collins
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm Pt
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+Trouble installing Tree-Suffix-0.14
+Trump Sounds off on Rosies Early Departure
+Two die in UK helicopter crashes
+UAW: Chrysler pension to get boost
+UK toddler kidnapped in Nigeria
+=?us-ascii?Q?Verified_for_Spam_=2DRODIN=2D_I2R=3A_Problem_Accessing_Pe?=
+venerate: Dictionary.com Word of the Day
+Verdicts over bomb plot charges
+VFS module handling ACL on ZFS
+vfs module question
+'Video of BBC's Johnston posted'
+Virginia gunman 'had mental care'
+WARNING - Linux and ThinkVantage's Rescue & Recovery
+Weekly Perl 6 mailing list summary for 01-07 April, 2007
+We'll have Jackie Robinson's reflections on race and dignity from his unlikely pen pal...tonight on the CBS Evening News with Katie Couric.
+Western Renewable Power Development Summit  May 7-9  San Francisco
+Why can not backup in Samba3.0.25?
+winbindd - binding SIDs to UIDs
+winbindd panic
+winbind panic on RedHat es3 samba 3.14a
+Wind Power Development Tutorial July 16-18 2007 Denver
+Wizard of Id for Monday April 30, 2007
+Wolfowitz serene about probe of girlfriend
+Writing data row at a time using OLE
+writung to file
+Your April automotive updates from Autobytel
+Your Brainbench Account Information Is Enclosed.
+Your daily e-mail from the BBC
+zpr.uni-koeln.de mailing list memberships reminder

@@ -1,0 +1,2521 @@
+svn commit: samba r22883 - in
+Re: regex question
+Re: r18572 - trunk/compilers/imcc
+Dissident test and DFSG (was: First draft of AGPL v3)
+Past-pm init() improvement
+Re: [R] Question about "evalq"
+Re: Best notebook
+Re: Announce: DebianArt.org
+[R] Odp:  A matrix with mixed character and numerical columns
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+svn commit: samba r23416 - in branches/SAMBA_3_0_26/source/lib: .
+Re: [R] R: Appending the files
+Brainbench Assessment Results, English Vocabulary for Zombie Warwick
+Re: [R] space in R
+Re: help with a bash script
+[R] Making links in per-session dir
+Re: [cc-devel] Media Hosting Wishlist
+Re: [R] Import from excel
+Time Tracker Component Development Competitions: $14,000+ in prizes
+Re: Logo trademark license vs. copyright license
+Re: Is this license DFSG Free ?
+Re: [R] gam function & time trend spline
+svn commit: samba r23085 - in
+Re: [R] VGAM Pareto
+svn commit: samba r22822 - in
+dependecies in samba3
+Re: [R] do.call vs. lapply for lists
+Parrot and Perl 6 wikis moved to perlfoundation.org
+Re: using a homemade perl module
+Re: [R] Speeding up resampling of rows from a large matrix
+svn commit: samba r23724 - in branches/SAMBA_3_0/source: include
+New SEC Document(s) for ONEOK Inc.
+Re: propose renaming Hash to Dict
+LVM2 + LUKS Installation Failure (netinstall) due to device-mapper
+Re: [R] applying max elementwise to two vectors
+Re: gentoo dropping speakup support
+Re: [R] [SPAM] - Re: R package development in windows - Bayesian
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: nroff errors in 3.0.35a version of smb.conf.5
+7 properties in 57 hours=?UTF8?Q?=E2=80=A6?=using none of my own money
+Rev 496: formatting fixes in http://samba.org/~tridge/ctdb
+Re: [PATCH 2/2] Remove support for automatically generated
+Re: svn commit: samba r22874 - in branches/SAMBA_4_0/source:
+Re: desktop-base and KDE
+Re: Sending mail without a callback
+MSN-list Digest, Vol 7, Issue 114
+2 questions: "echo" and starting automatically
+Re: Set time period for a statement to execute
+Removing #pragma
+svn commit: samba r22629 - in
+Re: Iterate through a hashref using XML::Simple (real post)
+Pres. Bush on Immigration Reform
+[perl #43453] [PATCH] typos in docs/configuration.pod 
+Re: missing curly - brain fried
+Re: [sugar] [PATCH] unfreeze DCON when Sugar UI is (almost) ready
+[Ip-health] AFP:  Thais protest against US copyright report amid drugs row
+Performance Benchmarking for Utilities  May 23-24  Seattle WA
+Re: Bug#431109: [PROPOSAL] Disambiguate of Section 12.5, Deprecate GPL/LGPL symlinks
+mirror.ynet.sk added (was: [backlog] mirror list updates (this time to the public address))
+Re: [perl #43081] [p6] Get p6 tests from pugs.
+smbtree patch - adds option to print out share type
+Re: [R] Reducing the size of pdf graphics files produced with R
+[R] Loading problem with R2HTML package
+Re: svn commit: samba r22636 - in
+Re: freeze after <STDIN>
+CNN Alerts: bush
+Re: basename equivalent?
+[d@DCC] Let your MP know about the Death by Copyright DVD
+Rev 337: merge from ronnie in http://samba.org/~tridge/ctdb
+svn commit: samba r23692 - in branches: SAMBA_3_0/source/modules
+Re: Count co-occurrences
+[R] Anderson-Darling GoF
+Re: Displaying of indentation
+New SEC Document(s) for ONEOK Inc.
+PMC Proxy high-level review
+[Slashdot] Stories for 2007-05-06
+[R]  draw two plots on a single panel
+Re: Alternatives to highly nested hashes
+Re: [sugar] Tinderbox results, 20070621-1913-f7.
+Re: svn commit: samba r22713 -
+my deck of cards (once again)
+News Summary
+Re: etc floppy install question
+Re: Having trouble porting an application to MS-Windows
+Re: Referring to source code within Perldoc: the new A<> code
+Re: Removing decimal points
+Terror threat down to 'severe'
+Re: Is Perl 6 too late?
+[R] "heatmap" color still a spectrum for binary outcomes?
+mirror site which seem inactive
+Rev 303: added a control to get the local vnn in
+[R] AIC for lrm(Hmisc/Design) model.
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+CBSNews.com News Alert! Sources Say All Duke Rape Charges To Be Dropped
+Re: [sugar] PLEASE test Build 368 and Q2B84 firmware ASAP.
+FNC Alert
+Google Alert - bush
+Re: reqular expr for string manip.
+[R] Why a multi column,
+Re: wrt inotify problem
+Dancing with the Stars Finalists!
+PE Today: Walter And The Whales
+Re: email text
+Six US soldiers killed in Iraq
+Modules for parsing emails
+Re: svn commit: samba r22737 - in branches:
+Re: [R] Make check failure for R-2.4.1
+Problem sorting hash
+CNN Alerts: bush
+[R] Problem while working with SPSS data
+[LH] Review of the Kate Bush Under Review DVD
+Re: IPv6 and Samba Podcast at Microsoft's Port25
+[cc-community] Wikitravel wins Webby Award for Best Travel Website
+[R] Problem with the function plot and multipage
+Re: [cc-community] Does BY-SA extend to a newspaper?
+Re: [perl #42430] [PATCH] make :vtable imply :method
+Sun Studio on Solaris
+[R] Subsetting list of vectors with list of (boolean) vectors?
+svn commit: samba r22669 - in branches/SAMBA_4_0/source/libnet: .
+FNC Alert
+[R] Please help.... i know its trivial
+Re: [R] Converting "list of data frame" to data frame
+Rev 11996: Remove some more cruft. in
+Testing infrastructure - update
+Re: decode function equal to Java's
+[Ip-health] Nigerians file case against Pfizer
+ConocoPhillips backs carbon regulation
+RE: Chinese word problem
+[Ip-health] Letter to the FT: EU in danger of breaking its promise to the poor
+Re: [R] normalizing affy data caused an error
+: Favor confirmar
+CGI OO style
+Re: [sugar] A place to point new developers
+Re: [R] help comparing two median with R
+[Ip-health] Coming soon: the shopping channel run by drug firms
+[R] apply problem
+Re: [R] apply( )
+svn commit: samba r22352 - in branches/SAMBA_3_0/source/smbd: .
+Wall Street Green Trading Summit 2007 Proceedings
+Re: TeX
+svn commit: samba r22330 - in branches/SAMBA_3_0: .
+Re: [R] summing values according to a factor
+Re: svn commit: samba r22418 - in branches/SAMBA_3_0/source: .
+Re: help with crafting proper license header for a dual-licensing
+[perl #43311] [TODO] config/auto/sizes.pm:  Write unit tests 
+Re: [R] help again
+[R] sobre tutorial
+CBSNews.com News Alert! Police Believe Body Is Missing Kansas Teen
+The CNN Political Ticker PM, Thursday, May 17, 2007
+CNN Political Ticker AM, Tuesday, April 24, 2007
+svn commit: samba r23149 - in branches/SAMBA_4_0/source/winbind: .
+Daily Power Report
+Problem with runaway format
+Read data in to Hash
+Re: Extremely slow boot on new Vaio
+Re: VmWare
+TopCoder(R) Single Round Match
+Re: libsmbclient: smbc_stat buffer overflow
+Samba 3.0.25rc3 Available for Download
+Re: [R] MICE for Cox model
+Stock Notification for NTELOS Holdings Corp.
+Latest Computing News
+[sugar] security status and important milestone reached
+Re: svn commit: samba r23290 - in branches:
+Re: Parrot 0.4.13 "Clifton" Released
+Re: svn commit: samba r22912 - in branches/SAMBA_3_0_25/source: .
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [R] Query about RODBC to access MySQL from Windows
+In The News: Britney Spears, Queen Elizabeth, Alec Baldwin
+Re: Swap encryption (via LUKS) and Hibernation (disk suspend)
+Re: fc installation?
+Jack Hanna Tonight!
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Rev 483: ensure all nodes display disabled nodes correctly in
+Re: [R] R and batch
+Re: [R] configure: WARNING: you cannot build info or HTML versions
+[cc-devel] [ cctools-Feature Requests-1704704 ] Ho do i enable the
+Re: error in includes.h
+[R] controling the size of vectors in a matrix
+By Invitation Only -- Free Poker Club Pass for You
+[sugar] Example of journal integration
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+[R] Problem installing gnomeGUI in Ubuntu: "HAVE_ORBIT" was never
+[R] {nlme} Multilevel estimation heteroscedasticity
+Re: [R] problems with matrix, list and other..
+financier literal
+Re: [R] problems understanding sapply
+Re: Computer with Debian preinstalled
+Re: CPAN and Windows
+Re: [R] Highliting a text in a plot
+ONEOK and ONEOK Partners Second-Quarter 2007 Earnings Conference Call and Webcast Scheduled
+svn commit: samba r23508 - in branches: SAMBA_3_0/source/smbd
+Rev 5374: merge from upstream in
+svn commit: samba r23319 - in branches/SAMBA_3_0_26/source/utils: .
+Re: [R] sorting data in R
+Jupiter with Softsynths?
+Re: [R] predict.nls - gives error but only on some nls objects
+Re: [R] Random Forest
+Re: [R] Analysis for Binary time series
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: [cc-community] Fwd: needing some copyright advice
+TONIGHT ON SHOWBIZ TONIGHT - CNN HEADLINE PRIME 11pm ET/PT
+Re: Request for GR: clarifying the license text licensing / freeness issue
+[sugar] Obtaining Buddy objects as contacts are encountered
+[R] names( d$columnname )
+Re: [R] Rserve and R to R communication
+GretaWire
+Re: [R] Help on averaging sets of rows defined by row name
+[perl #43535] [PATCH] MMD function pointer alignment assertion 
+CNN Alerts: bush
+[R] Problem with the installation of "install R" on Sun Solaris
+[perl #43549] [BUG] Upgrade of flex and other software causes Parrot 'make' to fail 
+PE Today: If We Suppress The Cho Manifesto, What Next?
+Re: [R] graphs superimposed on pictures?
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: Is Parrot 1.0 too late?
+Re: Run 2 process in parallel.
+Re: [R] how to convert the lower triangle of a matrix to a
+Re: [R] building packages under windows
+Re: Hello...
+Re: perl on strings
+Re: [R] Problems in programming a simple likelihood
+Re: [R] length, mean, na.rm, na.omit...
+Re: Mixing array + scalars as parameters
+Re: Building hash record
+Re: svn commit: samba r22743 -
+Re: Final text of GPL v3
+[R] embedFonts() and bounding box
+Re: iceweasel flashplayer on amd 64
+basename equivalent?
+Re: [R] rJava installation under linux: configuration failed
+CNN Alerts: bush
+RE: formatting a string
+Re: Bug#383316: Please vet this modified CC license for uploading FoF music to non-free (was: Re: Could you please forward this proposed license to Teosto?)
+Re: Help: Perl Module Installation Issue(s)
+News Summary
+Re: Directory Services and linux 
+Re: NetLocalGroupGetMembers
+[sugar] TamTam for Trial-2
+[sugar] Write Activity.
+svn commit: samba r23363 - in branches:
+Re: DPL's view of debian-legal (was: Debian Trademarks Summary)
+[R] Optim
+svn commit: samba r23146 - in branches/SAMBA_4_0/source/winbind: .
+Re: regexp problem
+new vs ->new
+Stock Quote Notification for Netflix, Inc.
+[R] Kriging with precalculated point-to-point distances?
+Re: [R] Scoped options setting?
+Re: [R] converting proc mixed to lme for a random
+Re: [R] Looking for a cleaner way to implement a setting
+Re: [R] partial least regression
+Stock Quote Notification for NTELOS Holdings Corp.
+Re: [sugar] path + emulator
+CNN Alerts: bush
+Re: [R] Survival statistics--displaying multiple plots
+[R] Jarque-Bera and rnorm()
+Re: Could you please forward this proposed license to Teosto? (was: Re: Choosing a license for Frets on Fire songs)
+Re: [R] R2 always increases as variables are added?
+Re: [R] I need help
+Michael Moore on Oprah Tuesday
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+[R] Odp:  simulation
+Re: [R] How to read several text files at once!
+The Internet Patrol -  Some Really Great Father's Day Presents!
+Re: Does =$*ARGS work?
+Re: Web Module (Was: Perl6 new features)
+Re: Problem with runaway format
+svn commit: samba r22565 - in branches/SAMBA_4_0/source/libnet: .
+Re: [perl #42616] Parrot won't build with perl-5.6.
+[R] Initializing lists with n objects
+Re: [R] lapply not reading arguments from the correct environment
+Re: Should SWAT offer a way to login on systems with root access
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+svn commit: samba r22191 - in branches/SAMBA_4_0/source: heimdal
+CBS Evening News with Katie Couric E-Mail Alert
+In The News: Tony Nominations, Paris Hilton, Sylvester Stallone
+[R] Error:  cannot change value of locked binding for
+Re: Wireless network adapter: ndiswrapper loaded, but cannot connect to network
+[R] factanal  AIC?
+Re: rename_internals and rename_internals_fsp consolidated
+Re: [R] How to group a count
+Re: VmWare
+[R] Course in Boston** R/Splus Fundamentals and Programming
+Your daily e-mail from the BBC
+Re: [R] Generating Data using Formulas
+Re: Where Clause Help.
+Re: [R] Problem installing packages
+Re: Synopsis 26
+[R] Definition of Hinges in Boxplot
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Re: A common Debian style for Debian Installer and the desktop
+Re: [R] Looking for the first observation within the month
+Re: Hello...
+svn commit: samba r23297 - in branches: SAMBA_3_0/source/nsswitch
+[Slashdot] Headlines for 2007-06-28
+[R] LME: incompatible formulas for groups
+Stock Notification for SatCon Technology Corporation
+[R] differentiate groups on barplot
+Re: [R] Problem with numerical integration and optimization with
+Re: svn commit: samba-web r1126 - in trunk/history: .
+Re: [R] Problems with na.rm=T
+Re: [R] Adding different output to different lattice panels
+Re: [LH] Go Fug Yourself takes on Alison Goldfrapp 
+compiling a new debian kernel
+CNN Political Ticker AM, Tuesday, June 5,
+Re: exit code
+Re: Fwd: [Ip-health] FWD: [hivaidssg] G8 docs
+CBSNews.com News Alert! Paris Hilton Freed From Jail
+[Ip-health] The Hindu: An important win for domestic pharma industry
+Die neue Computercommunity Compunnity! ist Online!
+Re: [R] R help
+Re: [R] rJava problem
+Stock Notification for ONEOK Inc.
+svn commit: samba r23641 - in branches: SAMBA_3_0/source/lib
+Re: [R] Free Webinar: Vendor Neutral Intro to Data Mining for
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+svn commit: samba r23462 - in
+Re: [R] Responding to a posting in the digest
+Re: [sugar] Efficiently sharing content across mesh
+Re: [perl #42947] [PATCH] revise Parrot_get_runtime_prefix API for
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+[R] Iterative Solver [Converting Matlab's solve()]
+Rev 456: - start moving tunable variables into their own structure
+11a 6/9 Update: Crew away; heat shield inspections on tap
+[Ip-health] John Edwards: Prizes not patent monopolies
+CNN Alerts: bush
+re: fedora livecd
+svn commit: samba r23249 - in branches/SAMBA_3_0/source/rpcclient: .
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: Nested loop
+Re: New to OO Perl
+Code duplication is bad :/
+svn commit: samba r22896 - in branches/SAMBA_4_0/source: .
+Power to the people?
+Re: [R] Creating directory under Windows R session
+svn commit: samba r22596 - in branches/SAMBA_4_0: . source/lib/ldb
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: How can i make a perl program lauch another perl program that takes options
+Re: [R] Runing R in a bash script
+AccuWeather.com Alert(tm) Advisory  (avcavc)
+POD <-> Code entanglement (was: Re: [svn:perl6-synopsis] r14421 -
+Re: Is Parrot 1.0 too late?
+Re: [R] Problem with Weighted Variance in Hmisc
+[R] loop in function
+Re: [R] to draw a smooth arc
+Re: Searching for a mail client
+Re: [sugar] eBook software
+Re: [R] Using "mean"  if two values are identical
+Re: reqular expr for string manip.
+question about gpl-commercial dual licencing
+[R] linux update probelm
+Re: Fwd: debian.blueyonder.co.uk broken
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+Re: Copyright verification needed
+Re: Samba 3.0.25rc3 Available for Download
+svn commit: samba r22646 - in branches/SAMBA_3_0/source/nsswitch: .
+[R] problem with hist()
+Stuck on a hash referrence, kinda
+Re: t/codingstd/perlcritic.t needs to be optional
+reqular expr for string manip.
+Re: [cc-community] Strayform - where artists and fans connect to
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: call system command
+Installing module for a user who doesn't own perl
+Simplification of the code
+apostasy: Dictionary.com Word of the Day
+Re: Text Formatters
+Regarding file handling
+Re: Error:Can't locate object method "prepare" via package "abc" at xyz.pm
+svn commit: lorikeet r722 - in trunk/heimdal: . kdc lib/asn1
+Stock Notification for ONEOK Inc.
+Re: [R] Reduced Error Logistic Regression, and R?
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+File::Tail + JavaScript (XmlHttpRequest)
+re: hello
+HowStuffWorks Computers & Electronics Newsletter May 10, 2007
+Stock Quote Notification for NTELOS Holdings Corp.
+News Summary
+Re: svn commit: samba r22539 - in branches:
+RE: Need idea for doing automatic iteration, please.
+Re: svn commit: samba r23426 - in branches:
+[Ip-health] Thai AIDS patients suffer as drug squabble drags on / Profit of Gloom
+Re: [R] Problems with Vista, R 2.5.0 and function save
+[sugar] [PATCH] Don't rely on dbus importing the exceptions module
+svn commit: samba r22869 - in branches: SAMBA_3_0/source
+svn commit: samba r22414 - in
+Re: [R] Search a function name in a string
+"Sunday Morning" bringing the commute to your screen
+Re: [perl #42919] [BUG] and [PATCH] overriding 'invoke' requires current object to be explicitly passed
+Re: [R] names of objects in .rda
+[Slashdot] Headlines for 2007-05-05
+Re: [R] Greek symbols in xtable rows
+Re: [perl #42620] PGE 'Out of memory' panics.
+Re: Leaving this list.
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Rev 402: close sockets when we exec scripts in
+Re: [perl #42412] Configure.pl things =no is true
+AccuWeather.com Alert Forecast
+Re: Swap encryption (via LUKS) and Hibernation (disk suspend)
+Rev 390: don't block SIGCHLD,
+CNN Alerts: bush
+[R] Plotting data with a fitted curve
+Stock Quote Notification for NTELOS Holdings Corp.
+Re: Assistance with a dual-core machine.
+Re: Open() and glob EXPR
+AccuWeather.com Alert Forecast
+Re: heretical thoughts was Re: Speakup dropped from Ubuntu
+[R] lattice contourplot error
+Rev 465: use the right IP from the passed structure in
+Re: [R] simple plotting question
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+redolent: Dictionary.com Word of the Day
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: ctdb debug vasprintf memory overwrite in ib
+svn commit: samba r22812 - in branches: SAMBA_3_0/source/nsswitch
+Re: r18572 - trunk/compilers/imcc
+[R] "R is not a validated software package.."
+svn commit: samba r22171 - in
+Re: [Cc-bizcom] an alternate licensing option where the 'community'
+[perl #43145] [TODO] Only i386 and ppc are marked jittable 
+Global varables
+Re: [R] [R-SIG-Finance] readcsvIts
+Re: dectalk or double talk advice
+Re: [perl #42692] install error
+Re: [sugar] eBook Reader user interface
+Re: [R] R CMD BATCH command
+[R] Using Akima with nearly-gridded data
+Re: [R] Upgraded FC4 to FC5 - unable to start device X11 in R
+Re: Request for GR: clarifying the license text licensing /
+Re: Command line usage
+EPOLL_CTL_ADD failed (Bad file descriptor) in TP5
+svn commit: samba r22167 - in
+Re: Generalizing ?? !!
+Re: [R] fSeries - Ox - ver: 240.10068 - Steps to make it work
+svn commit: samba r23067 - in branches/SAMBA_4_0/source: ntvfs
+[R] integer to date-format
+Re: failing test for #42360: Parrot::Revision unit tests
+In The News: Paris Hilton, Jennifer Aniston, Bob Barker
+Re: Sigils by example (was: Re: Is Perl 6 too late?)
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Fwd: [TODO] Write test for Parrot::Configure::runstep()
+Re: [R] xyplot source file only work with echo=TRUE
+[Slashdot] Headlines for 2007-06-07
+Re: software speach in gentoo
+Re: 3.0.25pre2 winbind woes
+Re: [R] stacked histograms
+Re: [R] Expand duplicated observations
+Re: [R] Windows vista's early terminate Rgui execution
+Re: [R] Problem with numerical integration and
+RE: Extremely slow boot on new Vaio
+Re: [R] multiple plot in odfWeave
+Re: Keeping a process alive..
+AccuWeather.com Alert Forecast
+Rev 290: the retry client code is no longer needed now that we use
+Distributed Energy Resources-Emerging Business Models for Utilities  June 14-15   Austin, TX 
+Re: [R] Preserving dates in Excel.
+Re: Redirecting STDOUT & STDERR
+Stock Quote Notification for ONEOK Inc.
+[R] GREP - Choosing values between two borders
+svn commit: samba r23654 - in branches: SAMBA_3_0/source/libads
+Re: [R] zoo matrix manipulation
+Re: dectalk express with Linux-2.6.21.5
+Daily Power Report
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Re: Proposal for a new CDD sub-project: Debian4Business
+Re: first swipe at ctdb spec file
+Re: Net::BGP advise
+svn commit: samba r22681 - in branches/SAMBA_4_0/source:
+Re: [R] time serie generation
+svn commit: samba r23503 - in branches/SAMBA_4_0/source/kdc: .
+Re: [R] Visualize quartiles of plot line
+Rev 187: added a ctdb control message,
+Re: setgroups problems on FreeBSD - proposed fix
+[R] How to create an R RPM from source
+svn commit: samba r23511 - in branches/SAMBA_3_0_26/source: groupdb
+svn commit: samba r22726 - in branches: SAMBA_3_0/source/nsswitch
+FOX 411
+Re: POD Coverage 
+Re: [R] A really simple data manipulation example
+Re: [R] select if + other questions
+Re: regexp problem
+Re: perl sort query
+Re: Request for GR: clarifying the license text licensing / 
+Re: [R] Comparing multiple distributions
+[Ip-health] Korea agreement: CPATH public health report card
+Re: [R] fractional calculations
+Re: [sugar] Missing or broken license headers
+Re: idle_timeout processing in the parent smbd?
+Re: active sync for linux
+Re: [R] NAs introduced by coercion in dist()
+Your daily e-mail from the BBC
+Re: Cross Realm SMB Signature Failure
+Re: [perl #42774] [PATCH] Configure.pl --gc=libc doesn't compile
+CNN Alerts: bush
+FNC Alert
+Re: Redirecting STDOUT & STDERR
+svn commit: samba r23070 - in branches/SAMBA_3_0/source/rpc_client:
+Re: [R] data from graph [SEC=UNCLASSIFIED]
+US, EU pledge Palestinian support
+Re: [R] object getConnection
+Rev 405: merge lib/replace from samba4 in
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: [R] Coding categorical variables in mixed environment
+Re: [R] canoncial correlation
+Stock Notification for SatCon Technology Corporation
+Re: Problems with arrays
+Mix & Match Sale: Buy 2, get 3rd Free! Online now and in-store Wednesday
+svn commit: samba r22589 - in branches: SAMBA_3_0/source/auth
+Re: Question about apt-get
+Re: Still More Startup Optimizations
+Re: [R] Changing working directory
+Re: libsmbclient -> smbc_setxattr corrupts context.
+Re: Problems installing XML modules
+Rev 545: check winbind in monitoring event too in
+Re: [perl #42772] [PATCH] Re: mmx/sse copy functions (was: Puzzling structure in <parrot/stacks.h>)
+Re: book on perl
+Re: [Samba] Roaming Profile & Folder Redirection Problems
+Re: [R] Kmeans cluster analysis
+CBSNews.com News Alert! 8 Soldiers Were Killed On Memorial Day
+Re: [R] S4 object slot of type 'call'
+Daily Power Report
+[sugar] Consensus about how to handle controls in the UI
+Re: [R] convert text to exprission good for lm arguments
+Re: [cc-community] Does BY-SA extend to a newspaper?
+svn commit: samba r23091 - in branches: SAMBA_3_0/source/rpc_client
+FNC Alert
+Re: [R] Adding different output to different lattice panels
+Re: [R] How to select specific rows from a data frame based on
+Re: Passing multiple mixed arguments to subs
+Re: CPU/Memory usage of a process on Windows machine
+Re: [R] control axis
+[R]  [R-pkgs] RGtk2 2.10.x series available
+Re: [R] RMySQL question, sql with R vector or list
+svn commit: samba r23559 - in branches/SAMBA_4_0/source/setup: .
+Build status as of Fri Apr 13 00:00:02 2007
+Re: [R] Imputing missing values in time series
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+May 30, 2007
+The CNN Political Ticker PM, Monday, May 07, 2007
+Re: [R] distance method in kmeans
+Re: [R] Loop and function
+Rev 278: added _mark calls for tdb_lockall in
+Democratic leaders, Bush set to meet after Iraq veto
+Re: [R] xyplot: Combining 'subscripts' and 'allow.multiple=T'
+News & Views | 5.29.07
+Daily Power Report
+Re: ctdb status
+dumb question
+Re: [R] Calling C Code from R
+FNC Alert
+svn commit: samba r23128 - in branches: SAMBA_3_0/source/include
+[R] Problem with binding data-frames
+Re: parse help
+[cc-devel] same origin policy workaround?
+svn commit: samba r22303 - in branches/SAMBA_3_0_25/source: .
+Re: [R] sas.get problem : the saga continues.
+Alert! Auction Firm OTC RCAU Receives $7.25 Target
+Re: [R] Testing for existence inside a function
+Desktop firewall
+Re: Still More Startup Optimizations
+[R] Problem with Sweave
+HowStuffWorks Automotive Newsletter April 10, 2007
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+CNN Alerts: My Custom Alert
+Tracy Smith: An Important CBS News Legacy
+[Ip-health] Court Ruling Could Have Chilling Effect On Organ Donations
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+CNN Political Ticker AM, Wednesday, April 11, 2007
+[LH] Conclusion
+Re: [R] Plots from categorial data
+Re: [RFC] extension guessing, functionally better loader behavior
+Build status as of Fri Jun 15 00:00:02 2007
+Re: pdd15 - How do I add a class method?
+[perl #42789] [PATCH] config/auto/jit.pm:  Addition to documentation 
+T60 and i8xx_tco
+nonpareil: Dictionary.com Word of the Day
+Re: [perl #42509] [PATCH] Quiet some warnings under -ansi -pedantic
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+svn commit: samba r22309 - in branches/SAMBA_4_0/source: .
+[R] Problem with reading a file.xls
+The advantages of NVDA was Re: Hello...
+Re: svn commit: samba-docs r1120 - in trunk/smbdotconf/winbind: .
+Re: [R] Bad optimization solution
+Re: [svn:parrot] r18381 - trunk/include/parrot
+CNN Alerts: bush
+[R] VGAM Pareto
+[R] A very simple question
+Re: svn commit: samba r23175 - in branches/SAMBA_4_0:
+Re: Bacula: GPL and OpenSSL
+CBSNews.com News Alert! 8 Killed In Explosion At Ancient Temple In Yemen
+Re: svn commit: samba r22638 - in tags: .
+Re: Error:Can't locate object method "prepare" via package "abc" at xyz.pm
+Re: [R] Opinion on R plots: connecting X and Y
+[sugar] Pyxpcom
+1030a 6/6 Update: Station spacewalk begins
+[R] missing values
+The CNN Political Ticker PM, Tuesday, April 24, 2007
+Stock Notification for Napster
+Re: Math::BigFloat
+[R] evaluating variables in the context of a data frame
+Re: [R] tapply
+Re: [R] evaluating variables in the context of a data frame
+AccuWeather.com Alert Forecast
+[R] lattice: aligning independent graphs
+svn commit: samba r23314 - in branches/SAMBA_3_0/source: .
+AccuWeather.com Alert Forecast
+Re: [R] R package development in windows
+News Summary
+Re: Logo trademark license vs. copyright license
+Re: hwclock
+Re: [R] adjusting a power model in R
+[Ip-health] IP-Watch: IP Rises At Assembly As Brazil Proposes Greater WHO Role In Trade
+Re: [perl #43006] Tail call force-frees current context
+perl on strings
+Re: Gateway MT6451 - function keys
+Reports: Saudi prince took secret payments
+Re: $1 $2 var confusion
+Re: [R] How can we add a legend to a set of graphs?
+Re: [svn:perl6-synopsis] r14376 - doc/trunk/design/syn
+Re: Software speech opinions
+Re: Prompt in Net::Telnet
+svn commit: samba r22887 - in branches/SAMBA_4_0/source/setup: .
+svn commit: samba r22358 - in branches/SAMBA_3_0/source/libsmb: .
+Re: [PATCH 1/4] Make sure groups[0] is the effective gid on FreeBSD.
+svn commit: samba r23588 - in branches: SAMBA_3_0/source/libsmb
+Re: cat (.sh) in Perl
+PE Today: "You Just Hope He's OK."
+Re: Setting hwclock --localtime fails
+svn commit: samba r22766 - in branches/SAMBA_3_0/source: passdb
+Re: [R] : create a PDF file (text (print list)  and grafics)
+Re: [R] xyplot: Combining 'subscripts' and 'allow.multiple=T'
+Information for Napster
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+[R]  graphics on Ubunut
+Energy Jobs Report: Current Postings
+May 15, 2007
+Re: Regarding files
+[R] what is "better" when combining data frames? merge vs. rbind &
+CBS SportsLine Daily Sports Report
+Re: src/pmc/classobject.h:  Why is it in this directory?
+[R] STEP
+Simple question regarding net command samba 3.0.25.
+Cabot Wealth Advisory 4/28/07  Things You Put In Your Body
+[R] Use of argument '...'
+CGI Header
+Re: $1 $2 var confusion
+Re: [R] converting a data frame to ts objects
+Re: [R] How to save results from chisq.test or mantelhaen.test to
+Re: basename equivalent?
+Stock Notification for SatCon Technology Corporation
+[R] Goodness of fit- Pareto distribution
+Re: [perl #43033] [PATCH] Silence warning
+Small concessions, and tactful talk
+Re: [R] use mathematics formula
+Re: forking problem with dbd::mysql
+Re: Array of Array refs
+CNN Political Ticker AM, Thursday, June 14, 2007
+CNN Alerts: bush
+find2perl output to array
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+CBS SportsLine Daily Sports Report
+Re: Final text of GPL v3
+Re: Getting a program pid
+[R] similarity
+AccuWeather.com Alert Forecast
+AccuWeather.com Alert Forecast
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: Jeez, what hassle.
+Re: [R] save intermediate result
+Re: CTDB and GFS.
+Stock Quote Notification for SatCon Technology Corporation
+Re: Speech Dispatcher bugfixes, request for help with testing
+LibSpeechD CVS library, where to get it?
+Re: [R] creating eps files
+Re: [R] Combine graphical and textual output
+Re: [perl #42474] [PATCH] Remove dangling enum commas
+Re: [perl #42768] [PATCH] Enum cleanups
+Re: Final text of GPL v3
+Re: [R] removing values from a vector,
+Re: Is there a perl equivalent to PHP variables $_POST and $_GET?
+Natural Gas Futures Jump Higher on Short-Covering
+News Summary
+Re: [sugar] Sugar tinderbox.
+Re: [R] How to comment out a piece of a R code in XEmacs+ESS
+svn commit: samba r23086 - in
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+Re: [R] read table
+Re: New Ion3 licence
+svn commit: samba r23017 - in
+Rev 257: - added a EVENT_FD_AUTOCLOSE flag that allows you to tell
+740a 6/14 Update: Telemetry restored but Russian computers still down
+Re: svn commit: samba r22342 - in branches/SAMBA_3_0_25/source:
+[Ip-health] New Scientist: Making Poor Nations Pay for Drugs
+[LH] empty
+svn commit: samba r23179 - in branches/SAMBA_4_0/source/selftest: .
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Google Alert - bush
+Re: a way to disable ADS in winbind in samba3
+Re: [R] [OT] 'gv' and fractional points
+Re: [R] Simplify simple code
+Re: Jigdo-* fields useless ?
+Re: touchpad too sensitive
+News & VIews | 06.08.07
+Re: Clickthrough for GPL
+Rev 189: merge from peter in http://samba.org/~tridge/ctdb
+Re: [R] create matrix from comparing two vectors
+Re: Janitorial tasks (like literal '%' in smb.conf)
+War-funding bill faces uncertain future in Senate
+Re: [sugar] Recalibrating the touchpad.
+In The News: Sanjaya Malakar, Lindsay Lohan, Lisa Rinna
+Re: Help me...
+debian etch CD installation issues and installing gcc and development
+Re: krb5_abortx()
+Re: [CTDB and GFS] some troubles joining domain
+Re: Compiling kernel module for dectalk pc for Centos
+[R] GPL Question and Updated Link
+Re: Regarding pattern matching
+[R] Warning message loading rmutil in R 2.5.0
+Re: [R] cat() to STDERR
+Re: [perl #42509] [PATCH] Quiet some warnings under -ansi -pedantic
+Re: [R] importing excel-file
+Re: License concerns regarding package lft
+My brain dump for the PMCs PDD
+Re: gentoo dropping speakup support
+Re: perl on strings
+Re: accesing a hash of an array of hashes
+svn commit: samba r22215 - in
+[cc-community] Wikitravel nominated for Webby Award in Travel
+Speaku is not loaded at startup
+Re: [LH] check this out
+News Summary
+svn commit: samba r22599 - in branches/SAMBA_4_0: . source/selftest
+Xbox360 Elite or Playstation 3?  Vote for the better console.
+Re: [R] converting character strings to numbers
+Re: parsing a line
+Re: [R] inverse cumulative distribution
+[Slashdot] Headlines for 2007-04-16
+Stock Notification for Netflix, Inc.
+Re: CNRI Python License question
+Slackware 11 aliases, anyone?
+CBS Evening News with Katie Couric E-Mail Alert
+Re: Passing arguments to subroutine
+[perl #43462] [PATCH] some clearups, illegal memory accessing
+[R] Help: Upgrading to R2.5 on Ubuntu (Feisty)
+Re: [perl #42918] [PATCH] src/library.c use mem_sys_free instead of free()
+Re: Ternary endweight alternative?
+Re: TTSynth Is Here At Last
+Re: [R]
+Re: [R] Tools For Preparing Data For Analysis
+What's on Inside Sport tonight
+Re: [R] rJava installation under linux: configuration failed
+Vocabulary: today's word "venial"
+Re: [R] Me again, about the horrible documentation of tcltk
+svn commit: samba r23452 - in branches/SAMBA_3_0_26/source: .
+Named captures (was: **{x,y} quantifier)
+Re: [sugar] [PATCH] services/presence/: move more of the
+RE: Hash Key is a Null Value
+Re: [R] Non-linear constraints under Markowitz
+[perl #41201] [TODO] Remove temporary conf hack in Configure.pl 
+Re: Samba 3.0.25rc3 Available for Download
+Feature Request homedir and shell mapping per user
+[sugar] New activities proposals due today...
+Re: a way to disable ADS in winbind in samba3
+Re: posix locking and the brlock database
+Re: PDD15 implementation status
+New SEC Document(s) for SatCon Technology Corporation
+[Slashdot] Headlines for 2007-04-25
+svn commit: samba r23298 - in branches/SAMBA_3_0_26/source: .
+Re: [R] Function to Sort and test AIC for mixed model lme?
+Re: [R] object not found inside function
+Re: svn location for samba-docs is absent
+Re: [perl #43251] [PATCH] Rename tools/dev/mk_manifests.pl
+[perl #41186] [BUG]:  tools/build/ops2pm.pl:  Variable used in both package scope and loop iteration 
+Re: sorted hash positions
+Re: stoping X from starting when debian etch boots
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [R] ordered logistic regression with random effects. Howto?
+[R] step in Sweave
+Re: [R] xyplot() and controlling panel.polygon()
+Re: svn commit: samba r23317 - in branches/SAMBA_3_0/source: .
+Video cong iovane teen, che fanno sesso per farti godere come e` possibile piu` lungo.
+[R] Calculate sums in R
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+[R] pseudo-R2 or GOF for regression trees?
+News Summary
+News Summary
+Re: CC Sampling Plus 1.0
+New TopCoder(R) Studio contest posted
+United, jetBlue; $84 U.S. Airfares, More
+Re: forking problem with dbd::mysql
+Re: [R] name of the variable that will contain the result of a
+Re: [R] simultaneous computing
+svn commit: samba r22141 - in
+[R] Help me about MADE4
+Re: [R] Problem with Sweave
+Re: 0.4.13 Release Code Slush
+How to get the values
+speakup in ubuntu
+re: command line imm programs
+Re: [R] factanal
+[R] Factor function: odd behavior when labels argument contains
+Re: [R] R Book Advice Needed
+=?utf-8?Q?New_TopCoder=C2=AE_Studio_contest_posted?=
+Re: decode function equal to Java's
+Rev 218: much simpler redirect logic in
+Electric Transmission Week complimentary trial
+Alternative Regulation for Electric and Gas Utilities  June 25-26  Boston
+Re: RegEx Substitution + Arrays
+Re: [perl #42974] [BUG] Hungry Alligator Eats Integer; Developer Registers Complaint
+Re: [sugar] GComprisXO progress
+Re: Wireless Router
+Re: [perl #42430] [PATCH] make :vtable imply :method
+Re: Web Module (Was: Perl6 new features)
+Re: the linux core;tutorials and etc
+CNN Alerts: bush
+ubuntu wifikey question
+Re: [R] running Rcmdr
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+more
+Re: help with crafting proper license header for a dual-licensing
+Weekly Perl 6 mailing list summary for 18-24 March, 2007
+Stock Quote Notification for Netflix, Inc.
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: spelling was Re: GRML swspeak?
+perl sort query
+Re: [R] How to extract diagonals
+Re: [R] test for nested factors
+[perl #43150] [TODO] Relocate shared libs check for solaris? 
+Disastrous Fires & Floods Hit the US
+Re: [R] using self-written functions
+Cabot Wealth Advisory 5/7/07 - Golf and Investing: Practice, Practice, Practice
+Re: [svn:parrot] r19381 - trunk/src/dynpmc
+FNC Alert
+Re: [PATCH] Re-work Parrot_process_args
+Campus Massacre, More from Virginia Tech
+Re: Error compiling libsmb examples 3.0.26pre1-SVN-build-22419
+svn commit: samba r22832 - in branches/SAMBA_4_0/source/lib/tdb:
+Re: compiling a new debian kernel
+[Ip-health] Premiere Law Firm's Specious Arguments on Thailand's Compulsory Licenses
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: nametogid and nametouid
+Re: [sugar] [PATCH] sugar.presence.presenceservice: Use
+Re: svn commit: samba r23115 - in
+Re: [R] lapply not reading arguments from the correct environment
+CPAN shell  (LWP, Net::FTP) won't authenticate properly
+CBS SportsLine Daily Sports Report
+Rev 550: script version of install needs spaces after -m in
+Rev 11882: Import branch that converted the Samba4 test target code
+Brainbench Assessment Results, Math Fundamentals for Zombie Warwick
+svn commit: samba r22611 - in branches: SAMBA_3_0/source/lib
+Re: How to sum up values
+svn commit: samba r22314 - in
+Rev 156:  in http://samba.org/~tridge/ctdb
+FOXNews.com CEO NewsBrief - May 2, 2007
+Re: Upgrading Debian to Testing with speakup
+Re: should get_nt_acl_no_snum really avoid VFS modules?
+svn commit: samba r23605 - in branches/SAMBA_4_0/source/script: .
+svn commit: samba r22485 - in branches/SAMBA_4_0/source/librpc/rpc:
+[LH] Kate to tour?
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Rev 519: fixed manaul install dir for rpms in
+[Ip-health] Patent Reform Act Of 2007: Bill Proposing Fundamental Changes To The Patent System
+Rev 317: merge from samba4 in http://samba.org/~tridge/ctdb
+[perl #43172] [TODO] Is interactive configuration step necessary in config/inter/pmc.pm? 
+Re: [R] A More efficient method?
+FNC Alert
+[R] graphics - wireframe
+News & Views | 04.11.07
+Re: [R] Getting names of objects passed with "..."
+Re: [PROPOSAL] Disambiguate of Section 12.5, Deprecate GPL/LGPL
+Re: Hash Key is a Null Value
+CBSNews.com News Alert! AP: Fourth Suspect In JFK Terror Plot Surrenders
+Re: Software speech opinions
+Re: bug in perl or in my head ;-)
+Stock Notification for Netflix, Inc.
+[R] Define tick mark width
+Santa Rosa Laptops
+svn commit: samba r23400 - in branches: SAMBA_3_0/source/include
+Re: if (<FH>) VS while (<FH>)
+[R] help comparing two median with R
+Re: [sugar] [PATCH] services/presence/server_plugin: reformat,
+730a 6/22 Update: Crew preps for entry
+Re: [R] Random Forest Imputations [Broadcast]
+Re: svn commit: samba r23290 - in
+Re: [sugar] Cairo tile engine,
+SMP-expantion
+Re: idle_timeout processing in the parent smbd?
+[R] R data set size limit
+Re: Announce: DebianArt.org
+Beth, Your Password Change Has Been Processed
+book on perl
+Re: [R] names not inherited in functions
+Request for kp6 compiler architecture review
+Your favorite web content all on one page
+Re: Rename desktop-base ?
+FNC Alert
+Re: [R] minimum of each row in a matrix
+Re: [perl #42591] [PATCH] Silencing "missing sentinel" warnings on OpenBSD
+[Samba4] Making Samba4 winbind compatible to Samba3 winbind
+Re: [R] a string to enviroment or function
+svn commit: samba r22857 - in branches/SAMBA_3_0_26/source: .
+Re: RegEx Substitution + Arrays
+Re: [sugar] [PATCH] services/presence/: move more of the
+ukase: Dictionary.com Word of the Day
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [R] help comparing two median with R
+CNN Alerts: bush
+Re: [R] automating merging operations from multiple dataframes
+Re: [R] Tools For Preparing Data For Analysis
+Stock Notification for NTELOS Holdings Corp.
+Re: = at Start of Line ([svn:perl6-synopsis] r14421 - doc/trunk/design/syn)
+[d@DCC] Another Bloc members calls for swift copyright amendments
+Re: book on perl
+spelling was Re: GRML swspeak?
+Re: [R] Batch
+[R] Sharpe-Ratio
+News Summary
+Stock Notification for ONEOK Inc.
+Re: Uninstalling a PERL module
+Re: [R] pie chart in lattice - trellis class
+transpose/reshape wide dataset to long and vice versa
+Re: POD <-> Code entanglement
+TopCoder(R) Single Round Match sponsored by Yodlee - $5,000 prize
+Rev 123: merge from ronnie in http://samba.org/~tridge/ctdb
+Re: regexp ...
+regex question
+Re: [cc-community] Does BY-SA extend to a newspaper?
+[R] Is it possible to pass a Tcl/Tk component as argument to a
+RE: LibXML help
+setting a hidden field with WWW::Mechanize
+550p 6/12 Update: False fire alarm prompts quick action
+Re: [R] How to shadow 'power' area?
+Re: [R] rewrite a data file use write.table(),
+Re: switching from amd to p3
+Re: regexp ...
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: [R] Exponentially Weighted Moving Average
+The Skinny: Friday April 13, 2007
+Re: regexp ...
+Re: readahead() which is Linux-only vs. posix_fadvise()
+How to get package dependecies list before installing a package.
+svn commit: samba r23066 - in
+Re: Code Comments/Tips - Can this code be better?
+CNN Alerts: bush
+News Summary
+Re: svn commit: samba r23290 - in
+Re: [R] question about formula for lm
+Re: [R] Character coerced to factor and I cannot get it back
+Re: [R] xyplot with grid?
+Re: Does PAC Validation Require External Communication?
+[Ip-health] Abbott Sues Act Up-Paris
+Re: [perl #43006] Tail call force-frees current context
+Stock Notification for NTELOS Holdings Corp.
+Re: security precautionswith iptables?
+Re: [R] Runing R in a bash script
+Re: svn commit: samba r23322 - in branches/SAMBA_3_0_26/source: .
+Re: [R] Nonlinear constrains with optim
+Re: CC Sampling Plus 1.0
+Re: smb service discovery support
+Rev 534: raise the default keepalive limit in
+[R] Dealing with large nominal predictor in sem package
+Re: [R] t value two.sided and one.sided
+Re: [perl #42898] [PATCH] src/library.c , honor  PARROT_PREFER_SOURCE
+Re: [R] R-2.5.0 compilation problem on Linux powerpc
+svn commit: samba r22295 - in
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: [sugar] olpc-games osc protocol
+The CNN Political Ticker PM, Wednesday, May 30, 2007
+Re: [R] for loop doesn't stop with upper loop value
+[R] object not found inside function
+Re: [R] learning lattice graphics
+[cc-devel] Creative Commons TechBlog
+Re: svn commit: samba r22713
+May 11, 2007
+Re: [R] help with executing instruction every i-th run of loop
+[R] missing package
+Stock Quote Notification for Netflix, Inc.
+[sugar] How to get pygtk to give you a GtkToolTips from a Toolbar
+Re: Iterate through a hashref using XML::Simple (real post)
+Re: [R] What is parameter "display" (windows/grDevices)
+Stock Quote Notification for NTELOS Holdings Corp.
+Re: [sugar] OLPC software: our first release and beyond.
+Re: Request for GR: clarifying the license text licensing /  
+Re: Debian Desktop efforts for lenny (Was: Rename desktop-base ?
+svn commit: samba-web r1103 - in trunk: .
+Re: [svn:parrot] r18414 - in trunk: lib/Parrot src
+Parrot in hardware
+Re: GPLv2-only users of Samba library code?
+Re: automatic wlan connection at bootprocess on Etch only on second try?
+[Reform] There are no reported side effects or contraindications to Wondercum usage. I feel strong and have a drive to exercise. I also feel more confident and happy.
+AccuWeather.com Alert(tm) Advisory  (avcavc)
+Re: [Samba] Support for multiple file streams?
+News & Views | 05.14.07
+Re: [R] row index
+Re: [R] Estimate Fisher Information by Hessian from OPTIM
+FOXNews.com CEO NewsBrief - June 1, 2007
+News Summary
+Re: [R] Analysis of Variance
+saens removed from ftp.us.d.o (was: relevancy of saens as a member of ftp.us.d.o ?)
+CNN.com Daily Top 10
+svn commit: samba r22974 - in branches/SAMBA_3_0/source: .
+[sugar] [PATCH] services/presence/server_plugin: When creating a
+Re: dlopen(NULL) ?
+Rev 374: fixed syntax of /sbin/ip in http://samba.org/~tridge/ctdb
+PE Today: The Katie Chronicles
+Re: Cursor parking?
+[R] Help in HMM commands
+Re: [svn:parrot] r19231 - trunk/languages/perl6/src/pmc
+Re: [R] Problems compiling RMySQL
+[Slashdot] Stories for 2007-06-08
+[cc-devel] [ cctools-Feature Requests-1587772 ] Upload Email
+[R] Programming Problem (for loop, random # control,
+FNC Alert
+Stock Quote Notification for Netflix, Inc.
+svn commit: samba r23342 - in branches: SAMBA_3_0/source/rpc_parse
+svn commit: samba r23229 - in branches/SAMBA_3_0_26/source/librpc:
+Re: switching from amd to p3
+Re: [sugar] Activity debug level
+Re: t/codingstd/perlcritic.t needs to be optional
+[R] aovlmer.fnc, lmer and binomial response
+Re: [R] comparison of two logistic regression models
+Re: hash comparison ideas
+Re: [R] handling a cancelled file.choose()
+Regexp: s/<at($pos)>/$str/ should replace or add?
+[Ip-health] PCDA Recommendations to WIPO General Assembly (not finalized yet)
+[R] (no subject)
+svn commit: samba r22702 - in branches: SAMBA_3_0/source/nsswitch
+Re: Is Parrot 1.0 too late?
+[R] like apply(x,1,sum), but using multiplication?
+[R] sorting data
+svn commit: samba r22750 - in
+Rev 5346: typofix in
+Check out the latest evolution of CNN.com
+Re: [d@DCC] Bill C-59 currently being "debated"
+Re: [R] shell.exec() on Windows, unexpected behavior
+Re: [perl #42602] [PATCH] Cleanup of additional C++ keywords
+Re: [R] zoo merge() method
+Re: [cc-community] Obtaining and releasing documentaryinterview
+Re: Final text of GPL v3 (new interactive interfaces)
+Re: off-topic posts
+Re: svn commit: samba r22202 - in
+Tonight on Inside Sport
+Re: [R] Goodness-of-fit test for gamma distribution?
+[R] For Help in libm_c32.so for fortran
+UNICEF e-news: Gazas children in crisis
+Re: [R] viewing source code
+Re: Jagged Alliance 2 Source Code
+FNC Alert
+Re: [R] Suggestions for statistical computing course
+Re: getting PS/2 wheelmouse's scrollwheel to work on Thinkpad 600?
+Query regarding Java/perl interface
+Re: Final text of GPL v3
+Re: Run 2 process in parallel.
+Re: [R] BATCH
+Re: Help with writing SSH script without Net::SSH::Perl module
+Re: [R] digest readability/ thunderbird email client/ R-help
+Re: foreach broken in my script
+Rev 127: tidyups in test code in http://samba.org/~tridge/ctdb
+Re: Mac::Carbon Bug
+FNC Alert
+Hannah Storm: The Imus Story Keeps Getting Bigger
+svn commit: samba r22469 - in
+freeze after <STDIN>
+Re: unit messages
+Re: did I get greedy quantifiers wrong ?
+=?iso-8859-2?Q?Speech_Dispatcher_bugfixes=2C_request_for_help_with_testing?=
+Debian patches: end of batch
+Re: svn commit: samba r23322 - in branches/SAMBA_3_0_26/source: .
+Curiocity
+Prizes doubled for Microsoft CSF Competition
+Re: [svn:perl6-synopsis] r14376 - doc/trunk/design/syn
+Re: [R] adding custom details to ggplot subplots
+shell script request? possibly?
+Re: [R] Sorting dataframe by different columns
+Re: [R] runif with weights
+Re: [R] Upgraded FC4 to FC5 - unable to start device X11 in R
+svn commit: samba r23058 - in
+Re: [R] Udpate R under a proxy
+Re: [R] repeated measures regression
+Re: [R] A More efficient method?
+precompiled pp for windows.
+Re: [R] Mantel-Haenszel relative risk with Greenland-Robins
+Re: svn commit: samba r22342 - in
+Re: [perl #39197] [RESOLVED] [CAGE] lib/Parrot/Test.pm ignores core
+Re: [R] Removing a list of Objects
+Re: [R] Significance test for discrete data
+[Ip-health] Abbott's Against Thailand Blackmail Continues
+svn commit: samba r22559 - in
+Re: Uninstalling a PERL module
+Re: Short HOWTO on using git for Samba development
+[R] Efficient computation of trimmed stats?
+[R] Re :  Bootstrap sampling for repeated measures
+Re: [PATCH] Implement simple means of supporting pam_winbind UPNB
+[R] Rpad examples having problems with local server
+svn commit: samba r22985 - in branches/SAMBA_4_0/source/lib/events:
+[svn:parrot-pdd] r18254 - in trunk: docs/pdds src/pmc t/oo t/pmc
+FOXNews.com CEO NewsBrief - June 20, 2007
+[R] searching for special variables
+Re: Does PAC Validation Require External Communication?
+CNN Alerts: bush
+add comment to the begin of a line
+[perl #43056] [CAGE] Revise t/src/intlist.t To Use Non-libparrot C Testing Functions 
+FOX 411
+Re: Anyone found problems with 2.6.21.5 kernel speakup and mrproper?
+[R] sorting in barplot
+FNC Alert
+Re: redhat 7 with speakup question
+Re: Encryption
+Re: [R] Putting 2 breaks on Y axis
+Re: [R] equivalent of windialog on unix??
+Re: [R] Batch processing in Windows
+Re: Can I get some help, please?
+group problem with samba pdc
+Re: can speakup be used in bsd?
+Re: [R] A More efficient method?
+Re: encode UTF8 -> MIME
+FNC Alert
+AccuWeather.com Alert Forecast
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Rev 225: added attach command in ctdb_control in
+wine and speakup
+[svn:perl6-synopsis] r14420 - doc/trunk/design/syn
+Re: Bacula: GPL and OpenSSL
+Re: errors when reinstalling kernel-2.6.19 on fedora core 6
+In The News: American Idol, Britney Spears, Paris Hilton
+svn commit: samba r23381 - in branches/SAMBA_4_0/source:
+Re: [R] Problem with the installation of "install R" on Sun Solaris
+Re: Iterate through a hashref using XML::Simple (real post)
+svn commit: samba r23093 - in branches: SAMBA_3_0/source/script
+Re: incorrect event for ComboBox in samba4's swat.module.ldbbrowse
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Removing lines
+Re: [R] Multivariate Outlier Detection - Robust
+Re: moving from amd to p3?
+brltty and braillenote
+Re: moving from amd to p3?
+[perl #42427] [CAGE] cleanup perlcritic errors 
+[R] Mantel-Haenszel relative risk with Greenland-Robins variance
+Intro / Parrot / Functional Lang Imp Q
+Re: [R] time series
+Samba with Autocad Sheet Set Manager
+Re: Is Parrot 1.0 too late?
+svn commit: samba r23685 - in branches/SAMBA_3_0/source/script: .
+Perl plugin for eclipse
+Palestinian fighting 'will burn all of us,' official says
+Re: [R] How to install R 2.5 with Synaptic in Ubuntu?
+[sugar] Error building atk
+Re: [R] graphs superimposed on pictures?
+[Ip-health] KEI Statement on USTR 301 list reference to Thailand
+ScanMail Notification.
+[R] Coercing data types for use in model.frame
+Re: [SPAM] Re: perl 5.8.8 install problem
+Re: svn commit: samba r22411 - in branches/SAMBA_3_0/source/smbd: .
+Re: PIDL work for 3.0.26
+Re: m-a a-i fglrx-kernel-src and m-a a-i alsa-source failed
+Re: perl on strings
+Re: [cc-community] Fwd: needing some copyright advice
+Re: [R] A More efficient method?
+CNN Alerts: bush
+Re: Sigils by example
+Project Finance Tutorial  July 23-25 2007  New York, New York
+Rev 210: fixed some warnings in http://samba.org/~tridge/ctdb
+Re: [R] Aggregation of data frame with calculations of proportions
+Re: [R] xyplot with grid?
+[R] working with matrix
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Rev 455: remove some cruft thats not needed any more in
+PE Today: A Fake Lesley Stahl Hits YouTube
+RE: syntax error of some sort?
+Re: [PROPOSAL] Disambiguate of Section 12.5, Deprecate GPL/LGPL
+Massacre at Virginia Tech
+Re: [R] Problem installing gnomeGUI in Ubuntu: "HAVE_ORBIT" was
+Re: [perl #43105] [PATCH] function mmd.c::mmd_expand_y: newly allocated memory unitialized
+Stock Quote Notification for Netflix, Inc.
+Rev 307: enable TCP keepalives in http://samba.org/~tridge/ctdb
+Re: etch on latitude
+Re: [R] Fisher's r to z' transformation - help needed
+Stock Notification for NTELOS Holdings Corp.
+Stock Notification for SatCon Technology Corporation
+svn commit: samba r23325 - in branches/SAMBA_4_0/webapps: .
+CNN Alerts: bush
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+High-Frequency at The Bottom?
+Re: Suspicious && ?
+[R] GLMM for unbalanced data
+Re: Parsing a file within a jar file
+Re: [R] importing excel-file
+svn commit: samba r23714 - in
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+[R] How to latex tables?
+svn commit: samba r23098 - in branches: SAMBA_3_0/source/modules
+Re: Web Module (Was: Perl6 new features)
+Re: Redistribution with multiple licenses
+FNC Alert
+[Ip-health] Inexpensive medicine not solution for real health-care savings
+Re: Understanding methods OO Perl
+Re: regex for matching repeated strings
+Re: References inquiry
+CNN.com Daily Top 10
+Re: cat (.sh) in Perl
+Re: svn commit: samba r23120 - in branches/SAMBA_3_0_25/source:
+Re: [R] sampling problem - new to R
+Re: [sugar] Issue: Activities do not start
+Re: [LH] Kate Bush -- Bad Neighbor! 
+[sugar] Help with booting Qemu in emulation
+FNC Alert
+svn commit: samba r22424 - in branches/SAMBA_4_0/source/lib/tdb: .
+Re: [perl #43031] [PATCH] Move instance variable initialization to new()
+Stock Quote Notification for Napster
+Re: [R] Meta-Analysis of proportions
+[LH] re: Kate might tour . . . 
+Re: initial test version of CTDB clustered Samba available
+Re: [cc-devel] Embedded License Format, OO.org
+Re: [R] mardia's test
+svn commit: samba-docs r1099 - in trunk/manpages-3: .
+svn commit: samba r23573 - in branches: SAMBA_3_0/source/nsswitch
+Re: Usenet messages are appearing on beginners@perl.org [perl #43141]
+[Proposed PATCH] Change libparrot Names and Locations
+Re: [R] if statement
+RE: Chinese word problem
+Re: initial test version of CTDB clustered Samba available
+Managing Physical and Financial Uncertainty in the Power Industry  June 19-20  NY NY
+[R] in unix opening data object created under win
+Re: [R] Predicted Cox survival curves - factor coding problems..
+Re: [R] Strange RODBC problem
+Re: Matching of filename regular expression (was:pr warn die question)
+accede: Dictionary.com Word of the Day
+svn commit: samba r23510 - in branches/SAMBA_3_0/source: groupdb
+Parrot 0.4.13 "Clifton" Released
+[R] Export to spss .SAV format
+Re: [R] "R CMD INSTALL in R 2.5.1 (2007-06-27)"
+Re: initial test version of CTDB clustered Samba available
+Information for Napster
+Ruling party wins Nigeria vote
+Delivery failure for HTMLQUICKNEWS
+Reporter Carl Bernstein on Hillary Clinton!
+Re: Environment variable
+Re: Referring to source code within Perldoc: the new A<> code
+releasing libacpi-0.1
+Bush Set to Veto Iraq War Bill
+Re: [R] Is it a bug ?
+[R] Oddities upgrading from 2.4.1 to 2.5.0
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm Pt
+Re: Rsync
+Re: [R] .jinit() problem
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: [R] Construct time series objects from raw data stored in csv
+Welcome Inside Sport
+Re: Running scripts in the Background...
+Re: Bacula: GPL and OpenSSL
+Re: [svn:parrot] r18971 - trunk/config/gen/makefiles
+Re: [R] lme vs. SAS proc mixed. Point estimates and SEs are the
+The Skinny: Wed., April 18, 2007
+Re: [R] Removing a list of Objects
+Re: [R] Aggregation of data frame with calculations of proportions
+Re: [R] A function for raising a matrix to a power?
+Re: [R] Computing fundamental harmonics from a periodogram
+Renewable Portfolio Standards April 23-24  Westminster, CO
+Re: svn commit: samba r22731 - in branches/SAMBA_3_0/source: . tests
+Re: [R] Problem installing R packages in OpenBSD
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [svn:perl6-synopsis] r14405 - doc/trunk/design/syn
+Re: [LH] Kate to tour? 
+Re: [R] compiler cannot create executables
+Stock Notification for NTELOS Holdings Corp.
+svn commit: samba r22683 - in branches/SAMBA_4_0/source/librpc/rpc:
+[Slashdot] Stories for 2007-04-23
+Re: What happened to Getopt::Std ?
+Stock Quote Notification for SatCon Technology Corporation
+Stock Notification for Napster
+Re: missing something from regex ...
+[R] RE :  for loops
+Re: [R] importing excel-file
+Re: [cc-community] A friend's website done using only CC-licensed
+Energy Efficiency, Demand Response and Load Management  July 24-27 San Francisco
+Re: [R] problem with read.table
+Test Message
+svn commit: samba r23497 - in branches/SAMBA_3_0/source: .
+CNN Alerts: bush, etc.
+Energy Hedging & Trading/Realizing Maximum Value from Generation  May 8-11, 2007  Chicago
+[R] Random Number Generator of Park and Miller
+Former President Bill Clinton Tonight!
+Re: [R] generating correlated Bernoulli random variables
+Re: [R] Too slow to execute!
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Kerberos and Shares
+Re: [cc-devel] XMP/CC in Tracker, first patch
+Re: [R] Showing NAs when using table()
+AccuWeather.com Alert Forecast
+[R] viewing source code
+FNC Alert
+Stock Quote Notification for NTELOS Holdings Corp.
+[R] Restructuring Hadley CET data
+[Ip-health] UPI -  Is PhRMA swimming against IP tide?
+CBS Evening News with Katie Couric E-Mail Alert
+svn commit: samba r23103 - in
+Justice Dept. Defends Broader List of Targeted Prosecutors
+T&D Asset Management  July 16-17  Charlotte, NC
+Re: Hello...
+Re: draft NEWS update for 0.4.13
+Re: Bacula: GPL and OpenSSL
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+New SEC Document(s) for ONEOK Inc.
+Re: Computer with Debian preinstalled
+stoping X from starting when debian etch boots
+Re: [R] Jarque-Bera and rnorm()
+argot: Dictionary.com Word of the Day
+SWAT translations: complete them and add some more?
+[perl #42974] [BUG] Hungry Alligator Eats Integer; Developer Registers Complaint 
+[R] Function -return value
+Re: [sugar] embedding mozilla into an activity
+New SEC Document(s) for ONEOK Inc.
+Re: VmWare
+svn commit: samba r23591 - in branches: SAMBA_3_0/source/registry
+Re: [R] monthly least squares estimation
+The CNN Political Ticker PM, Friday, June 22, 2007
+Re: alsa questions?
+svn commit: samba r22836 - in
+Re: [R] Why a multi column,
+Re: [R] exaustive subgrouping or combination
+Stock Quote Notification for NTELOS Holdings Corp.
+Re: svn commit: samba r22495 - in branches/SAMBA_3_0/source: . smbd
+740p 6/13 Update: Russian computers still down
+PDD 15: vtable overriding question
+News & Views | 06.21.07
+[R] Extracting sums for individual factors in data frames
+svn commit: samba r22591 - in branches: SAMBA_3_0/examples/VFS
+[Slashdot] Stories for 2007-04-27
+Re: [R] Using R to create pdf's from each file in a directory
+[sugar] New approach to the controls implementation
+Re: setgroups problems on FreeBSD - proposed fix
+Re: [R] Construct time series objects from raw data stored in csv
+[Slashdot] Stories for 2007-05-17
+Re: svn commit: samba r22510 - in branches/SAMBA_3_0_RELEASE: .
+Re: Speakup in userspace
+CNN Political Ticker AM, Thursday, May 10, 2007
+[R] TS or citrix with R?
+Build status as of Sun Apr 15 00:00:02 2007
+Re: [R] faster image display?
+query about code
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+quiescent: Dictionary.com Word of the Day
+Re: using a homemade perl module
+Re: Reading and matching email ids
+Re: Using regular expressions with delimitaters
+Re: [R] simultaneous actions of grep ???
+Re: ..weeding out bad debs off mirrors, was: Can I get some help, please?
+News Summary
+Stock Notification for Netflix, Inc.
+Re: readahead() which is Linux-only vs. posix_fadvise()
+Re: svn commit: samba r22951 - in
+[R] tapply histogram
+Linux CIFS IPv6 Patch
+Re: hwclock
+Re: [perl #42620] PGE 'Out of memory' panics.
+[R] retrieving stats from bwplot
+svn commit: samba r22135 - in branches/SAMBA_3_0/source: . auth
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+[R] R:  polygon error?
+CNN Alerts: bush
+Re: Executing Perl 6 code using PIR backend
+[svn:parrot-pdd] r18616 - trunk/docs/pdds/draft
+[Ip-health] NEJM: A National Survey of =?windows-1252?Q?Physician=96Industry?=
+[R] categorical time series
+Re: Sorting the items in a directory
+[R]  SweaveInput and absolute paths
+Re: RegEx again
+Re: shuffling cards
+MSN-list Digest, Vol 7, Issue 99
+Re: [R] Data transformation for chi-square test.
+svn commit: samba r22454 - in
+Re: [R] QP for solving Support Vector Regression
+Re: [R] cat() to STDERR
+Re: [svn:parrot] r18643 - in trunk: include/parrot src
+[R] clustered standarderrors using design package
+Re: Sort + Use of uninitialized value
+Re: [R] Conditional logistic regression for "events/trials" format
+Re: [R] Looking for the first observation within the month
+Re: Summary of today's digging into t/compiler/pge/06-grammar.t
+Re: High-Frequency at The Bottom?
+svn commit: samba r22137 - in branches/SAMBA_4_0: .
+News Summary
+Re: [R] Problem with ?curve
+60 Minutes E-mail Alert
+RE: syntax error of some sort?
+Rev 548: run smbstatus every 10 minutes to scrub databases in
+Rev 601: when we get mappings back from a idmap script. store it
+Re: [perl #38957] hash test failures (core dump)
+Re: [sugar] Tinderbox results, 20070621-1913-f7.
+[R] my.symbols and zoomplot functions now available in
+Rev 86: forgot to add ctdb_client.c in http://samba.org/~tridge/ctdb
+Rev 211: allow ctdbd_allocate_pkt to be used in client code in
+Re: [sugar] Activity Launching Change Proposal
+This Week on CBS SportsLine.com: Terrible Tuesday for two?
+FNC Alert
+Rev 5344: remove moved files from merge. in
+Re: [R] basic math question?
+A problem about IPC::Open2
+Stock Quote Notification for Netflix, Inc.
+Re: [R] importing sas datasets
+svn commit: samba r22620 - in branches/SAMBA_4_0/source/libcli: .
+Re: Swap encryption (via LUKS) and Hibernation (disk suspend)
+Re: Request for suggestions of DFSG-free documentation licences
+Re: [R] Determining whether a function's return value is assigned
+Re: Short HOWTO on using git for Samba development
+Re: Regexp
+svn commit: samba r23140 - in
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [R] Visualize quartiles of plot line
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+svn commit: samba r23613 - in branches/SAMBA_3_0_RELEASE: .
+Re: [sugar] new Sugar dependency: libtelepathy-glib
+Re: forking problem with dbd::mysql
+[sugar] Change of address for OLPC mailing lists
+Rev. Al Sharpton Sets the Record Straight on Paula Zahn Now!
+Re: [R] subset arg in (modified) evalq
+CNN Alerts: bush
+[cc-devel] Media Hosting Wishlist
+[Ip-health] Anbumani Ramadoss threatens compulsory license for Glivec
+Re: svn commit: samba r23597 - in branches/SAMBA_3_0/source/script:
+Re: [svn:parrot] r18369 - in trunk: config/gen/platform/cygwin config/gen/platform/generic config/gen/platform/netbsd config/gen/platform/openbsd config/gen/platform/solaris src src/jit/ppc src/jit/sun4 t/codingstd
+Re: Redirecting file handler to STDOUT
+Information for Netflix, Inc.
+Re: Referring to source code within Perldoc: the new A<> code
+Re: [perl #42339] [CAGE] Test Valid and Invalid Parrot Flags
+[R] GLM dist Gamma-links identity and inverse
+Re: svn commit: samba r23047 - in
+CNN Alerts: bush
+Re: [perl #43368] [PATCH] typo in docs/gettingstarted.pod
+svn commit: samba r23312 - in branches: SAMBA_3_0/source/nsswitch
+Re: [R] Where is CRAN mirror address stored?
+Re: Creative Commons 3.0 Attribution license
+[R] error message: only first element in each line of matrix used
+445p 5/31 Update: Shuttle cleared for 6/8 launch
+[Ip-health] Economic Times: Pharma firms will have to wait a while for data exclusivity norms
+Re: [R] how to evaluate a dynamic variable?
+Re: Final text of GPL v3
+Re: Net::SFTP functions
+[R] plotting command trouble
+RE: Prompt in Net::Telnet
+svn commit: samba r23158 - in branches/SAMBA_4_0/source/lib/talloc:
+Re: Upgrading Debian to Testing with speakup
+[R] How to extract R codes that embedded in a HTML file using
+Re: [R] Not showing dvi with Hmisc latex()
+Parrot Bug Summary
+Re: Math::BigFloat
+CBSNews.com News Alert! Duke Lacrosse Players Cleared
+Re: [R] minimum from matrix
+Re: How to get the values
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+[R] the way to look at all the codings of any functions
+Re: Various Questions
+svn commit: samba r23340 - in branches: SAMBA_3_0/source/nsswitch
+New SEC Document(s) for ONEOK Inc.
+Re: [R] Single Title for the Multiple plot page
+Re: [R] creating different strata
+svn commit: samba r22718 - in branches/SAMBA_4_0/source: .
+Re: [R] aov problem
+Re: [R] colSum() in Matrix objects
+Re: Code Comments/Tips - Can this code be better?
+FNC Alert
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+Replies from linux.* (was: Final text of GPL v3)
+Zoellick nears OK as World Bank chief
+Re: Final text of GPL v3
+svn commit: samba r23644 - in
+Re: [R] anova on data means
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+TCO Round 2
+Re: [R] Dissimilarity
+Re: [R] import data
+Stock Notification for Napster
+Re: Perl-cgi execution problem
+[perl #43033] [PATCH] Silence warning 
+[sugar] Data Transport between nodes
+Information for Netflix, Inc.
+Re: Fwd: [backlog] mirror list updates (this time to the public address)
+Re: svn commit: samba r22762 - in branches/SAMBA_4_0/source:
+[ot] accessible htpc for sale
+Re: UTF-8/SA WORKAROUND only - NOT - a fix..
+Re: [R] summing up colum values for unique IDs when multiple ID's
+Latest Computing News
+[R] How can i compute error?
+svn commit: samba r22437 - in branches/SAMBA_4_0/source/libnet: .
+[cc-community] Q. about license metadata in <span> element and
+[sugar] Bug #590 fixed
+Re: Web Module (Was: Perl6 new features)
+svn commit: samba r22628 - in
+Re: mirrors inactive: debian.teleglobe.net, ftp.lug.udel.edu
+[patch] hide libsmbclient's private symbols
+HowStuffWorks Automotive Newsletter May 29, 2007
+[R] pie initial angle
+Rev 507: web tweaks in http://samba.org/~tridge/ctdb
+[R] Reshape a sparse matrix
+[Reform] Greater than zero This instance is greater than object -or- object is a null reference () Compares the supplied object parameter to the property of the object.
+Re: [R] rJava help
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: [R] getting t.test to work with apply()
+svn commit: samba r23504 - in branches: SAMBA_3_0/source/registry
+Re: Request for GR: clarifying the license text licensing / freeness issue
+CBS SportsLine Daily Sports Report
+Re: Final text of GPL v3
+Re[2]: VmWare
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+In The News: Paris Hilton, Ty Pennington, Phil Spector
+Stock Notification for Netflix, Inc.
+CNN Alerts: bush
+Re: Intel IA-32 EL License - ok for non-free?
+Re: syntax error of some sort?
+Re: Logo trademark license vs. copyright license
+Classic gifts Dad will love
+Re: [R] model.frame: how does one use it?
+Re: Understanding methods OO Perl
+AccuWeather.com Alert Forecast
+Re: [R] problem with xlsReadWrite package
+This week's component news: $25,000 in prizes
+Re: [R] Scatter Plot in R - Help
+Re: [R] suppressing outliers in ggboxplot
+Re: MPEG asks for MIME review for the MPEG21 file format
+Re: [R] Reasons to Use R
+Cell Signalling Resources
+Re: Quick Programs Menu
+Re: winbindd panic
+[R] model.frame: how does one use it?
+Re: [R] When to use quasipoisson instead of poisson family
+Re: [R] intersect more than two sets
+Re: [R] Formatted Data File Question for Clustering -Quickie Project
+Re: svn commit: samba r23691 - in branches:
+[Ip-health] Swissinfo: Novartis wants drugs access overhaul
+News Summary
+Re: t/codingstd/perlcritic.t needs to be optional
+[R] Create an AR(1) covariance matrix
+Re: [R] intersect more than two sets
+Re: [R] Responding to a posting in the digest
+Re: perl multithreading
+Re: svn commit: samba r22728 - in branches:SAMBA_3_0/source/libads
+Re: [R] R vs. Splus in Pharma/Devices Industry
+Re: [R] Newbie's question
+All charges are dropped in the Duke Lacrosse case--we have an exclusive with one of the families.  That's tonight on the CBS Evening News with Katie Couric
+AccuWeather.com Alert Forecast
+Re: [R] ordering in list.files
+svn commit: samba r22532 - in branches/SAMBA_3_0_25: . source
+Test of scripts with Test::More
+[R] Goodness of fit for hclust?
+svn commit: samba r23247 - in branches/SAMBA_3_0_26/source: include
+Rev 5380: merge from upstream in
+Re: [R] problem installing Rpmi : mpi.h...Found in /usr/include/lam,
+MAC and install CPAN
+Re: [R] Lattice: hiding only some strips
+Re: [LH] Kate Bush -- Bad Neighbor! (more details)
+svn commit: samba r23271 - in branches/SAMBA_3_0/source: . include
+[R] system("R CMD BATCH ...") on UNIX-alikes
+question on debian etch speakup net installation
+[R] How to draw several ROC curves on a common graph
+Re: [R] Dealing with large nominal predictor in sem package
+[R] Help on averaging sets of rows defined by row name
+Re: [R] Fitted Value Pareto Distribution
+News Summary
+PE Today: The Religious Left
+svn commit: samba r23139 - in
+[R] R as a server on Linux
+svn commit: samba r22963 - in branches/SAMBA_4_0/source/lib/events:
+Re: new FAQs
+[R] Intro and a Question
+[R] opening a file from within a zipfile that is online
+Re: [R] problem with Axis labels
+Re: [R] Optimization
+[perl #43055] [CAGE] Revise t/src/io.t To Use Non-libparrot C Testing Functions 
+[Slashdot] Stories for 2007-05-11
+showstopper for 3.0.25a in bugzilla
+RE: Debian install with Software Speech?
+Re: [R] [OT] 'gv' and fractional points
+Re: Bug#431883: dcraw license does not give permission to 
+[R] Convert Time from HH.mm to Decimal hours?
+Re: Boot on CD, transfer to USB?
+Stock Notification for Napster
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: RegEx again
+Re: emu10k1 compilation problms.
+Re: svn commit: samba r22296 - in
+Re: svn commit: samba r23391 - in branches: SAMBA_3_0/source/smbd
+Stock Notification for ONEOK Inc.
+svn commit: samba r23008 - in branches/SAMBA_3_0_25/source/client: .
+Re: [R] fitting mixed models to censored data?
+[R] Half of a heatmap
+Rev 131: - send the record header from the client to the daemon
+Re: [R] Adding different output to different lattice panels
+Re: [R] Warning message in Design ...
+Re: [R] Computing time differences
+[perl #43336] [TODO] config/gen/config_h.pm:  Write unit tests 
+[R] Dropdown boxes in tcltk and R
+News Summary
+Twin boys among six slaughtered at Wisconsin home
+Re: svn commit: samba r22132 - in branches:
+svn commit: samba r23621 - in branches: SAMBA_3_0/source/librpc/idl
+News Summary
+Re: [R] Function to convert categorical variable in numerical
+Re: [perl #43481] t/examples/shootout.t (shootout_16.pir) fails on
+svn commit: samba r23491 - in
+630p 6/19 Update: Undocking video thrills flight control; mystery debris assessed
+[Slashdot] Headlines for 2007-04-10
+Re: [sugar] CSound - csnd
+Re: [R] name of the variable that will contain the result of a
+Re: fedora live and speech
+News Summary
+Re: [Samba] Binary_Packages/Debian
+CNN Alerts: bush
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Perl 6 & Parrot Essentials as project documentation
+rejoinder: Dictionary.com Word of the Day
+svn commit: samba r23109 - in
+Re: [R] summary and min max
+svn commit: samba r23163 - in branches: SAMBA_3_0/source/include
+Problems referencing variable value in another loop
+Re: Annoying HASH(0x...) in Output
+Re: [R] lapply not reading arguments from the correct environment
+[Slashdot] Headlines for 2007-05-16
+Build status as of Sat Apr 14 00:00:02 2007
+[perl #43329] [TODO] config/auto/gcc.pm:  Write unit tests 
+News Summary
+Re: svn commit: samba r23467 - in branches: SAMBA_3_0/source/smbd
+Re: [R] Randomising matrices
+FNC Alert
+Re: Not-so-mass bug filing for the patented IDEA algorithm
+[R] R behaviour related to user input (readline()) and run selection
+Key bindings in speakup
+Re: [R] Coercing data types for use in model.frame
+Rev 304: fixed a fd close error on reconnect in
+Rev 85: - add --daemon flag to ctdb_fetch test code in
+Re: CPAN and Windows
+Perl-cgi execution problem
+[Reform] Creative Suite 3
+Re: [R] Legend outside plotting area
+FNC Alert
+The CNN Political Ticker PM, Monday, April 09, 2007
+Carbon Sequestration Development & Finance Summit July 11-13 Houston
+Re: [R] fractional calculations
+Re: svn commit: samba r22672 - in branches/SAMBA_4_0/source/libnet:
+Re: Conditional question
+[R] different hights & centering in one device region
+Rev 5377: merge from upstream in
+Re: [sugar] GComprisXO progress
+Re: query about code
+Re: [R] pie initial angle
+svn commit: samba r22876 - in
+Re: Definitely unslung
+[R] specify constraints in maximum likelihood
+Re: switching to testing at install?
+News Summary
+CNN Alerts: bush
+svn commit: samba r23328 - in branches/SAMBA_3_0/source/include: .
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+1030p 6/17 Update: Beck says EVA a success; critical computer test on tap Monday
+May 29, 2007
+Re: 'Keys' Question
+Re: Where Clause Help.
+[perl #42882] List numbering typo in pdd15 
+Re: [R] digest readability/ thunderbird email client/ R-help
+[R] R 2.5.1 is released
+Re: Can a font with an unfree character be free?
+Google Alert - bush
+svn commit: samba r23138 - in branches/SAMBA_4_0/source/libcli/raw:
+Re: [PATCH] LOOKUP_NAME_EXPLICIT to avoid lockups between winbindd
+[perl #43174] [TODO] Figure out why -libpath: needs to be removed from $linkflags and $ldflags (config/inter/progs.pm) 
+[Slashdot] Stories for 2007-04-26
+Re: Request for GR: clarifying the license text licensing / freeness issue
+Re: Hello...
+Re: [R] Matrix library error: "should never happen; please report"
+Re: x and xx operators fail when given negatives
+Re: [R] problem with hist()
+Carbon Sequestration Development & Finance Summit July 11-13 Houston
+[R] Mardia's multivariate normality test
+Re: getting rid of mkproto.sh from Samba3
+Rev 195: added a ctdb_get_config call in
+svn commit: samba r23602 - in branches/SAMBA_3_0_RELEASE: .
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+AccuWeather.com Alert Forecast
+Re: [R] Problem with binding data-frames
+svn commit: samba r22608 - in branches/SAMBA_4_0/source/selftest: .
+Re: [R] how to get column/row info from a dist object?
+Re: [R] 3d graph question
+New SEC Document(s) for ONEOK Inc.
+Re: [perl #42359] [PATCH] Assorted cleanups - part III (Intel C++)
+[R] Subscript in axis label
+Re: [R] Reducing the size of pdf graphics files produced with R
+Re: [R] Extract p-value from survdiff function
+RE: patching 2.6.21 with speakup
+Re: [R] how to reproduce the same sampled units?
+[R] Perpendicular symbol in plotmath?
+[R] keyboard issue in R console
+Re: [R] Gaussian elimination - singular matrix
+Optimizing Genco Assets in New ERCOT Nodal Market  May 9-10 San Antonio
+Re: [R] Fwd: dmnorm not meant for 1024-dimensional data?
+automatic dependencies in Samba3?
+[R] Nonlinear constrains with optim
+[LH] Conclusion
+The CNN Political Ticker AM, Special Debate Edition
+Re: Error with Html code
+Re: [R] Value at Risk
+Iraq Funding Talks Hit Stalemate
+Re: [R] Refactor all factors in a data frame
+Re: [R] intersect more than two sets
+[R] NYC Area R / S / S-Plus Users Group Forming, Thursday,
+svn commit: samba r23440 - in
+Re: Problem with DELETE_ON_CLOSE open_file_ntcreate()?
+Re: [R] pseudo-R2 or GOF for regression trees?
+Re: [R] convergence of coxfilter and coxph
+Information for Netflix, Inc.
+PE Today: True Lou
+News Summary
+svn commit: samba r22671 - in
+Re: [R] Function to convert categorical variable in numerical
+Re: [R] trouble installing RWinEdt
+[R] So long, concord
+A little bit of SOAP
+Re: [R] Help about princomp
+Re: [R] export to a dat file that SAS can read
+syscall getpwnam and changing authetication on system
+[perl #42359] [PATCH] Assorted cleanups - part III (Intel C++) 
+Re: [R] world map matrix
+CNN Political Ticker AM, Tuesday, May 22, 2007
+Re: Final text of GPL v3
+[MailServer Notification]Attachment Blocking Notification
+Re: A computer issue, how should I deal with this? Best solution?
+Re: Final text of GPL v3
+Re: how to get references from imbricated capturing parenthesis ?
+Stock Quote Notification for Netflix, Inc.
+Re: svn commit: samba r22418 - in branches/SAMBA_3_0/source: .
+Tracy Smith: The Video Everyone Is Talking About
+Re: svn commit: samba r22132 - in branches:
+[R] How to get LSMEANS from linear mixed model?
+Re: Usenet messages are appearing on beginners@perl.org
+File Access + Thread Safe
+[PATCH] Re: [perl #42616] Parrot won't build with perl-5.6.
+[Slashdot] Stories for 2007-05-30
+Re: hash comparison ideas
+Re: [cc-devel] System License Tracking
+[R] Design matrix question
+svn commit: lorikeet r721 - in trunk/heimdal: appl/ftp/ftpd
+Re: slepc license
+Re: License-Question (expanded GPL)
+Rev 5357: add some comments in
+Re: new vs ->new
+Re: [R] Getting names of objects passed with "..."
+Re: [R] Reducing the size of pdf graphics files produced with R
+Re: [R] Repeat if
+Stock Quote Notification for NTELOS Holdings Corp.
+Re: Passing multiple mixed arguments to subs
+Re: [R] logical 'or' on list of vectors
+Re: [R] cat() to STDERR
+Re: [R] Problem with the installation of "install R" on Sun Solaris
+Re: Regarding pattern matching
+Stock Quote Notification for ONEOK Inc.
+Re: substitute and assign in one line
+In-Depth Introduction to Electricity Markets  June 25-26  Alexandria, VA
+[R] Random Number Generator of Park and Miller
+Re: Request for suggestions of DFSG-free documentation licences
+Stock Quote Notification for ONEOK Inc.
+svn commit: samba r22514 - in branches/SAMBA_4_0: .
+Re: Joining AD domain fails: "Failed to set servicePrincipalNames.
+Re: [cc-devel] Exempi, namespaces
+840p 6/10 Update: MMT considers EVA blanket repair; S3/S4 unberthed
+FNC Alert
+[sugar] [PATCH] services/presence/server_plugin: Use more
+Re: [R] BATCH
+Re: [R] icc from GLMM?
+[R] search path question
+Re: Rev 5367: Try bzr and, if this is a brz checkout, use bzr branch
+[sugar] Error building sugar (xapian-core)
+Search Intensifies for Missing Pregnant Woman
+Re: Fedora
+"Wait and See"
+svn commit: samba r23651 - in branches: SAMBA_3_0/source/libads
+[Slashdot] Headlines for 2007-05-11
+Jane Fonda Revealed!
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+TONIGHT ON SHOWBIZ TONIGHT - CNN HEADLINE PRIME 11pm ET/PT
+Re: [R] "R is not a validated software package.."
+Re: [R] Define tick mark width
+News & Views | 05.24.07
+CNN Alerts: bush
+Re: Jeez, what hassle.
+News Summary
+[perl #43002] [PATCH] Minor enhancements for kate syntax highlighting 
+svn commit: samba r23074 - in branches: SAMBA_3_0/source/nsswitch
+pantheon: Dictionary.com Word of the Day
+[R] A question regarding package development
+Re: [R] R Source Code
+Google Alert - bush
+[R] labels cut partially on hist
+Rev 224: changed the way set_call and attach are done so that you
+Re: Debian GNU/Linux (kfreebsd anyone?) Lenny Desktop wishlist
+Re: List Archives Link Broken
+Working offline/disconnected operation in winbindd using remote
+EPRI's Value and Risk in Energy Markets:=?iso-8859-1?B?oA==?= San Diego  June 19-20
+svn commit: samba r22183 - in branches/SAMBA_4_0/source: .
+Re: Question about devil-linux
+Re: email text
+Re: e-books and blind in UnitedStates of America
+Re: [R] Histograms of lots of variables
+Re: [R] Construct time series objects from raw data stored in csv
+[Ip-health] Brazil gets cut-price Aids drug
+[perl #42898] [PATCH] src/library.c , honor PARROT_PREFER_SOURCE in extension guessing 
+Advertisers pull sponsorship of Imus' show
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+Stock Quote Notification for NTELOS Holdings Corp.
+svn commit: samba r23052 - in branches/SAMBA_3_0_RELEASE: .
+[R] Fwd: How to obtain cointegrated relationship from ca.jo in urca
+Re: svn commit: samba r23241 - in branches: SAMBA_3_0/source/smbd
+FNC Alert
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+AccuWeather.com Alert(tm) Advisory  (avcavc)
+Re: [perl #43417] Should we change the API of functions just for real_exception()?
+Re: [R] how to pass "arguments" to a function within a function?
+Re: GRML installed to HD
+News Summary
+[R] subset
+Re: [R] Tools For Preparing Data For Analysis
+Re: [R] hi
+Re: svn commit: samba r22672 - in
+Re: svn commit: samba r22132 - in branches:
+using <sp> space in character classes
+Re: [R] Subsetting list of vectors with list of (boolean) vectors?
+Re: yum problems
+Rev 393: auto-restart NFS if its running when we release an IP in
+Re: [R] Construct time series objects from raw data stored in csv
+Re: [R] Getting and using a function
+[R] Catenating factors.
+News Summary
+Re: [R] [OT] Is data copyrightable?
+CNN Alerts: bush
+Re: Logo trademark license vs. copyright license
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+April 25, 2007
+Re: Consolidating kernel-related parts of opening a file?
+svn commit: samba r23650 - in branches: SAMBA_3_0/source/libads
+svn commit: samba r22578 - in branches/SAMBA_3_0/source: .
+[R] [Fwd: Re:  regular expression]
+Jail term for ex-White House aide
+Re: [R] RODBC query
+ot perhaps, spell checkers for pine?
+Scooter Libby Must Go to Jail
+FNC Alert
+Re: [R] Questions about bwplot
+Re: [perl #43041] [PATCH] don't run t/distro/file_metadata.t from release tarballs
+HowStuffWorks Lifestyle Newsletter April 12, 2007
+[perl #43085] [PATCH] Parrot::OpsFile::read_ops():  Can we refactor the setting of VERSION 
+RE: Speakup with LFS?
+Re: How to set FTP module time out?
+svn commit: samba r23343 - in branches: SAMBA_3_0/source/lib
+Re: [R] Retrieve part of (top right corner) of a "plot.data.frame"
+Re: Slackware 11 aliases, anyone?
+svn commit: samba r22434 - in branches/SAMBA_3_0_RELEASE:
+Re: [R] Tweaking my plot of matrix as image
+Delete a particular line from file
+Will Bush Negotiate Success in Iraq?
+Stock Notification for NTELOS Holdings Corp.
+Re: [R] String manipulation, insert delim
+[R] Odp:  sampling problem - new to R
+[R] problems with matrix, list and other..
+svn commit: samba r23512 - in branches: SAMBA_3_0/source/include
+HoA problem
+Re: [R] minimum of each row in a matrix
+Re: svn commit: samba r22370 - in branches/SAMBA_3_0_25/source: .
+FOXNews.com CEO NewsBrief - April 27, 2007
+Re: [R] Read Windows-like .INI files into R data structure?
+Re: [R] how to plot this?
+Re: [R] suppressing outliers in ggboxplot
+Re: [d@DCC] MS censors UN document
+Re: [perl #41908] [PATCH] 5 feature enhancement of src/library.c (extension guessing), and solutions for the install target problems
+OTC Derivatives and ISDA  June 13, 2007  Chicago
+[perl #42554] rsync server down? 
+Re: [R] [R-sig-Geo] Connecting to PostgreSQL/PostGIS from R (rgdal?)
+Re: snmp translate
+This Week in Health
+svn commit: samba r22161 - in
+Re: [Samba] Re: Win32 services management?
+svn commit: samba r23241 - in branches: SAMBA_3_0/source/smbd
+[sugar] test-ignore
+Re: Bug#420686: It's not obvious esniper is legal (violation of eBay ToS)
+Re: Killing a process created using system
+Re: svn commit: samba r22202 - in
+Re: [R] an array of matrices
+Re: [R] RODBC and Date/Time variables
+New SEC Document(s) for Netflix, Inc.
+Re: linux connection dying?
+About the headerizer
+[R] Extract p-value from survdiff function
+Re: [cc-community] Spread this number... the politics of code...
+Re: [R] recover history after crash in RGui
+AccuWeather.com Alert Forecast
+Re: Final text of GPL v3
+New SEC Document(s) for Napster
+[Ip-health] RE: [A2k] Microsoft's Brief on KSR vs. Teleflex
+Re: DECpc is silent
+[sugar] sqlalchemy?
+Rev 12006: Create pkgconfig dir. in
+svn commit: samba r22285 - in branches: SAMBA_3_0/source/param
+[Ip-health] IP Management and Innovation in Health: Handbook Published
+[R] permutation operator
+Ethernet card Problem
+EEI's 2007 Transmission and Wholesale Market School, July 9-13 Madison, WI
+Rev 76: fix configure for new test location in
+value of variable switches from ' ' to 'value'
+[PATCH] refactor Parrot_get_runtime_prefix, more simple,robust
+Re: [R] Representing a statistic as a colour on a 2d plot
+CBS SportsLine Daily Sports Report
+950a 6/12 Update: Solar array deploy on tap
+Re: 'x' vs. 'xx'
+[Reform] Adobe CS3 retail price $999.00 save - US $ 909.05
+Re: Conditional in regex
+Re: [R] R package development in windows
+Re: [R] matrix in data.frame
+Re: [R] recompile R using ActiveTcl
+[cc-community] Strayform - where artists and fans connect to fund
+Strategies for Bidding Ancillary Services in LMP Markets  June 6-7 Indianapolis
+popt/poptconfig.c
+Re: [R] extracting intercept from ppr fit
+Re: Bandwidth Generated
+[R] JGR and big list of packages.
+Re: [R] Help with pexp( )
+Re: [R] Installing SJava - problem
+svn commit: samba r22615 - in branches/SAMBA_3_0/source/modules: .
+June 5, 2007
+Rebel Serb leader convicted
+In The News: Britney Spears, Tom Poston, Barbra Streisand
+Re: [R] Extracting sums for individual factors in data frames
+Cosmonauts bypass power switch, reboot computers
+Re: speech-dispatcher rate and volume settings for espeak 1.25
+Re: a way to disable ADS in winbind in samba3
+CTDB and GFS.
+problem may be partially resolved.
+Re: [R] Changing graphics height when using grid and lattice
+Re: [cc-devel] [Cctools-cvs] SF.net SVN: cctools: [6089]
+[R] unit testing frameworks for R
+Re: Web Module (Was: Perl6 new features)
+Re: [PATCH 1/4] Make sure groups[0] is the effective gid on FreeBSD.
+Rev 343: paraoid check for empty db on attach in
+Re: I Hate find_vtable_meth_ns()
+[R] How to return more than one variable from function
+[R] Get the difference of values to their own median value
+Re: [sugar] gabble segfaults and how to reproduce them
+Re: [perl #42865] [BUG] There's no way to set a vtable function with
+Re: Web Module (Was: Perl6 new features)
+Re: [R] plot time series
+Re: [R] control axis
+Stock Notification for Netflix, Inc.
+Re: Problem with LARGE files
+Re: Parrot_get_runtime_prefix has a bad interface
+Re: [sugar] TamTam roundup.
+[R] The match of "ave()" for "FUN=SD"
+Re: parsing html data
+Re: [R] Reasons to Use R
+[R] Connecting to PostgreSQL/PostGIS from R (rgdal?)
+This Week in Health
+Re: [R] simulate values
+Severe error
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+Re: Request for suggestions of DFSG-free documentation licences
+Still More Startup Optimizations
+News Summary
+CNN Alerts: bush
+New SEC Document(s) for SatCon Technology Corporation
+TONIGHT ON SHOWBIZ TONIGHT- CNN HEADLINE PRIME 11pm ET/ 11pm PT
+[perl #43334] [TODO] config/gen/icu.pm:  Write unit tests 
+Re: [R] help interpreting the output of functions - any sources of
+Stock Notification for Netflix, Inc.
+Rev 12058: Set up all required environments before starting tests.
+CNN Alerts: bush
+[Ip-health] Drug makers fear trade deal from House Dems, administration
+[R] Non-linear constraints under Markowitz
+Re: [R] Is it possible to control R with S+?
+[R] connecting to running process possible?
+[R] Function call within a function.
+Re: [R] How to install RMySQL package in R 2.5 in Windows OS?
+Speech-Dispatcher vi CVS?
+Re: [Volker.Lendecke@SerNet.DE: automatic dependencies in Samba3?]
+[R] JOB: Biostatistician/Statistical Programmer/Data Analyst
+Re: Bacula: GPL and OpenSSL
+Re: Speakup kernel patch dropped from Ububtu Gutsy
+svn commit: samba r23453 - in branches/SAMBA_3_0_26/source: .
+Re: pci or USB synth
+svn commit: samba r22324 - in branches/SAMBA_4_0: services/samba
+CBS SportsLine Daily Sports Report
+Rev 163: merge from ronnie in http://samba.org/~tridge/ctdb
+[Slashdot] Headlines for 2007-06-24
+Re: Trying out Slackware
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+[R]  Parallel processes
+Re: [R] stringification magic in subset?
+[R] Question on package building
+Re: emu10k1 compilation problms.
+[perl #43347] [TODO] config/gen/cpu.pm:  Write unit tests 
+Re: [R] data frame
+[R] about stableFit() and hypFit() of fBasics package
+Re: [cc-community] introducing myself and an idea
+[R] system() and R BATCH
+Re: [LH] Kate Bush -- Bad Neighbor! (more details)
+FERC Electric 101 July 17-18  Denver, CO
+Re: [R] queries
+Re: [R] Simple programming question
+[R] =?windows-1251?b?0c3IxsXNyMUgwsXRwA==?=
+Re: TTSynth Is Available Again
+In-Depth Introduction to Electricity Markets June 25-26 Alexandria
+svn commit: samba r23684 - in branches/SAMBA_4_0/source/script: .
+cavort: Dictionary.com Word of the Day
+Re: CVS user name changed?
+Re: [sugar] Tinderbox results, 20070605-0145.
+Re: Final text of GPL v3
+[R] data in serial port... how to read
+Google Alert - bush
+[R] rect() does not work
+Wind Power Development Tutorial July 16-18 2007 Denver
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+Re: [R] Combine graphical and textual output
+[R] .jinit() problem
+FERC and CFTC Compliance on Energy Trading  July 24, 2007 =?iso-8859-1?B?LQ==?= Houston, TX
+AccuWeather.com Alert Forecast
+[R] How to create an R RPM from source
+Re: my deck of cards (once again)
+AccuWeather.com Alert Forecast
+[R] Estimates at each iteration of optim()?
+[R] Left/right hand side characters
+Re: svn commit: samba r22897 - in
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+svn commit: samba r23184 - in branches:
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: LVM2 + LUKS Installation Failure (netinstall) due to device-mapper
+svn commit: samba r23032 - in
+winbindd 32/64 offset issues
+Re: linux still dying;potential errors
+[LH] shrunken heads
+This week's component news: $23,000+ in prizes
+Re: i have a big problem with my rt2500 pci wireless
+Re: [R] Need Help: User Defined R Functions in Sweave/Latex
+Re: [R] GREP - Choosing values between two borders
+OOP
+Re: Encryption
+Re: [R] sorting in barplot
+Re: Request for GR: clarifying the license text licensing /  freeness issue
+[perl #42693] [BUG] method overload in pir subclass of pmc pccmethod leaves object undefined 
+Newsnight: Broken Society
+Stock Quote Notification for SatCon Technology Corporation
+Re: [LH] "She's Leaving Home"
+Re: Simple Encryption - what function/module could I use?
+Re: VmWare
+CNN Alerts: bush
+[R] A Question about "R"
+Re: [R] How does the r-distribution function work
+Re: [R] Survival statistics--displaying multiple plots
+[sugar] DBus .service files
+yet another regex
+svn commit: samba r22592 - in branches: SAMBA_3_0/source/modules
+Re: svn commit: samba r23689 - in branches/SAMBA_3_0/source: .
+[Ip-health] Spicy IP:  Delhi High Court on Preliminary injunctions and the presumption of validity of a 'new' patent
+Harry Smith: Courage On Campus
+Re: basename equivalent?
+Napster to Present at the Bear Stearns 18th Annual Technology, Communications and Internet Conference
+[R] termplot with uniform y-limits
+Re: [svn:perl6-synopsis] r14376 - doc/trunk/design/syn
+Rev 378: fixed more warnings on 64 bit boxes in
+Re: [R] convert text to exprission good for lm arguments
+60 Minutes E-mail Alert
+[R] where did the factor name go
+grml 1.0 and dectalk
+Re: [perl #42897] [PATCH] spelling fixes in src/library.c
+Re: [sugar] GComprisXO progress
+Re: Rev 5367: Try bzr and, if this is a brz checkout, use bzr branch
+The CNN Political Ticker PM, Monday, April 16, 2007
+Re: Fedora
+Re: [R] sem vs. LISREL: sem fails
+[Ip-health] UAEM National Day of Action
+AccuWeather.com Alert Forecast
+Re: [R] R's Spearman
+[R] (no subject)
+Re: [sugar] fix for 1846, sugar crashes when nick is whitespace
+Re: [R] Matlab end operator
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+svn commit: samba r22474 - in
+Re: [sugar] [PATCH] sugar.presence.presenceservice,
+Stock Quote Notification for ONEOK Inc.
+Rev 12009: Merge upstream. in file:///home/jelmer/bzr.samba/python/
+Rev 219: removed unnecessary variable in
+Stock Quote Notification for Napster
+[R] degrees of freedom in lme
+Re: Patch hunk rejection?
+Re: where is cfg2html
+Re: When sending a HUP signal isn't enough?
+svn commit: samba r23550 - in branches: SAMBA_3_0/source/lib
+Build status as of Tue Jun  5 00:00:03 2007
+Re: How to split a large string with repeating delimiters into multiple
+svn commit: samba r22792 - in
+svn commit: samba r23220 - in branches: SAMBA_3_0/source/include
+fedora livecd
+TopCoder(R) Single Round Match sponsored by AOL(R) - $5,000 Prize
+Re: [R] How to generate two dimensional random variable for normal
+[OT] Re: Thoughts on comments
+Your removal from the MORNINGGRIND list
+Re: Nothing on display after suspend/resume
+[Slashdot] Headlines for 2007-04-14
+Samba3 memory usage, iconv
+Bulk Power Transmission System - How It Works and How To Make It More Reliable  Aug 16-17 Washington DC
+svn commit: samba r23031 - in
+Re: [R] Reasons to Use R
+Re: switching from amd to p3
+Re: [cc-devel] Media Hosting Wishlist
+Re: Bug#431109: [PROPOSAL] Disambiguate of Section 12.5
+The Internet Patrol -  Internet Hoax Leads to Woman's House Being Gutted
+Alternatives to highly nested hashes
+Displaying of indentation
+DECTalk Express driver
+Re: Doubt about a government license
+Re: Proposal for a new CDD sub-project: Debian4Business
+Re: [R] normality tests  [Broadcast]
+Re: getting rid of mkproto.sh from Samba3
+Build status as of Fri Jun  8 00:00:02 2007
+[R] nlsList problems: control option does not effect output and
+Re: [R] upgrade to 2.5
+Re: [sugar] olpc-games osc protocol
+Re: [Proposed PATCH] Change libparrot Names and Locations
+Re: [R] Hotelling T-Squared vs Two-Factor Anova
+Energy Jobs Report: Current Postings
+Re: [R] weight
+[Ip-health] Letter from 12 House Members to USTR Asking for Release of KORUS
+Re: svn location for samba-docs is absent
+Re: [R] Two basic data manipulation questions (counting and
+Error on Debian distrib
+Wolfowitz decision gets pushed back
+Speakup reading keys in lynx
+Re: [R] Histograms of lots of variables
+Re: [R] negative number to positive number
+Rev 12125: Avoid use of typedefs,
+Stock Quote Notification for SatCon Technology Corporation
+Re: [perl #42359] [PATCH] Assorted cleanups - part III (Intel C++)
+Re: [sugar] Efficiently sharing content across mesh
+May 16, 2007
+Re: svn commit: samba r22810 -
+CBS News Sunday Morning: Designing our world
+Re: [perl #43089] [PATCH] Move src/ops/*.c function prototypes to the generated header files
+Re: [cc-community]
+Re: [Samba4] Making Samba4 winbind compatible to Samba3 winbind
+[Slashdot] Headlines for 2007-06-03
+Re: [R] 3D plots with data.frame
+[Slashdot] Headlines for 2007-04-30
+[R] epitools and R 2.5
+Re: [R] A coding question involving variable assignments in ifelse()
+Re: UTF-8/SA WORKAROUND only - NOT - a fix..
+svn commit: samba r22788 - in
+Re: [R] crosstabs in R?
+Stock Notification for Netflix, Inc.
+630a 6/21 Update: Russian computer test on tap; shuttle crew preps for entry
+Re: [R] Rearranging Capture History Data in R
+Re: [R] extracting text contained in brackets ("[ ... ]") from a
+svn commit: samba r22269 - in
+Re: [R] running Rcmdr
+[R] Integrating R-programs into larger systems
+About the headerizer
+Re: Final text of GPL v3
+Bet:  You've been selected to play in instant cash tournaments  
+svn commit: lorikeet r762 - in trunk/heimdal/lib/hx509: .
+Re: Dual screen and Macbook
+[R] graphing with barchart question
+[cc-devel] [ cctools-Patches-1745559 ] Reworked code to ignore
+[R] fSeries - Ox - ver: 240.10068 - Steps to make it work
+Re: Sony or Toshiba? (corrected)
+svn commit: samba r23638 - in branches/SAMBA_4_0/source/build/m4: .
+Re: [R] Building package: What does this message about rcompgen
+Re: using a homemade perl module
+[sugar] Tinderbox results, 20070613-1821-gutsy
+[Ip-health] Reuters: Thailand Fails to Win Over U.S. on Drug Patents
+[R] What is the maximum size of a matrix?
+[R] penalized cox regression
+Re: parsing a line
+Re: [R] ISwR library
+CNN Alerts: bush
+Re: svn commit: samba r22539 - in branches:
+[Ip-health] E.U. compulsory licence of Shell/BASF Targor Metallocene patent rights (2000 case)
+Re: [R] how to specify starting values in varIdent() of lme()
+Re: [R] My First Function: cryptic error message
+Re: CGI Header
+CVS user name changed?
+/s, /g and /m modifiers
+Re: [R] creating a function
+Re: Delete a particular line from file
+[R] Anova
+Re: [R] Viewing a data object
+svn commit: samba r22531 - in branches/SAMBA_4_0/source:
+Re: Copyright verification needed
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+svn commit: samba r23285 - in
+Re: discussion with the FSF: GPLv3, GFDL, Nexenta
+Re: License question: GPL+Exception
+Re: iso-8859-1 to unicode problem
+Re: DPL's view of debian-legal (was: Debian Trademarks Summary)
+Re: [R] Bad optimization solution
+President Bush Returns Home
+lug-owl.de mailing list memberships reminder
+MSN-list Digest, Vol 7, Issue 135
+[R] Accessing plots in Trellis graphics
+[sugar] i18n for python with gettext
+Parrot 0.4.13 "Clifton" Released
+Re: snmp translate
+Re: Broken ACPI with kernel 2.6.18-4-686 in HP nx6110 laptop
+[R] How to add e.g. lines to a zoo plot?
+Re: [svn:parrot-pdd] r19204 - trunk/docs/pdds
+Re: regexp ...
+svn commit: samba r22993 - in
+[R] RMySQL question, sql with R vector or list
+Re: [R] general question about plotting multiple regression results
+Re: [R] generating correlated Bernoulli random variables
+Rev 5358: fix segfault due to missing "static" - thanks Volker! in
+Rev 122: partial merge from volker (some overlaps removed) in
+Re: [sugar] eBook Reader user interface
+Re: [sugar] [patch][connect-activity] Update to high-level API in
+Rev 509: added logo in http://samba.org/~tridge/ctdb
+svn commit: samba r22998 - in
+svn commit: samba r22271 - in
+Re: [R] RODBC problem
+Re: [R] inverse cumulative distribution
+CNN Alerts: bush
+Re: linux connection dying
+Re: rsync port down in ftp.debian.org
+Re: Exporting Data to a file which can be read from Excel?
+three hds? is this possible?
+[svn:perl6-synopsis] r14402 - doc/trunk/design/syn
+Your daily e-mail from the BBC
+Stock Notification for SatCon Technology Corporation
+Re: [R] Extracting lists in the dataframe $ format
+Re: [STATUS] svn-bzr mirrors updating every 15 minutes now
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Stock Quote Notification for ONEOK Inc.
+Re: flock question
+Re: I Don't Understand The Context Allocation/Destruction Code
+CORRECTING and REPLACING SatCon Announces Certification of Its Photovoltaic PowerGate(R) Inverters for Commercial Photovoltaic Applications
+Re: [R] percentage in R
+svn commit: samba r22359 - in
+CBSNews.com News Alert! Senate Passes Iraq Withdrawal Timetable
+[R] Same scale on different q-q plots
+Re: [R] Batch processing in Windows
+Your daily e-mail from the BBC
+SatCon to present MicroGrid paper at the 2007 Electricity Storage Association Meeting
+Re: [R] "R CMD INSTALL in R 2.5.1 (2007-06-27)"
+Stock Notification for Napster
+News Summary
+Re: Enum
+Notification of forthcoming fastmail.fm account closure
+HowStuffWorks Science & Technology Newsletter June 25, 2007
+[Ip-health] WHO press release: Agreement reached on influenza virus sharing, intellectual property
+[svn:perl6-synopsis] r14382 - doc/trunk/design/syn
+Re: Dumping core?
+Re: Rev 11999: Start converting provision to python. in
+[Samba4][PATCH] Make torture/nsstest.c compile
+[R] read table
+quoted-printable characters
+Re: Request for GR: clarifying the license text licensing / freeness issue
+svn commit: samba r22209 - in branches: SAMBA_3_0/source/nsswitch
+Re: [R] Fwd: Re:  shell.exec() on Windows, unexpected behavior
+[R] MASS library rob.cov ellipse
+[R] Nonlinear Regression
+svn commit: samba r23266 - in
+Re: Thinkpad Saga Continues
+Villa searched in Madeleine hunt
+LWP useragent and SSL
+Re: Cam Aspire 3690
+[Ip-health] Thai CL news update
+Re: svn commit: samba r23283 - in
+Re: heretical thoughts was Re: Speakup dropped from Ubuntu
+[sugar] Sugar Presence Service broken
+Re: help with crafting proper license header for a dual-licensing
+verizon and debian
+Encryption
+Re: [PATCH] LOOKUP_NAME_EXPLICIT to avoid lockups between winbindd
+FNC Alert
+Re: Proposal for SAMBA_3_0/README.Coding
+Re: Removing decimal points
+svn commit: samba r22656 - in branches/SAMBA_3_0_26/source/libsmb: .
+FNC Alert
+info-ubxeqcd.pdf
+[R] question
+'Tremors' reported in Kent
+Re: Request for suggestions of DFSG-free documentation licences
+FNC Alert
+Re: Hash Key is a Null Value
+Re: [R] Tools For Preparing Data For Analysis
+Re: [R] S4 object slot of type 'call'
+AccuWeather.com Alert(tm) Forecast For User|AVCAVC
+Re: [R] help comparing two median with R
+svn commit: samba r22147 - in branches: SAMBA_3_0/source/modules
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: [R] Question: RMySQL bulk load/update one column,
+Re: Registry.tdb and tdb functionality document
+Re: Definitely unslung
+svn commit: samba-web r1101 - in trunk/team: .
+[Ip-health] AP: Brazil AIDS Drug Negotiations Break Down
+Re: Usenet messages are appearing on beginners@perl.org [perl #43141]
+[Ip-health] Congress Daily on FTAs & Thailand
+[R] Creatiing an R package for solving nonlinear system of
+[perl #42960] Re: [svn:parrot] r18547 - in trunk/src: . io pmc 
+Re: OT: Duplicate messages
+Re: [R] write
+Re: "valid users = domain_user" without specifying domain
+[Slashdot] Stories for 2007-06-16
+Exclusive iPhone Interview Up Now!
+Re: [R] repeated measures regression
+Re: svn commit: samba r22731 - in branches/SAMBA_3_0/source: . tests
+Rev 296: don't allow setvnnmap while not frozen in
+Re: CGI Header
+AccuWeather.com Alert Forecast
+[perl #42775] [PATCH] PLATFORMS update for Solaris/SPARC 
+the linux core;tutorials and etc
+svn commit: samba-docs r1098 - in trunk: manpages-3 smbdotconf/base
+Re: smb service discovery support
+unsuscribe
+Re: [R] to read table
+Stock Quote Notification for Netflix, Inc.
+Re: svn commit: samba r23117 - in branches: SAMBA_3_0/source
+Re: character encoding & regex
+Re: alsa questions?
+[R] Problems accessing Rconnect
+svn commit: samba r23675 - in branches/SAMBA_4_0/source/nsswitch: .
+[sugar] OLPC Typewriter
+Re: memcpy
+Re: [sugar] [PATCH] olpc.datastore.dbus_helpers: Stop
+Re: [R] graphics edge in win.metafile?
+pci or usb synth
+Re: [R] sequences
+[R] how to fit y=m*x
+Re: getting rid of mkproto.sh from Samba3
+svn commit: samba r23250 - in branches/SAMBA_3_0_26/source: include
+svn commit: samba r22988 - in
+Stock Quote Notification for Netflix, Inc.
+Re: [R] Filling array: No recycling
+Re: File test operators as Pairs
+Save money with OEM software [Newsletter Comp Version]
+Re: Bug#420686: It's not obvious esniper is legal (violation of eBay ToS)
+Re: [perl #42602] [PATCH] Cleanup of additional C++ keywords
+Re: [R] [SPAM] - Re: R package development in windows -
+Re: File::Spec->splitpath
+Re: [R] how to convert a string vector to a numeric vector
+Re: Unable to run perl script within cron
+[R] Empirical Likelihood
+Re: Parsing XML data
+Re: [perl #41894] segfault happens when invoking poll op
+Re: [R] reodering factor
+S05 :exhaustive eg
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: [PATCH] LOOKUP_NAME_EXPLICIT to avoid lockups between winbindd
+[R] help with executing instruction every i-th run of loop
+svn commit: samba r23295 - in branches: SAMBA_3_0/source
+The Skinny: Thursday May 3, 2007
+Re: Error with Html code
+Removing decimal points
+thanks mirror submitted,
+Re: Definitely unslung
+Re: writung to file
+svn commit: samba r23488 - in branches/SAMBA_4_0/source/kdc: .
+=?iso-8859-1?Q?=5BNS=5D_E-mail_Ecolatina_-_Trabalhos_T=E9cnicos?=
+CNN Alerts: bush
+Quick question on symbolic link support
+Re: [R] Rserve and R to R communication
+Re: [R] Character coerced to factor and I cannot get it back
+svn commit: samba r22946 - in branches/SAMBA_3_0_26/source: .
+News Summary
+Rev 261: merged vnn map broadcast from ronnie in
+[R] Sorting dataframe by different columns
+[R] Estimate new values from GLM (familiy=Gamma)
+Re: [R] generating correlated Bernoulli random variables
+Illegal use of undefined subroutine..
+Stock Quote Notification for Napster
+Rev 5370: Fix more linker dependencies. in
+FNC Alert
+CBS Evening News with Katie Couric E-Mail Alert
+How to eliminate the bareword error
+[Ip-health] Big Pay Deals Irk a CEO: One Swiss Executive,Wants National Vote,To
+Rev 448: merged from ronnie in http://samba.org/~tridge/ctdb
+Rev 312: merge from ronnie in http://samba.org/~tridge/ctdb
+CNN Breaking News
+[R] is there a function to give significance to correlation?
+Re: [R] xyplot() and controlling panel.polygon()
+Re: [R] density
+Re: [LH] Kate Bush's Cousin...
+Re: Removing lines
+Re: [R] \include-mechanism in Sweave?
+News Summary
+Re: errors when reinstalling kernel-2.6.19 on fedora core 6
+Stock Quote Notification for Netflix, Inc.
+Re: Simple Encryption - what function/module could I use?
+Re: Mixing array + scalars as parameters
+Re: [sugar] [PATCH][sugar.activity] When joining an activitythat's
+Re: [sugar] [PATCH] services/presence/server_plugin.py:
+re: hello
+svn commit: lorikeet r742 - in trunk/heimdal/kdc: .
+CC Sampling Plus 1.0
+[PATCH] Shadow Copy Improvements
+upgrading from apache to apache2 under debian
+CNN.com Daily Top 10
+Re: [R] Getting the last day of the month.
+Re: svn commit: samba r22202 - in
+Re: svn commit: samba r22869 - in branches:
+Re: [R] Got "Unexpected ELSE error"
+[R] How to use "mix" to estimate the parameters for mixture gamma
+Re: editing speech.conf
+svn commit: samba r22145 - in branches: SAMBA_3_0/source/smbd
+[R] Data consistency checks in functions
+Re: [svn:perl6-synopsis] r14421 - doc/trunk/design/syn
+Re: Software speech opinions
+svn commit: samba r22508 - in branches/SAMBA_4_0/source/dsdb/repl: .
+Traders: Patent News Just Released By OTCBB:WEGY!
+win2k3 to win98
+Stock Notification for NTELOS Holdings Corp.
+[Ip-health] "Red tape blocking medicine for Africa" (The Globe & Mail, April 18, 2007) -- Canada reviewing legislation on compulsory licensing for export
+i have a big problem with my rt2500 pci wireless
+CNN Alerts: bush
+Re: question on debian etch speakup net installation
+Re: Problems with dfs and Samba 3.0.24-5/3.0.25-7 - please help
+Re: [R] Open source community help-desks
+Re: Referring to source code within Perldoc: the new A<> code
+[Ip-health] Thailand's plans to issue CLs on cancer medicines moves forward
+Splitting a CSV file at a variable number
+Constants from Sub
+Google Alert - bush
+Re: [R] Drawing Tangent
+April 30, 2007
+Google Alert - bush
+[Ip-health] O Estado de Sao Paulo: Governo dos EUA lamenta decisao
+Energy Hedging & Trading/Realizing Maximum Value from Generation  May 8-11, 2007  Chicago
+Re: regular expression
+Stock Quote Notification for Netflix, Inc.
+[PATCH] extended RPC-WINREG test [Re: svn commit: samba r23578]
+fedora live and speech
+Re: Simplification of the code
+Re: Copyright verification needed
+Re: matching labels
+[R] spatial/ patches and gaps/ SADIE
+Re: Comparision of Git & Bzr [was Re: Short HOWTO on using git for
+Re: Bacula: GPL and OpenSSL
+Re: [R] Random Number Generator of Park and Miller
+"The Insider" - News Bulletin
+Re: [perl #42430] [PATCH] make :vtable imply :method
+Rev 11895: Make sure the right binaries are used. in
+Re: [R] Comparison: glm() vs. bigglm()
+Re: [R] Import from excel
+Re: [perl #43006] Tail call force-frees current context
+Re: BSD & MIT licenses compatible?
+Re: [SAMBA4] we should create just one test environment
+Re: [OT] Re: Attempting to update files blanks them instead
+about debian.crosslink.net
+AccuWeather.com Alert(tm) Forecast For User|AVCCVA
+Re: Logo trademark license vs. copyright license
+128.101.240.212 not in sync
+Re: Matching of filename regular expression (was:pr warn die question)
+svn commit: samba r22175 - in branches/SAMBA_3_0/packaging/RHEL: .
+Re: [R] Efficiently reading random lines form a large file
+Re: [cc-community] Multinational Profit Day
+Rev 264: fixed a problem with the number of timed events growing
+Rev 12126: Use talloc in loadparm. in
+Re: [R] is there a function to give significance to correlation?
+[perl #42620] PGE 'Out of memory' panics. 
+Re: [R] How to specify the start position using plot
+Rev 478: - added monitoring of rpc ports for nfs,
+Re: the joy of procmail was Re: off-topic posts
+Re: [R] replicates in repeated ANOVA
+Re: regexp ...
+Cabot Wealth Advisory 4/19/07 - Future's So Bright I've Got to Wear Shades
+News & Views | 05.03.07
+What modules should I use to transfer a video scrip through the net?
+Re: [Volker.Lendecke@SerNet.DE: automatic dependencies in Samba3?]
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Re: Nested loop
+creating hash from scalar variable
+T&D Asset Management  July 16-17  Charlotte, NC
+Re: 'Keys' Question
+Re: How to split a large string with repeating delimiters into multiple substrings
+Build status as of Wed Jun 20 00:00:02 2007
+Re: synaptic? what no opensource driver?
+Re: "Password must change" versus sambaPwdMustChange attribute
+[Ip-health] =?iso-8859-1?Q?China=B4postition_paper_on_IPR_Protection_at_the_G8_-_=28i?=
+Stock Quote Notification for Napster
+Re: [R] Overlaying lattice graphs (continued)
+Re: [R] A coding question involving variable assignments in ifelse()
+Re: Speech Dispatcher bugfixes, request for help with testing
+Re: [R] triangle contour plots
+Re: [R] ratio distribution - missing attachment
+Re: [R] graphics - wireframe
+Re: improving my code: array of references
+Re: [R] File path expansion
+[PATCH] Add a few clarifying comments about res_lea.c
+AccuWeather.com Alert Forecast
+Re: Iterate through a hashref using XML::Simple (real post)
+Re: [RFC] extension guessing, functionally better loader behavior 
+Natural Gas Futures End Slightly Lower After Storage Report
+Re: the linux core;tutorials and etc
+Re: Reading and matching email ids
+Re: svn commit: samba-docs r1120 - in trunk/smbdotconf/winbind: .
+Re: emu10k1 compilation problms.
+Re: [R] fractional calculations
+In The News: Anna Nicole Smith, Don Imus, Jason Wahler
+CNN.com Daily Top 10
+Re: [R] Changing working directory
+Fwd: [Vienna-pm] YAPC Europe 2007 Reminder - CFP and CFH Deadlines Approaching
+Rev 411: added CTDB_WAIT_DIRECTORIES support in
+memcpy
+Re: [R] logical 'or' on list of vectors
+News & Views | 05.15.07
+CNN Alerts: My Custom Alert
+Re: svn commit: samba r23558 - in branches/SAMBA_4_0/testprogs/ejs:
+Re: [R] nlme fixed effects specification
+[R] Two sample t.test, order of comparions
+Re: [R] stepAIC on lm() where response is a matrix..
+The Amnesty Debate in the Senate
+Re: testing depending on perl in Samba 3?
+[R] data frame
+=?iso-8859-1?Q?Today's_WeatherDirect_Forecast_for_Waterloo?=
+Rev 190: fixed typo in http://samba.org/~tridge/ctdb
+1050a 6/19 Update: Atlantis undocks from station
+[R] pointwise confidence bands or interval values for a non
+[R] automatic call generation for aov()
+Re: Stopping Speakup while using Gnome.
+Re: svn commit: samba r23322 - in branches/SAMBA_3_0_26/source: .
