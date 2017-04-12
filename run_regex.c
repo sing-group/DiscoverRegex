@@ -60,6 +60,9 @@
 
 #define nGenerations 30
 
+#define DEFAULT_SRC_TST_PATH "dst_trec07/tst/dup"
+#define DEFAULT_SRC_TRN_PATH "dst_trec07/trn/uniq"
+#define DEFAULT_NUM_FOLDERS 10
 #define MAX_POPULATION(x) ((x*50)/100)
 
 
@@ -74,6 +77,63 @@ int freePreCompiledRegex(any_t item, any_t data, any_t key){
     }
     return MAP_OK;
 }
+
+experiment *loadFilesFromDir(){
+    DIR *dp_tst = NULL; 
+    DIR *dp_trn = NULL;
+    experiment *toret  = NULL;
+    
+    struct dirent * tst_dir;
+    struct dirent * trn_dir;
+    int position = 0;
+    
+    if( (dp_tst = opendir(DEFAULT_SRC_TST_PATH)) == NULL || 
+        (dp_trn = opendir(DEFAULT_SRC_TRN_PATH)) == NULL ){
+        printlog(LOG_CRITICAL,"[MAIN]","Cannot open train or test directories\n");
+        return NULL;
+    }
+    
+    toret = createExpemimentData(DEFAULT_NUM_FOLDERS);
+    
+    while ( (tst_dir = readdir(dp_tst)) ){
+        int position = 0;
+        if ( !strcmp (tst_dir->d_name, ".") || !strcmp (tst_dir->d_name, "..") ) continue;
+        
+        if ( strstr(tst_dir->d_name,"_spam_.tst") != NULL ){
+            position = (int)(tst_dir->d_name[0] - '0');
+            //printf("'%s' inserted at position %d in SPAM TEST\n",tst_dir->d_name,position);
+            addTstSpamAt(toret,position,createString("%s/%s",DEFAULT_SRC_TST_PATH,tst_dir->d_name));
+        }else{
+            if ( strstr(tst_dir->d_name,"_ham_.tst") != NULL ){
+              position = (int)(tst_dir->d_name[0] - '0');
+              //printf("'%s' inserted at position %d in HAM TEST\n",tst_dir->d_name,position);
+              addTstHamAt(toret,position,createString("%s/%s",DEFAULT_SRC_TST_PATH,tst_dir->d_name));
+            }
+        }
+    }
+    
+    while ( (trn_dir = readdir(dp_trn)) ){
+        if ( !strcmp (trn_dir->d_name, ".") || !strcmp (trn_dir->d_name, "..") ) continue;
+
+        if ( strstr(trn_dir->d_name,"_spam_.trn") != NULL ){
+            position = (int)(trn_dir->d_name[0] - '0');
+            //printf("'%s' inserted at position %d in SPAM TEST\n",trn_dir->d_name,position);
+            addTrnSpamAt(toret,position,createString("%s/%s",DEFAULT_SRC_TRN_PATH,trn_dir->d_name));
+        }else{
+            if ( strstr(trn_dir->d_name,"_ham_.trn") != NULL ){
+                position = (int)(trn_dir->d_name[0] - '0');
+                //printf("'%s' inserted at position %d in HAM TEST\n",trn_dir->d_name,position);
+                addTrnHamAt(toret,position,createString("%s/%s",DEFAULT_SRC_TRN_PATH,trn_dir->d_name));
+            }
+        }
+    }
+    
+    closedir(dp_tst);
+    closedir(dp_trn);
+    return toret;
+}
+/*
+
 experiment *loadFilesFromDir(){
     experiment *toret  = NULL;
     
@@ -86,6 +146,7 @@ experiment *loadFilesFromDir(){
     
     return toret;
 }
+*/
 
 int isRegexMatch(element item, element data){
     regex_data *rData = (regex_data *)data;
@@ -180,7 +241,7 @@ int main(int argc, char** argv) {
     long int numGenerations = nGenerations;
     experiment *exp= NULL ;
     int i =0;
-      
+    
     start_logger(createLogSettings("run_regex.log",LOG_INFO,STDOUT,FILEOUT,STDOUT,FILEOUT), "run_regex");
     
     srand(time(NULL));
@@ -198,13 +259,14 @@ int main(int argc, char** argv) {
     
     for(i=0;i<getIterations(exp);i++){
         //INITIALIZING GENREGEX DATA
-        
         genInfo->breed->numSlots = 0;
         printlog(LOG_INFO,"[MAIN]","[1] - Starting Regex Generation from fold %d/%d\n",i+1,nGenerations);
         printlog(LOG_INFO,"[MAIN]","[1.1] - Loading training files '%s', '%s'\n",getTrnSpamAt(exp,i),getTrnHamAt(exp,i));
         genInfo->data=loadToFileData(getTrnSpamAt(exp,i),getTrnHamAt(exp,i));
+        //genInfo->data=loadToFileData("0._spam_30_.trn.txt","0._ham_30_.trn.txt");
         printlog(LOG_INFO,"[MAIN]","[1.2] - Loading testing files '%s', '%s'\n",getTstSpamAt(exp,i),getTstHamAt(exp,i));
         exp->test_emails=loadTstData(getTstSpamAt(exp,i),getTstHamAt(exp,i));
+        //exp->test_emails=loadTstData("0._spam_30_.tst.txt","0._ham_30_.tst.txt");
         genInfo->max_population=MAX_POPULATION(getStringVectorSize(getSpamLines(genInfo->data)));
         genInfo->precompiled_regex = hashmap_new();
         genInfo->population=new_dlinkedhashmap();
@@ -254,3 +316,4 @@ int main(int argc, char** argv) {
     free(genInfo);
     stop_logger();
 }
+
