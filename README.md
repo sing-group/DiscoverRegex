@@ -11,3 +11,5 @@ Automatic Generator of Regular Expressions.
     make all
 ```
 ## Operation mode
+
+![Screenshot](screenshot.png)
