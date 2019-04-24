@@ -5,5 +5,8 @@ Automatic Generator of Regular Expressions.
 
 * libpcre3-dev
 
-To install the application execute:
-    make;
+## Installation instructions
+
+```
+    make all
+```
