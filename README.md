@@ -12,4 +12,4 @@ Automatic Generator of Regular Expressions.
 ```
 ## Operation mode
 
-![Screenshot](screenshot.png)
+![Operation mode](operation_mode.png)
