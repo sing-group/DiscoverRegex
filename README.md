@@ -7,7 +7,7 @@ Automatic Generator of Regular Expressions.
 
 ## Installation instructions
 
-```
+```C
     make all
 ```
 ## Operation mode
@@ -16,7 +16,7 @@ Automatic Generator of Regular Expressions.
 
 ## Execution example
 
-```
+```bash
     sh discoverRegex  
 ```
 
