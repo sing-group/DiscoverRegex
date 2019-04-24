@@ -1,9 +1,9 @@
 # DiscoverRegex
 Automatic Generator of Regular Expressions.
 
-Dependencies:
+## Required libraries
 
-libpcre3-dev
+* libpcre3-dev
 
 To install the application execute:
     make;
